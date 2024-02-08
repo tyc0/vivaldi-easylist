@@ -1,0 +1,2 @@
+! vivaldi_android_annoyance_block.txt
+forum.joaoapps.com###awayMessage
