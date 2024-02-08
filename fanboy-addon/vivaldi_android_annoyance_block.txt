@@ -1,2 +1,8 @@
+[Adblock Plus 2.0]
+! Title: Vivaldi Android Annoyances
+! Last modified: 08 Feb 2024 08:50 UTC
+!
+!-------------Blocking filters for elements that obstruct browsing on mobile---------------!
 ! vivaldi_android_annoyance_block.txt
 forum.joaoapps.com###awayMessage
+forum.joaoapps.com###adinserttop
