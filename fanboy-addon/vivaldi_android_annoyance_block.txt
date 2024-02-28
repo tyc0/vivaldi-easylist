@@ -6,3 +6,22 @@
 ! vivaldi_android_annoyance_block.txt
 forum.joaoapps.com###awayMessage
 forum.joaoapps.com###adinserttop
+! reddit.com (mobile)
+reddit.com##.XPromoBlockingModal
+reddit.com##.XPromoPopup__overlay
+reddit.com##.XPromoBlockingModalRpl
+reddit.com##.PreviewDrawer
+reddit.com##.XPromoPopup
+reddit.com##.XPromoPill
+reddit.com##shreddit-experience-tree
+reddit.com##+js(aeld, block-body-scrolling)
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+reddit.com##.XPromoPopupRpl
+reddit.com##body:style(pointer-events:auto !important;)
+reddit.com##.XPromoInFeed
+amp.reddit.com##.AppSelectorModal__body
+reddit.com##+js(set-local-storage-item, xpromo-consolidation, 1)
+reddit.com##+js(rc, scroll-disabled, body, stay)
+amp.reddit.com##.upsell_banner
+!#if env_mobile
+reddit.com##body:style(overflow: auto !important;)
