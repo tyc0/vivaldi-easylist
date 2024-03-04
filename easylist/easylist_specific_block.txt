@@ -1,6 +1,6 @@
-/asgg.php$domain=ghostbin.me|paste.fo
 /assets/bn/movie.jpg$image,domain=vidstream.pro
 /resolver/api/resolve/v3/config/?$xmlhttprequest,domain=msn.com
+asgg.php$domain=ghostbin.me|paste.fo
 ||0xtracker.com/assets/advertising/
 ||123.manga1001.top^
 ||123animehub.cc/final
@@ -40,12 +40,12 @@
 ||amazon.com/aan/$subdocument
 ||amazonaws.com/cdn.mobverify.com
 ||amazonaws.com/jsstore/$domain=babylonbee.com
-||amazonaws.com^$domain=downloadpirate.com|hexupload.net|krunkercentral.com|uploadhaven.com
+||amazonaws.com^$domain=downloadpirate.com|hexupload.net|krunkercentral.com|rexdlbox.com|uploadhaven.com
 ||amcdn.co.za/scripts/javascript/dfp.js
 ||americanlookout.com////
 ||americanlookout.com/29-wE/
 ||androidauth.wpengine.com/wp-json/api/advanced_placement/api-$domain=androidauthority.com
-||animeland.tv/salapi2/
+||animeland.tv/zenny/
 ||animesuge.to/E/aircraftmighty.com/
 ||anisearch.com/amazon
 ||aontent.powzers.lol^
@@ -109,7 +109,7 @@
 ||cloudfront.net/ads/$domain=wdwmagic.com
 ||cloudfront.net/j/wsj-prod.js$domain=wsj.com
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.br|amazon.com.mx|amazon.com.tr|amazon.de|amazon.eg|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.nl|amazon.pl|amazon.sa|amazon.se|amazon.sg
-||cloudfront.net^$domain=titantv.com
+||cloudfront.net^$domain=rexdlbox.com|titantv.com
 ||cloudfront.net^*/sponsors/$domain=pbs.org
 ||coincheck.com/images/affiliates/
 ||coingolive.com/assets/img/partners/
@@ -152,8 +152,10 @@
 ||domaintyper.com/Images/dotsitehead.png
 ||dominicantoday.com/wp-content/themes/dominicantoday/banners/
 ||dontent.powzers.lol^
+||dontent.powzerz.lol^
 ||draftkings.bbgi.com^$subdocument
 ||drive.com.au/ads/
+||dsp.aparat.com^
 ||duplichecker.com/csds/
 ||dyncdn.me/static/20/js/expla
 ||e.cdngeek.com^
@@ -172,10 +174,12 @@
 ||engagesrvr.filefactory.com^
 ||engine.fxempire.com^
 ||engine.laweekly.com^
+||eontent.powzerz.lol^
 ||eteknix.com/wp-content/uploads/*skin
 ||etxt.biz/data/rotations/
 ||etxt.biz/images/b/
 ||eurochannel.com/images/banners/
+||europeangaming.eu/portal/wp-admin/admin-ajax.php?action=acc_get_banners
 ||everythingrf.com/wallpaper_live/
 ||exchangerates.org.uk/images/200x200_currency.gif
 ||excnn.com/templates/anime/sexybookmark/js/popup.js
@@ -183,7 +187,9 @@
 ||expats.cz/images/amedia/
 ||facebook.com/network_ads_common
 ||familylawweek.co.uk/bin_1/
+||fastapi.tiangolo.com/img/sponsors/$image
 ||fauceit.com/Roulette-(728x90).jpg
+||fentent.stre4mplay.one^
 ||fentent.streampiay.fun^
 ||fentent.streampiay.me^
 ||file-upload.site/page.js
@@ -195,6 +201,7 @@
 ||filerio.in/banners/
 ||files.im/images/bbnr/
 ||filmibeat.com/images/betindia.jpg
+||finish.addurl.biz/webroot/ads/adsterra/
 ||finviz.com/gfx/banner_
 ||fishki.net/code?
 ||fontent.powzers.lol^
@@ -216,6 +223,7 @@
 ||gamecopyworld.com/js/pp.js
 ||gamecopyworld.eu/ddd/
 ||gamecopyworld.eu/js/pp.js
+||gameflare.com/promo/
 ||gamer.mmohuts.com^
 ||ganjing.world/v1/cdkapi/
 ||ganjingworld.com/pbjsDisplay.js
@@ -239,13 +247,13 @@
 ||hltv.org/staticimg/*?ixlib=
 ||holyfamilyradio.org/banners/
 ||homeschoolmath.net/a/
+||hontent.powzers.lol^
 ||horizonsunlimited.com/alogos/
 ||hortidaily.com/b/
 ||hostsearch.com/creative/
 ||hotstar.com^*/midroll?
 ||hotstar.com^*/preroll?
 ||howtogeek.com/emv2/
-||howtogermany.com/images/bnr-
 ||i-tech.com.au/media/wysiwyg/banner/
 ||iamcdn.net/players/custom-banner.js
 ||iamcdn.net/players/playhydraxs.min.js$domain=player-cdn.com
@@ -259,6 +267,7 @@
 ||idlebrain.com/images5/sky-
 ||idrive.com/include/images/idrive-120240.png
 ||ientent.streampiay.fun^
+||igg-games.com/maven/
 ||ih1.fileforums.com^
 ||ii.apl305.me/js/pop.js
 ||illicium.web.money^$subdocument
@@ -287,6 +296,7 @@
 ||italiangenealogy.com/images/banners/
 ||itweb.co.za/static/misc/toolbox/
 ||itweb.co.za^*/sponsors
+||j8jp.com/fhfjfj.js
 ||jamanetwork.com/AMA/AdTag
 ||japfg-trending-content.uc.r.appspot.com^
 ||jentent.streampiay.fun^
@@ -348,8 +358,6 @@
 ||mp3fiber.com/*ml.jpg
 ||mpgh.net/idsx2/
 ||mrskin.com^$script,third-party,domain=~mrskincdn.com
-||musicatorrents.com^*/license.
-||musicatorrents.com^*/script.
 ||musicstreetjournal.com/banner/
 ||myabandonware.com/media/img/gog/
 ||myanimelist.net/c/i/images/event/
@@ -390,12 +398,13 @@
 ||pasteheaven.com/assets/images/banners/
 ||pastemagazine.com/common/js/ads-
 ||pastemytxt.com/download_ad.jpg
+||pcwdld.com/SGNg95BS08r9.js
 ||petrolplaza.net/AdServer/
 ||phonearena.com/js/ops/taina.js
 ||phuketwan.com/img/b/
 ||picrew.me/vol/ads/
 ||pimpandhost.com/mikakoki/
-||plagiarismdetector.net/img-pop/
+||plagiarismchecker.co/imgimg$image
 ||plainenglish.io/assets/sponsors/
 ||planetlotus.org/images/partners/
 ||player.twitch.tv^$domain=go.theconomy.me
@@ -447,6 +456,7 @@
 ||scrolller.com/scrolller/affiliates/
 ||search.brave.com/serp/v1/static/serp-js/paid/
 ||search.brave.com/serp/v1/static/serp-js/shopping/
+||searchenginereports.net/theAdGMC/$image
 ||sedo.cachefly.net^$domain=~sedoparking.com
 ||segmentnext.com/LhfdY3JSwVQ8.js
 ||sermonaudio.com/images/sponsors/
@@ -457,7 +467,7 @@
 ||siberiantimes.com/upload/banners/
 ||sicilianelmondo.com/banner/
 ||slickdeals.net/ad-stats/
-||smallseotools.com/webimages/*.gif
+||smallseotools.com/webimages/a12/$image
 ||smn-news.com/images/banners/
 ||socket.streamable.com^
 ||softcab.com/google.php?
@@ -467,6 +477,7 @@
 ||soundcloud.com/audio-ads?
 ||southfloridagaynews.com/images/banners/
 ||spike-plant.valorbuff.com^
+||sponsors.vuejs.org^
 ||sportlemon24.com/img/301.jpg
 ||sportshub.to/player-source/images/banners/
 ||spox.com/daznpic/
@@ -496,6 +507,7 @@
 ||taadd.com/files/js/site_skin.js
 ||taboola.com^$domain=independent.co.uk|outlook.live.com|technobuffalo.com
 ||tampermonkey.net/s.js
+||tashanmp3.com/api/pops/
 ||techgeek365.com/advertisements/
 ||techonthenet.com/javascript/pb.js
 ||techporn.ph/wp-content/uploads/Ad-
@@ -506,6 +518,7 @@
 ||theindependentbd.com/assets/images/banner/
 ||thephuketnews.com/photo/banner/
 ||theseoultimes.com/ST/banner/
+||thespike.gg/images/bc-game/
 ||thisgengaming.com/Scripts/widget2.aspx
 ||timesnownews.com/dfpamzn.js
 ||tontent.powzers.lol^
@@ -621,7 +634,7 @@
 ||cdn.ex.co^$third-party
 ||cdn.thejournal.ie/media/hpto/$image
 ||channelexco.com/player/$third-party
-||connatix.com^$third-party,domain=~accuweather.com|~elnuevoherald.com|~huffpost.com|~loot.tv|~miamiherald.com|~sacbee.com
+||connatix.com^$third-party,domain=~accuweather.com|~deadline.com|~elnuevoherald.com|~heraldsun.com|~huffpost.com|~loot.tv|~miamiherald.com|~sacbee.com
 ||delivery.vidible.tv/jsonp/
 ||dywolfer.de^
 ||elements.video^$third-party
@@ -697,12 +710,6 @@ $script,third-party,xmlhttprequest,domain=govid.co
 @@||hwcdn.net^$domain=canyoublockit.com
 |http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=canyoublockit.com
 |https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=canyoublockit.com
-! shink
-@@||ajax.googleapis.com/ajax/libs/$script,domain=shink.me|shon.xyz
-@@||cloudflare.com/ajax/$stylesheet,domain=shink.me|shon.xyz
-@@||maxcdn.bootstrapcdn.com^$stylesheet,domain=shink.me|shon.xyz
-|http://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=shink.me|shon.xyz
-|https://$image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=shink.me|shon.xyz
 ! up-4ever.com
 $script,stylesheet,third-party,xmlhttprequest,domain=up-4ever.net
 @@||ajax.googleapis.com^$script,domain=up-4ever.net
@@ -749,7 +756,9 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 @@||thepiratebay.*/static/js/scriptaculous.js$domain=thepiratebay.org
 @@||thepiratebay.org/*.php$csp,~third-party
 @@||thepiratebay.org/static/main.js$script,~third-party
-@@||torrindex.net^$image,script,stylesheet,domain=thepiratebay.org
+@@||torrindex.net/images/*.gif$domain=thepiratebay.org
+@@||torrindex.net/images/*.jpg$domain=thepiratebay.org
+@@||torrindex.net^$script,stylesheet,domain=thepiratebay.org
 ||thepirate-bay3.org/banner_
 ||thepiratebay.$script,domain=pirateproxy.live|thehiddenbay.com|thepiratebay.org
 ||thepiratebay.*/static/$subdocument

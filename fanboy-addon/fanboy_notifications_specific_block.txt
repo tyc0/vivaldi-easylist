@@ -37,6 +37,7 @@
 ||telegraphindia.com/akam-sw.js
 ||timesnownews.com/sw.js
 ||ultimedia.com/js/common/notification.js
+||weather.com/*.MedalliaSurvey.
 ! International
 ||0564.ua/assets/d6ade384/js/alertsWidget.js
 ||ad-hoc-news.de/js/push.js
@@ -48,9 +49,11 @@
 ||futura-sciences.com/clientscript/push.js
 ||horoscope.fr/notifications/
 ||metrobilbao.eus/firebase-messaging-sw.js
+||push.idowa.de^
 ||push.neko-san.fr^
 ||pushme.magellanotech.it^
 ||tio.ch/js/api.push.js
 ||tutto.tv/wp-content/plugins/plugin-notifiche-
 ! Mobile Notifications
+||tapcart.com/mobile-download-banner/banner-min.js
 !

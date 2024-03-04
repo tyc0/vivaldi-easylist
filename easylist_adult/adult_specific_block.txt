@@ -36,8 +36,9 @@
 ||analsexstars.com/og/
 ||anybunny.tv/js/main.ex.js
 ||anyporn.com/aa/
-||anysex.com/*oio/|$script
-||anysex.com/2-2-temparoryo/
+||anysex.com/*/js|
+||anysex.com/*/script|
+||anysex.com^$subdocument,~third-party
 ||asg.faperoni.com^
 ||atube.xxx/static/js/abb.js
 ||aucdn.net^$media,domain=clgt.one
@@ -45,6 +46,7 @@
 ||b1.tubexo.tv^$subdocument
 ||b8ms7gkwq7g.crocotube.com^
 ||babepedia.com/iStripper/
+||babepedia.com/iStripper2023/
 ||babesandstars.com/img/banners/
 ||babeshows.co.uk^*banner
 ||babesinporn.com^*/istripper/
@@ -78,6 +80,7 @@
 ||cams.imgtaxi.com^
 ||camvideos.tv/tpd.png
 ||camvideos.tv^$subdocument
+||cdn1.hentaitimes.com^
 ||cdn3x.com/xxxdan/js/xxxdan.vast.
 ||celeb.gate.cc/assets/bilder/bann
 ||cfgr3.com/videos/*.mp4$rewrite=abp-resource:blank-mp4,domain=hitbdsm.com
@@ -160,6 +163,7 @@
 ||ftopx.com/345.php
 ||ftopx.com/isttf558550ef6e.js
 ||ftopx.com/tf558550ef6e.js
+||fuwn782kk.alphaporno.com^
 ||galleries-pornstar.com/thumb_top/
 ||gamcore.com/ajax/abc?
 ||gay4porn.com/ai/
@@ -170,6 +174,7 @@
 ||gelbooru.com/extras/
 ||girlsofdesire.org/blr3.php
 ||girlsofdesire.org/flr2.js
+||girlsofdesire.org/flr6.js
 ||go.celebjihad.live^
 ||go.pornav.net^
 ||go.stripchat.beeg.com^
@@ -227,6 +232,7 @@
 ||imgdrive.net/xb02673583fb.js
 ||imgtaxi.com/frame.php
 ||imhentai.xxx/js/slider.js
+||inporn.com/8kl7mzfgy6
 ||internationalsexguide.nl/forum/clientscript/PopUnderISG.js
 ||interracial-girls.com/chaturbate/
 ||interracial-girls.com/i/$image
@@ -245,7 +251,7 @@
 ||javslon.com/clacunder.js
 ||javxnxx.pro/pscript.js
 ||jennylist.xyz/t63fd79f7055.js
-||jizzberry.com/654eb40079439pop/
+||jizzberry.com/65
 ||jo.4wank.com^
 ||joysporn.sex/js/kj.js
 ||justthegays.com/agent.php
@@ -264,6 +270,7 @@
 ||manga18fx.com/tkmo2023/
 ||manhwa18.cc/main2023/
 ||mansurfer.com/flash_promo/
+||manysex.com/ha10y0dcss
 ||marawaresearch.com/js/wosevu.js
 ||marine.xhamster.com^
 ||marine.xhamster.desi^
@@ -279,7 +286,8 @@
 ||momvids.com/player/html.php?aid=
 ||mopoga.com/img/aff_
 ||mylistcrawler.com/wp-content/plugins/elfsight-popup-cc/
-||mylust.com/342-0r0erwd4qjw
+||mylust.com/092-
+||mylust.com/assets/script.js
 ||mysexgames.com/pix/best-sex-games/
 ||mysexgames.com/plop.js
 ||myvideos.club/api/
@@ -298,10 +306,12 @@
 ||picshick.com/b9ng.js
 ||pimpandhost.com^$subdocument
 ||pisshamster.com/prerolls/
+||player.javboys.cam/js/script_
 ||pleasuregirl.net/bload
 ||plibcdn.com/templates/base_master/js/jquery.shows2.min.js
 ||plx.porndig.com^
 ||porn-star.com/buttons/
+||pornalin.com/skd
 ||porndoe.com/banner/
 ||porndoe.com/wp-contents/channel?
 ||pornerbros.com/lolaso/
@@ -329,9 +339,11 @@
 ||pornstargold.com/9f3e5bbb8645.js
 ||pornstargold.com/af8b32fc37c0.js
 ||pornstargold.com/e7e5ed47e8b4.js
+||pornstargold.com/tf2b6c6c9a44/
 ||pornv.xxx/static/js/abb.js
 ||pornve.com/img/300x250g.gif
 ||pornve.sexyadsrun.com^
+||pornxbox.com/cs/
 ||pornxp.com/2.js
 ||pornxp.com/sp/
 ||pornxp.net/spnbf.js
@@ -348,6 +360,7 @@
 ||puporn.com/xahnqhalt/
 ||pussycatxx.com/tab49fb22988.js
 ||pussyspace.com/fub
+||qovua60gue.tubewolf.com^
 ||rat.xxx/sofa/
 ||rat.xxx/wwp2/
 ||realgfporn.com/js/bbbasdffdddf.php
@@ -356,6 +369,11 @@
 ||redtube.fm/advertisment.htm
 ||redtube.fm/lcgldrbboxj.php
 ||rintor.space/t2632cd43215.js
+||rockpoint.xhamster.com^
+||rockpoint.xhamster.desi^
+||rockpoint.xhamster2.com^
+||rockpoint.xhamster3.com^
+||rockpoint.xhamster42.desi^
 ||rst.pornyhd.com^
 ||rtb-1.jizzberry.com^
 ||rtb-1.mylust.com^
@@ -365,6 +383,7 @@
 ||rule34hentai.net^$subdocument,~third-party
 ||rusdosug.com/Fotos/Banners/
 ||scatxxxporn.com/static/images/banners/
+||sdhentai.com/marketing/
 ||see.xxx/pccznwlnrs/
 ||sex-techniques-and-positions.com/banners
 ||sex3.com/ee/s/s/im.php
@@ -390,6 +409,7 @@
 ||sunporno.com/blb.php
 ||sunporno.com/sunstatic/frms/
 ||support.streamjav.top^
+||taoxh.life/*/vast?
 ||taxidrivermovie.com^$~third-party,xmlhttprequest
 ||tbib.org/tbib.
 ||teenporno.xxx/ab/
@@ -443,12 +463,13 @@
 ||xbooru.com/script/application.js
 ||xcity.org/tc2ca02c24c5.js
 ||xgirls.agency/pg/c/
-||xgroovy.com/6595d2ae9bda9oio/
+||xgroovy.com/65
 ||xgroovy.com/static/js/script.js
 ||xhamster.com*/vast?
 ||xhamster.desi*/vast?
 ||xhamster2.com*/vast?
 ||xhamster3.com*/vast?
+||xhamster42.desi*/vast?
 ||xhand.com/player/html.php?aid=
 ||xhcdn.com/site/*/ntvb.gif
 ||xis.vipergirls.to^
@@ -458,7 +479,8 @@
 ||xpics.me/everyone.
 ||xvideos.com/zoneload/
 ||xvideos.es/zoneload/
-||xvideos.name/pop.js
+||xvideos.name/istripper.jpg
+||xxxbox.me/vcrtlrvw
 ||xxxdessert.com/34l329_fe.js
 ||xxxfetish24.com/helper/tos.js
 ||xxxgirlspics.com/load.js

@@ -21,7 +21,6 @@
 @@||google-analytics.com/gtm/optimize.js$domain=focus.de
 @@||googleoptimize.com/optimize.js?$domain=eventim.de
 @@||gymnasedeburier.ch/themes/segment/js/$~third-party
-@@||img.adnz.co^$image,domain=finanzen.ch
 @@||kameleoon.eu/images/$domain=welt.de
 @@||kameleoon.eu/kameleoon.js$domain=welt.de
 @@||kameleoon.io/geolocation^$domain=welt.de
@@ -105,6 +104,7 @@
 !
 @@||3voor12.vpro.nl^*/streamsense.min.js$~third-party
 @@||ad.crwdcntrl.net^$script,domain=rtl.nl
+@@||gdh.postcodeloterij.nl/gdltm.js$domain=vriendenloterij.nl
 @@||marketingautomation.services^$script,domain=leeuwerik.nl
 @@||tag.aticdn.net/piano-analytics.js$script,domain=boerzoektvrouw.kro-ncrv.nl
 !
@@ -192,6 +192,7 @@
 @@||rt.rtoaster.jp^$image,domain=ec-store.net
 @@||rtoaster.jp/Rtoaster.js$domain=peachjohn.co.jp|satofull.jp
 @@||rtoaster.jp^$script,domain=ec-store.net|jreastmall.com|lexus.jp|melonbooks.co.jp
+@@||s.yimg.jp/images/listing/tool/cv/ytag.js$domain=redstoneonline.jp
 @@||s.yjtag.jp/tag.js$script,domain=baseball.yahoo.co.jp|bousai.yahoo.co.jp|soccer.yahoo.co.jp|www.epson.jp
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
@@ -228,6 +229,7 @@
 !
 @@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||hvemder.no/js/hitcount.min.js$~third-party
+@@||komplett.no/gtm.js$script,~third-party
 !
 !---------- Polish ----------
 !

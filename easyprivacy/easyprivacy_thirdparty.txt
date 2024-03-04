@@ -1,4 +1,5 @@
 -client-tracking.goodgamestudios.com/
+-wrapper-analytics-prod.cloudfunctions.net/
 ||100widgets.com^$third-party
 ||105app.com/report/?
 ||1558334541.rsc.cdn77.org^
@@ -32,6 +33,8 @@
 ||adfox.yandex.ru^
 ||adimo.co/api/tracking/
 ||adlog.com.com^
+||adnz.co/dmp/publisher.js
+||adnz.co/header.js
 ||adobedc.net/collector/
 ||ads-trk.vidible.tv^
 ||adsolutions.com^$third-party
@@ -84,7 +87,6 @@
 ||ampproject.org/preconnect.gif
 ||ams-pageview-public.s3.amazonaws.com^
 ||analyse.bcovery.com^
-||analyse.lnearn.com^
 ||analytic.rollout.io^
 ||analytic.xingcloud.com^$third-party
 ||analyticcdn.globalmailer.com^
@@ -422,6 +424,7 @@
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||cdn-channels-pixel.ex.co^
 ||cdn-ds.com/analytics/
+||cdn.one.store/xdomain_cookie.html
 ||cdn.sourcesync.io/open-pixel/source-pixel.js
 ||cdn.usefathom.com^
 ||cdnjs.work/metrics.js
@@ -537,6 +540,7 @@
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
 ||collect.alphastream.io^
+||collect.analyse.lnearn.com^
 ||collect.bannercrowd.net^
 ||collect.cloudsponge.com^
 ||collect.igodigital.com^
@@ -579,6 +583,7 @@
 ||connect.bolt.com/v1/log
 ||connect.facebook.net/signals/$third-party
 ||connect.facebook.net^*/fbds.js$third-party
+||connect.facebook.net^*/pcm.js$third-party
 ||connect.idocdn.com^
 ||connext-cdn.azureedge.net^
 ||consensu.org/?log=
@@ -894,7 +899,6 @@
 ||flashstats.libsyn.com^
 ||flex.msn.com/mstag/
 ||flipp.com/beacons
-||flippback.com/m/config
 ||flix360.com/beat?
 ||flixcar.com/*/tracking/
 ||flixcar.com/gvid
@@ -958,7 +962,6 @@
 ||geo.gorillanation.com^
 ||geo.mezr.com^
 ||geo.ngtv.io^
-||geo.q5media.net^
 ||geo.query.yahoo.com^$~xmlhttprequest,domain=~mail.yahoo.com
 ||geo.thehindu.com^
 ||geobar.ziffdavisinternational.com^
@@ -982,6 +985,7 @@
 ||glam.com^*/log.act?
 ||gleam.io/seen?
 ||gleam.io^$script,third-party
+||global.localizecdn.com/api/lib/*.gif?
 ||global.ssl.fastly.net/native/
 ||gml-grp.com^*&affid=$subdocument,third-party
 ||go.activengage.com^
@@ -1064,6 +1068,7 @@
 ||hydro-ma-proxy.akamaized.net^
 ||hypercomments.com/widget/*/analytics.html
 ||i.compendium.com^
+||i.posthog.com^
 ||i.s-microsoft.com/wedcs/ms.js
 ||i.viafoura.co^
 ||iabusprivacy.pmc.com^
@@ -1257,7 +1262,6 @@
 ||log.nordot.jp^
 ||log.olark.com^
 ||log.outbrain.com^
-||log.outbrainimg.com^
 ||log.pinterest.com^
 ||log.reformal.ru^
 ||log.seekda.com^
@@ -1420,6 +1424,7 @@
 ||neon-lab.com/neonbctracker.js
 ||net-tracker.notolytix.com^$third-party
 ||netbiscuits.net^*/analytics/
+||netclick.io/pixel/
 ||netdna-ssl.com/tracker/
 ||netlify-rum.netlify.app^
 ||netne.net/stats/
@@ -1441,6 +1446,7 @@
 ||noflake-aggregator-http.narvar.com^
 ||nojscontainer.pepperjam.com^$third-party
 ||nol.yahoo.com^
+||notyf.com/pixel/
 ||nova.dice.net^
 ||nr.static.mmcdn.com^
 ||ns-cdn.com^*/ns_vmtag.js
@@ -1521,6 +1527,7 @@
 ||paypal.com/xoplatform/logger/api/logger
 ||paypal.com^*/pixel.gif$third-party
 ||paypalobjects.com^*/pixel.gif
+||pbjs-stream.bydata.com^
 ||pcrl.co/js/jstracker.min.js
 ||pega.com/logserver
 ||pegasus.unifygroup.com^
@@ -1811,6 +1818,7 @@
 ||soccer.ru/counter/
 ||socialannex.com/c-sale-track/$script
 ||solutions.invocacdn.com^
+||soundestlink.com/rest/forms/v2/track/
 ||soundestlink.com/REST/forms/v2/track/view?
 ||sourceforge.net/tracker/$~xmlhttprequest
 ||sp-wukong-tracker.b-cdn.net^
@@ -2194,6 +2202,7 @@
 ||tracking.wisepops.com^
 ||tracking1.brandmentions.com^
 ||tracking2.channeladvisor.com^
+||trackingapi.trendemon.com/api/events/pageview?
 ||trackjs.com/agent/$script,third-party
 ||trackjs.com/releases/current/tracker.js
 ||trackjs.com/usage.gif?
@@ -2263,7 +2272,6 @@
 ||usizy.com/external/pageview
 ||utils.global-e.com/set?
 ||utt.pm/utm/
-||v-h.tv/pixel/
 ||v.shopify.com^
 ||va.tawk.to/log
 ||validate.onecount.net^$image
@@ -2281,6 +2289,7 @@
 ||vidazoo.com/aggregate?
 ||vidazoo.com/event/
 ||video-ad-stats.googlesyndication.com^
+||video-analytics-api.cloudinary.com^
 ||video-cdn.net/event?
 ||video.google.com/api/stats/
 ||videoevents.outbrain.com^
@@ -2360,6 +2369,7 @@
 ||widget.educationdynamics.com^
 ||widgetbox.com/syndication/track/
 ||widgethost.com/pax/counter.js?
+||widgets.outbrain.com/widgetMonitor/
 ||widgets.sprinklecontent.com/v2/sprinkle.js
 ||widgetserver.com/metrics/
 ||widgetserver.com/t/
@@ -2376,6 +2386,7 @@
 ||workers.dev/js/script.js
 ||worldssl.net/reporting.js
 ||worldztool.com^*/dotraceuser.php
+||wp-engage.org/api/v5/post/activity/log/
 ||wp.com/i/mu.gif$image
 ||wp.com/wp-content/js/bilmur.min.js
 ||wren.condenastdigital.com^
@@ -2383,6 +2394,7 @@
 ||ws.sharethis.com^$script
 ||wsmcdn.audioeye.com^
 ||wspisp.net/logger.php
+||wstats.slashed.cloud^
 ||wt.viagogo.net^
 ||wtbevents.pricespider.com^
 ||wtr-digital-analytics.ew.r.appspot.com^
@@ -2445,7 +2457,6 @@
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
-||d1clfvuu2240eh.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f0tbk1v3e25u.cloudfront.net^
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.

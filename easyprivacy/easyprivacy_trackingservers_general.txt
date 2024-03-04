@@ -29,6 +29,7 @@
 ||altopd.com^
 ||analys.live^
 ||analysis.fi^
+||analyt.ir^
 ||anonstat.pw^
 ||apeagle.io^
 ||apenterprise.io^
@@ -186,6 +187,7 @@
 ||k5a.io^
 ||krxd.net^
 ||kspotson.de^
+||ldgnrtn.com^
 ||ldnlyap.com^
 ||leadhit.io^
 ||liveyield.com^
@@ -203,6 +205,7 @@
 ||mb-tracking.com^
 ||mcangelus.com^
 ||mdhv.io^
+||mdstats.info^
 ||mediamathrdrt.com^
 ||mirabelanalytics.com^
 ||mitour.de^
@@ -261,6 +264,7 @@
 ||rapidpanda.io^
 ||rapidzebra.io^
 ||realtimely.io^
+||reportic.app^
 ||rezync.com^
 ||rfpx1.com^
 ||rkdms.com^
@@ -290,6 +294,7 @@
 ||stat.ovh^
 ||statisticplatform.com^
 ||statisticsplatform.com^
+||stats.rip^
 ||summerhamster.com^
 ||superpointlesshamsters.com^
 ||t13.io^
@@ -310,6 +315,7 @@
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
+||trkapi.impact.com^
 ||trkbc.com^
 ||trkn.us^
 ||tru.am^

@@ -62,7 +62,7 @@ nolotiro.org#@#.ad-hero
 wallpapers.com#@#.ad-holder
 transparencyreport.google.com#@#.ad-icon
 flat-ads.com,lastpass.com#@#.ad-img
-dbook.docomo.ne.jp,docomo.ne.jp#@#.ad-label
+docomo.ne.jp#@#.ad-label
 guloggratis.dk#@#.ad-links
 so-net.ne.jp#@#.ad-notice
 so-net.ne.jp#@#.ad-outside
@@ -110,6 +110,7 @@ epawaweather.com#@#.adrow
 gemini.yahoo.com#@#.ads
 in.fo#@#.ads-banner
 bdsmlr.com#@#.ads-container
+happyend.life#@#.ads-core-placer
 ads.nipr.ac.jp,burzahrane.hr#@#.ads-header
 heatware.com#@#.ads-image
 t3.com#@#.ads-inline
@@ -120,7 +121,7 @@ fireload.com#@#.ads-mobile
 juicesky.com#@#.ads-title
 pop-music.ir#@#.ads-top
 mastersclub.jp#@#.ads.widget
-getwallpapers.com,wallpaperaccess.com,wallpaperset.com#@#.ads1
+getwallpapers.com,wallpaperaccess.com,wallpapercosmos.com,wallpaperset.com#@#.ads1
 jw.org#@#.adsBlock
 cars.mitula.ae#@#.adsList
 trustnet.com#@#.ads_right
@@ -169,7 +170,7 @@ stuff.tv#@#.c-ad
 thedigestweb.com#@#.c-ad-banner
 deployhappiness.com,dmitrysotnikov.wordpress.com,faravirusi.com,freedom-shift.net,lovepanky.com,markekaizen.jp,netafull.net,photopoint.com.ua,posh-samples.com#@#.category-ad:not(html):not(body)
 business-hack.net,clip.m-boso.net,iine-tachikawa.net,meihong.work#@#.category-ads:not(html):not(body)
-accuweather.com#@#.cnx-player-wrapper
+accuweather.com,deadline.com,heraldsun.com#@#.cnx-player-wrapper
 studio55.fi#@#.column-ad
 huffpost.com#@#.connatix-wrapper
 fontspace.com,skyrimcommands.com#@#.container-ads
@@ -201,6 +202,7 @@ thespruce.com#@#.mntl-leaderboard-spacer
 sankei.com#@#.module_ad
 seura.fi,www.msn.com#@#.nativead
 dogva.com#@#.node-ad
+france24.com#@#.o-ad-container
 bloomberg.com#@#.page-ad
 rottentomatoes.com#@#.page_ad
 player.ex.co,theautopian.com#@#.pbs__player

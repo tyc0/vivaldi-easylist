@@ -23,6 +23,8 @@
 ||bz-berlin.de/_stats/
 ||chartsurfer.de/js/mtm.js
 ||chartsurfer.de/uscoll.php?
+||chefkoch-cdn.de/agf/agf.js
+||chefkoch.de/search/tracking/
 ||chefkoch.de/tracking/
 ||click.alternate.de^
 ||cmp2.channelpartner.de^
@@ -106,6 +108,7 @@
 ||rt.bunte.de^
 ||schnaeppchenfuchs.com/js/default-
 ||shoop.de/mgtrx/
+||sparkasse.de/frontend/setTrackingCookie.htm
 ||sportnews.bz/pcookie?
 ||spreewaldkarte.de/t.gif
 ||sqs.quoka.de^
@@ -115,7 +118,6 @@
 ||ss.photospecialist.de^
 ||statistic2.reichelt.de^
 ||statistics.riskommunal.net^
-||statistik.mitmischen.de^
 ||stats.autoscout24.ch^
 ||stats.rocketbeans.tv^
 ||stats.sumikai.com^
@@ -212,6 +214,7 @@
 ||analytics.allovoisins.com^
 ||analytics.clubic.com^
 ||api.odysee.com/locale/get
+||api.ouedkniss.com^*&xTrackId=
 ||api.tacotax.fr/v2/amplitude_trackers
 ||batiactu.com/cap_
 ||bmly.impots.gouv.fr^
@@ -229,10 +232,10 @@
 ||easeus.com/default/js/aff_buy_tracking.js
 ||ecranlarge.com/stat
 ||email.nautiljon.com/oo/$image
-||eum2.caisse-epargne.fr^
 ||events-logs.doctolib.com^
 ||flow.kiloutou.fr^
 ||fourchette-et-bikini.fr/core/modules/statistics/
+||fr.shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
 ||fsm.lapresse.ca^
 ||gamergen.com/ajax/actualites/addVue
 ||hits.porn.fr^
@@ -240,9 +243,11 @@
 ||ianimes.org/img/tracker.gif
 ||igen.fr/modules/statistics/statistics.php
 ||insights.decathlon.net^
+||iphoneaddict.fr/wp-content/*/counter.php
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
 ||kwgs.letudiant.fr^
+||l.nicematin.com/pv.js
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-sentry/lc-sentry.js
 ||lacoccinelle.net/tools.js
@@ -264,6 +269,8 @@
 ||marmiton.org/reloaded/errpix.php
 ||medoucine.com/tracking/
 ||neko-san.fr/stats
+||ouest-france.fr/v1/javascripts/*-googletag-
+||ouest-france.fr/v1/javascripts/*-prebid-
 ||p.pagesjaunes.fr^
 ||paruvendu.fr/*/stats/
 ||pixel.dugwood.com^
@@ -277,10 +284,11 @@
 ||serv.letudiant.fr^
 ||shemsfm.net/ar/setStats/
 ||shemsfm.net/fr/setStats/
-||shopping.rakuten.com/rakuten-static-deliver/mob/*/js/track.js
 ||sncf-connect.com/apm
 ||sncf-connect.com/bff/api/v1/t/events
 ||space-blogs.net/include/counter/
+||sta.extreme-down.
+||sta.wawacity.
 ||sta.zone-telechargement.
 ||stat.ouedkniss.com^
 ||stats*.credit-cooperatif.coop^
@@ -310,6 +318,7 @@
 ||s3r.zerkalo.io^
 ||zerkalo.io/stat/
 ! Arabic
+||khamsat.com/ajax/account_stats?
 ||mosoah.com/analytics.js
 ||tags.aljazeera.net^
 ! Bosnian
@@ -332,7 +341,6 @@
 ||alicdn.com/f/pcdn/i.php?
 ||ams.lelong.com.my^
 ||analytics-gw.games.wanmei.com^
-||analytics.126.net^
 ||analytics.163.com^
 ||analytics.cnblogs.com^
 ||analytics.oceanengine.com^
@@ -379,6 +387,7 @@
 ||gentian-frd.hjapi.com^
 ||gia.jd.com^
 ||gk.sina.cn^
+||h5.analytics.126.net^
 ||h5log.zongheng.com^
 ||hisense.com/ta.js
 ||hktvmall.com/api/event
@@ -398,7 +407,6 @@
 ||js.ea3w.com/pv.js
 ||kn007.net/snmp.php
 ||le.com/op/
-||log.aliyuncs.com^
 ||log.bitauto.com^
 ||log.flight.qunar.com^
 ||log.m.sm.cn^
@@ -524,7 +532,6 @@
 ||track.tom.com^
 ||trackcommon.hujiang.com^
 ||tracker.ai.xiaomi.com^
-||trackjay.cool3c.com^
 ||trail.53kf.com^
 ||uestat.video.qiyi.com^
 ||utrack.hexun.com^
@@ -568,12 +575,10 @@
 ||cc.dalten.cz^
 ||jslog.post.cz^
 ||o2.cz^*-ga_o2cz_bundle.js?
-||report.novinky.cz^
 ||stat.super.cz^
 ||statistics.csob.cz^
 ! Dutch
 ||2dehands.be/px/
-||aa.hwigroup.com^$domain=hardware.info
 ||analytics.rambla.be^
 ||api.rtl.nl/monitoring/
 ||bc34.wijnvoordeel.nl^
@@ -751,7 +756,6 @@
 ||ppcdn.it/iol/tracklib.3.js
 ||raiplay.it/tracking/
 ||repstatic.it^*/nielsen_static_mapping_repubblica_
-||sa.sky.it^
 ||seat.it/cgi-bin/getcod.cgi?
 ||servizi.unionesarda.it/controlli/
 ||smsaffari.it/count_new.php?
@@ -795,6 +799,8 @@
 ||amazonaws.com/ai-img/aia.js
 ||ameba.jp/cookie/
 ||ameblo.jp/accesslog/
+||analysis.aws.locondo.jp^
+||analytics.castel.jp^
 ||analytics.cocolog-nifty.com^
 ||analytics.ikyu.com^
 ||analytics.tver.jp^
@@ -827,11 +833,14 @@
 ||dxlive.com/js/dtrace.js
 ||eq-beacon.stream.co.jp^
 ||eq-player-log.cdnext.stream.ne.jp^
+||event.lib.visumo.io/js/hbn_track.js
 ||fensi.plus^*/tracking/
+||fspark-ap.com/ft/analytics_log
 ||g123.jp/stats?
 ||game-i.daa.jp/skin/analytics.php
 ||gizmodo.jp/api/SurveyCountCollection?
 ||goo.ne.jp^*/vltracedmd.js
+||gtm.diamond.jp^
 ||hatarako.net/api/recommend/analyze_logger
 ||i2i.jp/bin/
 ||img.syosetu.org/js/c_
@@ -866,13 +875,14 @@
 ||rec1.smt.docomo.ne.jp/bcn_access_log/
 ||recv-entry.tbs.co.jp^
 ||recv-jnn.tbs.co.jp^
+||recv.tbs.co.jp^
 ||retty.me/gen204.php
 ||retty.me/javascripts/common/logging.js
+||revico.jp/providejs/revico_tracking.js
 ||revive-chat.io/js/tracking-min.js
 ||rtm-tracking.zozo.jp^
 ||sankei.co.jp/js/analytics/
 ||scinable.net/access?
-||scis.tbs.co.jp^
 ||seesaawiki.jp/img/rainman.gif?
 ||so-zou.jp/js/ga.js
 ||stats.nhk.or.jp^
@@ -882,6 +892,7 @@
 ||tekoki-fuzoku-joho.com/js/ALinkPrepare_
 ||tower.jp/bundle/beacon
 ||track.buyma.com^
+||tracking.ai.rakuten.co.jp^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^
 ||travel.co.jp/js/analysis.js
@@ -889,6 +900,7 @@
 ||tsite.jp/static/analytics/
 ||tv-asahi.co.jp/official/logging?
 ||view.fujitv.co.jp^
+||visumo.jp/Content/js/tracking.js
 ||wowow.co.jp/API/new_prg/get_tracking_url.php
 ||x.allabout.co.jp^
 ||yahoo.co.jp/b?p=
@@ -921,6 +933,7 @@
 ||log.zdnet.co.kr^
 ||naver.com/PostView.nhn?$image
 ||nil.naver.com^
+||nlog.naver.com^
 ||pds.auction.co.kr^
 ||rake.11st.co.kr^
 ||seoul.co.kr/weblog/
@@ -963,8 +976,15 @@
 ||data.nrk.no^
 ||nrk.no^*/stats/
 ||stats.proff.no^
+||stm.komplett.no^
 ||tdep.hema.nl/main.js
 ||vg.no/stats/
+! Persian
+||abadis.ir/ajaxcmd/setvisit/
+||abadis.ir/ajaxcmd/stat/
+||aparat.com/gogol/
+||namnak.com/act/stats.json
+||namnak.com/ga.js
 ! Polish
 |http://x.o2.pl^
 ||analytics.gazeta.pl^
@@ -1195,9 +1215,9 @@
 ! Swedish
 ||aftonbladet.se/cnp-assets/glimr-sdk.js
 ||ai.idg.se^
-||analytics.elx.cloud^
 ||ax.idg.se^
 ||blocket.se/js/trafikfonden.js
+||bonmed.se/monitoring?
 ||falkenbergtorget.se/sc.gif?
 ||fusion.bonniertidskrifter.se^
 ||gx.idg.se^

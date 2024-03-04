@@ -30,6 +30,7 @@
 ||clickiocmp.com^$third-party
 ||clickskeks.at^$third-party
 ||cloudstorage.secureserver.net/recomm-apps-upm/
+||cm.nxtm.pl^$third-party
 ||cmp.gemius.com^
 ||cmp.quantcast.com/choice/*/www.themoneytizer.com/choice.js
 ||cmp.setupcmp.com^
@@ -54,6 +55,7 @@
 ||cookie-script.com^$third-party
 ||cookie.consents.app^
 ||cookie.pearshealthcyber.com^
+||cookie.pii.ai^$third-party
 ||cookie.support^$third-party
 ||cookieapi.incomit.dk^
 ||cookieapi2.incomit.dk^
@@ -73,6 +75,7 @@
 ||cookiemanager.onm.de^
 ||cookiemanager1.contentforces.com^$third-party
 ||cookiemonster.is^$third-party
+||cookiepop.app^$third-party
 ||cookieq.com^$third-party
 ||cookiereports.com^$third-party
 ||cookies.fo^$third-party
@@ -153,7 +156,7 @@
 ||privacy-center.org^$third-party
 ||privacy.clion.agency^$third-party
 ||privacy.digimedia.com^
-||privacy.wum.rocks^
+||privacy.wum.rocks/public/app.js
 ||privacybee.com^$third-party
 ||privacylab.it^$third-party
 ||privacymanager.io^$third-party
@@ -203,6 +206,6 @@
 ||wpcc.io^$third-party
 ||x-c.eu^$third-party
 ! privacy-mgmt.com
-||cdn.privacy-mgmt.com^$domain=anisearch.com|anisearch.de|anisearch.es|anisearch.fr|anisearch.it|anisearch.jp|consent-manager.ft.com|idealo.co.uk|marketwatch.com|startsiden.no|taz.de|wsj.com
+||cdn.privacy-mgmt.com^$domain=anisearch.com|anisearch.de|anisearch.es|anisearch.fr|anisearch.it|anisearch.jp|consent-manager.ft.com|idealo.co.uk|marketwatch.com|popsci.com|startsiden.no|sussexexpress.co.uk|taz.de|wsj.com
 ! Consent Trackers
 ||opencmp.net^$script,third-party

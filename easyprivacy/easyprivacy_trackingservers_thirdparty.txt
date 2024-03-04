@@ -79,7 +79,6 @@
 ||addfreestats.com^$third-party
 ||addwish.com^$third-party
 ||adelixir.com^$third-party
-||adform.net^$third-party
 ||adfox.ru^$third-party
 ||adgreed.com^$third-party
 ||adheart.de^$third-party
@@ -148,6 +147,7 @@
 ||aimediagroup.com^$third-party
 ||air2s.com^$third-party
 ||airbrake.io^$third-party
+||airlogak.com^$third-party
 ||airpr.com^$third-party
 ||airserve.net^$third-party
 ||aivalabs.com^$third-party
@@ -313,6 +313,7 @@
 ||bigreal.org^$third-party
 ||bigtracker.com^$third-party
 ||bionicclick.com^$third-party
+||birdeatsbug.com^$third-party
 ||bizible.com^$third-party
 ||bizo.com^$third-party
 ||bizspring.net^$third-party
@@ -962,6 +963,7 @@
 ||hiconversion.com^$third-party
 ||hif.to^$third-party
 ||higherengine.com^$third-party
+||highlight.io^$third-party
 ||highlight.run^$third-party
 ||highmetrics.com^$third-party
 ||hira-meki.jp^$third-party
@@ -1080,6 +1082,7 @@
 ||intervigil.com^$third-party
 ||investingchannel.com^$third-party
 ||invitemedia.com^$third-party
+||invitereferrals.com^$third-party
 ||invoc.us^$third-party
 ||invoca.net^$third-party
 ||invoca.solutions^$third-party
@@ -1522,6 +1525,7 @@
 ||otoshiana.com^$third-party
 ||ournet-analytics.com^$third-party
 ||outbid.io^$third-party
+||outbrainimg.com^$third-party
 ||overstat.com^$third-party
 ||overtracking.com^$third-party
 ||owltrack.com^$third-party
@@ -1612,6 +1616,7 @@
 ||pointillist.com^$third-party
 ||pointmediatracker.com^$third-party
 ||pointomatic.com^$third-party
+||polaranalytics.com^$third-party
 ||polarbyte.com^$third-party
 ||polarcdn-pentos.com^$third-party
 ||pop6serve.com^$third-party
@@ -1744,6 +1749,7 @@
 ||remailtarget.com^$third-party
 ||remarketstats.com^$third-party
 ||remind.me^$third-party
+||renderbetter.net^$third-party
 ||repixel.co^$third-party
 ||report-uri.com^$third-party
 ||report-uri.io^$third-party
@@ -1825,6 +1831,7 @@
 ||sayutracking.co.uk^$third-party
 ||sbbanalytics.com^$third-party
 ||scaledb.com^$third-party
+||scarf.sh^$third-party
 ||sciencerevenue.com^$third-party
 ||scorecardresearch.com^$third-party
 ||scoutanalytics.net^$third-party
@@ -1995,6 +2002,7 @@
 ||ssm.codes^$third-party
 ||star-cntr-5.com^$third-party
 ||stat-track.com^$third-party
+||stat.re^$third-party
 ||stat.social^$third-party
 ||stat24.com^$third-party
 ||statcounter.com^$third-party
@@ -2156,7 +2164,6 @@
 ||trackkas.com^$third-party
 ||trackmethod.com^$third-party
 ||trackmytarget.com^$third-party
-||trackmyusers.com^$third-party
 ||trackmyweb.net^$third-party
 ||trackonomics.net^$third-party
 ||trackset.com^$third-party
@@ -2369,6 +2376,7 @@
 ||webtuna.com^$third-party
 ||wecantrack.com^$third-party
 ||wgsas.com^$third-party
+||whale.camera^$third-party
 ||wheredoyoucomefrom.ovh^$third-party
 ||whitepixel.com^$third-party
 ||whoaremyfriends.com^$third-party

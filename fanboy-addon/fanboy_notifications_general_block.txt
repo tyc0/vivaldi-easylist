@@ -15,6 +15,7 @@
 /flying_push.
 /get_onesignal_
 /gm-push-notification-
+/googleReviews.js
 /ilabspush.
 /imports/notifications.
 /inpl.webpush.
@@ -52,7 +53,7 @@
 /prpushsw.
 /push-notification-
 /push-notification.
-/push-notification/*
+/push-notification/*$domain=~upwork.com
 /push-notifications.$~stylesheet
 /push-notifications/*
 /push-notifications?

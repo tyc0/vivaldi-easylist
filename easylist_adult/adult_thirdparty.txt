@@ -46,6 +46,7 @@
 ||banners.videosecrets.com^
 ||bannershotlink.perfectgonzo.com^
 ||bans.bride.ru^
+||bbb.dagobert33.xyz^
 ||bit.ly^$domain=boyfriendtv.com
 ||blacksonblondes.com/banners/
 ||bongacams.com/promo.php
@@ -55,6 +56,7 @@
 ||brazzers.com/ads/
 ||bullz-eye.com/blog_ads/
 ||bullz-eye.com/images/ads/
+||bup.seksohub.com^
 ||bursa.conxxx.pro^
 ||byxxxporn.com/300x250.html
 ||c3s.bionestraff.pro^
@@ -64,6 +66,7 @@
 ||camsaim.com/in/
 ||camsoda.com/promos/
 ||cash.femjoy.com^
+||cdn.animehentai.xxx^$domain=adultgamesworld.com
 ||cdn3.hentaihand.com^
 ||cdn5.hentaihaven.fun^
 ||chaturbate.com/affiliates/
@@ -85,6 +88,7 @@
 ||creative.strpjmp.com^
 ||creative.usasexcams.com^
 ||crumpet.xxxpornhd.pro^
+||dagobert33.xyz^
 ||ddfcash.com^$third-party
 ||deliver.ptgncdn.com^
 ||dnk2wr2ch6zxa.cloudfront.net^
@@ -109,6 +113,7 @@
 ||fpcplugs.com/do.cgi?widget=
 ||free.srcdn.xyz^
 ||freesexcam365.com/in/
+||funniestpins.com/istripper-black-small.jpg$third-party
 ||games-direct.skynetworkcdn.com^$subdocument,third-party
 ||gateway-banner.eravage.com^
 ||geobanner.adultfriendfinder.com^
@@ -195,6 +200,7 @@
 ||porndeals.com^$subdocument,third-party
 ||porngamespass.com/iframes/
 ||prettyincash.com/premade/
+||prettytube.net^$third-party
 ||privatamateure.com/promotion/
 ||private.com/banner/
 ||promo.blackdatehookup.com^
@@ -206,10 +212,14 @@
 ||pub.nakedreel.com^
 ||pussycash.com/content/banners/
 ||pussysaga.com/gb/
+||q.broes.xyz^
+||q.ikre.xyz^
+||q.leru.xyz^
 ||r18.com/track/
 ||rabbitporno.com/friends/
 ||rabbitporno.com/iframes/
 ||realitykings.com/vbanners/
+||redhotpie.com.au^$domain=couplesinternational.com
 ||rhinoslist.com/sideb/get_laid-300.gif
 ||rss.dtiserv.com^
 ||ruscams.com/promo/
@@ -260,7 +270,6 @@
 ||upsellit.com/custom/$third-party
 ||uselessjunk.com^$domain=yoloselfie.com
 ||vfreecams.com^$third-party
-||vid.prettytube.net^
 ||vidz.com/promo_banner/$third-party
 ||vigrax.pl/banner/
 ||virtualhottie2.com/cash/tools/banners/

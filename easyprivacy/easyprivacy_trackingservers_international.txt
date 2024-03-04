@@ -10,7 +10,6 @@
 ||adclear.net^$third-party
 ||adcrowd.com^$third-party
 ||admeira.ch^$third-party
-||adnz.co^$third-party
 ||adquality.ch^$third-party
 ||adtraxx.de^$third-party
 ||adtriba.com^$third-party
@@ -194,7 +193,6 @@
 ||ranking-links.de^$third-party
 ||redretarget.com^$third-party
 ||refinedads.com^$third-party
-||research.de.com^$third-party
 ||reshin.de^$third-party
 ||retailads.net^$third-party
 ||rightstats.com^$third-party
@@ -411,7 +409,6 @@
 ||sjv.io^$third-party
 ||ta.sbird.xyz^$third-party
 ||tagmanager.cn^$third-party
-||tanx.com^$third-party
 ||tenmax.io^$third-party
 ||threatbook.cn^$third-party
 ||tomonline-inc.com^$third-party
@@ -651,7 +648,6 @@
 ||thench.net^$third-party
 ||thesmilingpencils.com^$third-party
 ||trackfeed.com^$third-party
-||ukw.jp^$third-party
 ||uncn.jp^$third-party
 ||wonder-ma.com^$third-party
 ||zerostats.com^$third-party

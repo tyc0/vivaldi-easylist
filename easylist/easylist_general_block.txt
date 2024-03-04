@@ -1,3 +1,4 @@
+&sadbl=1$third-party
 -ad-300x600-
 -ad-458x80.
 -ad-bottom-
@@ -69,6 +70,7 @@
 .com/ads?
 .com/adv/$domain=~adv.asahi.com|~advantabankcorp.com|~alltransistors.com|~archiproducts.com|~tritondigital.com
 .com/adz/
+.com/api/posts?token=$third-party
 .com/peeltr.js
 .com/sc/*?n=$script,third-party
 .com/ss/ad/
@@ -115,7 +117,6 @@
 /a/?ad=
 /a/ads/*
 /a/display.php?$script
-/AA/theologicalpresentation.com/*
 /ab_fl.js$script
 /ablck/frolod.js
 /ad--unit.htm
@@ -127,7 +128,6 @@
 /ad-choices-
 /ad-choices.
 /ad-engine.js
-/ad-left.js
 /ad-scripts--
 /ad-scroll.js
 /ad-server.$~script
@@ -275,7 +275,7 @@
 /adlib.min.js
 /adlog.php
 /admanager.$~object,~xmlhttprequest,domain=~admanager.alzura.com|~admanager.google.com|~admanager.line.biz|~admanager.opera.com|~admanager.roku.com|~admanager.sevio.com
-/admanager/*$~object,domain=~admanager.line.biz|~blog.google|~konograma.com
+/admanager/*$~object,domain=~admanager.line.biz|~blog.google|~konograma.com|~sevio.com
 /admgr.
 /admitad.js
 /adModule.
@@ -692,7 +692,6 @@
 /css/adv.
 /curveball/ads/*
 /custom_ads.js
-/customad.js
 /deliverad/fc.js
 /delivery.ads.
 /delivery.php?zone=
@@ -701,7 +700,6 @@
 /delivery/avw.php
 /delivery/fc.php
 /delivery/lg.php
-/delivery/spc.php
 /delivery_ads/*
 /dfp.min.js$third-party
 /dfp/head/*
@@ -774,7 +772,6 @@
 /float_ad.
 /floatad_
 /floatads.
-/floatadv.js
 /floater_ad.
 /floating-ad-
 /floatingad.
@@ -851,6 +848,7 @@
 /images/adv/*
 /images/adv_
 /images/adz/*
+/images/floatadv.js
 /images2/Ads/*
 /imfloat.
 /img/ad/*
@@ -886,12 +884,11 @@
 /js.ng/cat=
 /js.ng/channel_
 /js.ng/pagepos=
-/js/ppu.$script
 /js3caf.js
 /jsad.php
 /jsAds-1.4.min.js
 /jsads.js
-/jshexo.hj?lb=
+/jshexi.hj?lb=
 /jspopunder.js
 /jspopunder.min.js
 /keyade.js
@@ -961,6 +958,7 @@
 /nativebanner/ane-native-banner.js
 /nb/frot_lod.
 /neverblock/*
+/new/floatadv.js
 /newad.
 /newad?
 /newads.
@@ -1194,6 +1192,7 @@
 /s.ashx?btag
 /sbar.json?key=
 /sc-tagmanager/*
+/script/aclib.js$third-party
 /script/java.php?$xmlhttprequest
 /script/nasu.js$third-party
 /script/nrsu.js$third-party
@@ -1215,6 +1214,7 @@
 /service/adv/*
 /servlet/view/*
 /set_adcode?
+/sft-prebid.js
 /show-ad.
 /show_ad.
 /show_ad?
@@ -1519,6 +1519,7 @@
 /zanox/banner/*
 /zcredirect?
 /zcvisitor/*
+/zergnet_ad/*
 /~cdn/ads/*
 ://a.*/ad-provider.js$third-party
 ://a.ads.
@@ -1548,7 +1549,6 @@
 ?whichAd=freestar&
 ?wppaszoneid=
 ?wpstealthadsjs=
-?zoneid=*&ab=1$script
 _ad_250.
 _ad_300.
 _ad_728_
@@ -1673,7 +1673,6 @@ _widget_ad.
 /senddata?site=inpage
 ! propu.sh variants
 /ntfc.php?
-/pfe/current/*$script,third-party
 ! Clickadu servers
 .com/src/ppu/
 /aas/r45d/vki/*

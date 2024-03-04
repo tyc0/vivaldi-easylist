@@ -17,14 +17,13 @@
 ||1redirc.com^$popup
 ||1ts17.top^$popup
 ||1ueikseq1.com^$popup
+||1wtwaq.xyz^$popup
 ||1x001.com^$popup
-||1xlite-208883.top^$popup
 ||1xlite-503779.top^$popup
-||1xlite-510677.top^$popup
 ||1xlite-522762.top^$popup
-||1xlite-579542.top^$popup
 ||21find.com^$popup
 ||22bettracking.online^$popup
+||22media.world^$popup
 ||23.109.82.222^$popup
 ||24-sportnews.com^$popup
 ||24affiliates.com^$popup
@@ -39,7 +38,6 @@
 ||2vid.top^$popup
 ||331hwh.com^$popup
 ||360adshost.net^$popup
-||3r1kwxcd.top^$popup
 ||3wr110.xyz^$popup
 ||3xbrh4rxsvbl.top^$popup
 ||4b6994dfa47cee4.com^$popup
@@ -52,6 +50,7 @@
 ||6198399e4910e66-ovc.com^$popup
 ||62h.site^$popup
 ||7anfpatlo8lwmb.com^$popup
+||7app.top^$popup
 ||7ca78m3csgbrid7ge.com^$popup
 ||888media.net^$popup
 ||888promos.com^$popup
@@ -127,12 +126,12 @@
 ||adexprtz.com^$popup
 ||adfclick1.com^$popup
 ||adfgetlink.net^$popup
+||adform.net^$popup
 ||adfpoint.com^$popup
 ||adfreewatch.info^$popup
 ||adglare.net^$popup
 ||adhealers.com^$popup
 ||adhoc2.net^$popup
-||adimmix.com^$popup
 ||aditsafeweb.com^$popup
 ||adjoincomprise.com^$popup
 ||adjuggler.net^$popup
@@ -173,6 +172,7 @@
 ||ads.sexier.com^$popup
 ||ads4trk.com^$popup
 ||adsandcomputer.com^$popup
+||adsb4trk.com^$popup
 ||adsblocker-ultra.com^$popup
 ||adsblockersentinel.info^$popup
 ||adsbreak.com^$popup
@@ -181,7 +181,6 @@
 ||adserverplus.com^$popup
 ||adserving.unibet.com^$popup
 ||adsforcomputercity.com^$popup
-||adsfree-watch.net^$popup
 ||adshell.net^$popup
 ||adshostnet.com^$popup
 ||adskeeper.co.uk^$popup
@@ -191,8 +190,10 @@
 ||adsplex.com^$popup
 ||adspredictiv.com^$popup
 ||adspyglass.com^$popup
+||adspynet.com^$popup
 ||adsrv4k.com^$popup
 ||adstracker.info^$popup
+||adstreampro.com^$popup
 ||adsupply.com^$popup
 ||adsupplyads.com^$popup
 ||adsupplyads.net^$popup
@@ -252,6 +253,7 @@
 ||agalarvitaran.com^$popup
 ||agapi-fwz.com^$popup
 ||aggrologis.top^$popup
+||agl001.bid^$popup
 ||agweaaf.net^$popup
 ||agweaaf.org^$popup
 ||ahadsply.com^$popup
@@ -280,6 +282,7 @@
 ||alklinker.com^$popup
 ||alleviatepracticableaddicted.com^$popup
 ||allhypefeed.com^$popup
+||allloveydovey.fun^$popup
 ||allow-to-continue.com^$popup
 ||allreqdusa.com^$popup
 ||allsportsflix.best^$popup
@@ -289,6 +292,7 @@
 ||aloha-news.net^$popup
 ||alpha-news.org^$popup
 ||alpheratzscheat.top^$popup
+||alpine-vpn.com^$popup
 ||alpinedrct.com^$popup
 ||alreadyballetrenting.com^$popup
 ||alsindustrateb.info^$popup
@@ -298,9 +302,11 @@
 ||alxbgo.com^$popup
 ||alxsite.com^$popup
 ||am10.ru^$popup
+||am15.net^$popup
 ||amatrck.com^$popup
 ||ambiliarcarwin.com^$popup
 ||ambuizeler.com^$popup
+||ambushharmlessalmost.com^$popup
 ||amelatrina.com^$popup
 ||amenityremorse.com^$popup
 ||amesgraduatel.xyz^$popup
@@ -308,6 +314,7 @@
 ||ammankeyan.com^$popup
 ||ammannests.com^$popup
 ||ammunitionconsiderinstitution.com^$popup
+||amplayeranydwou.info^$popup
 ||amprestrys.co.in^$popup
 ||amwoukrkskillso.com^$popup
 ||analyticbz.com^$popup
@@ -339,6 +346,7 @@
 ||appcloudvalue.com^$popup
 ||applifycontent.com^$popup
 ||applifysolutions.com^$popup
+||applifysolutions.net^$popup
 ||appoineditardwide.com^$popup
 ||apprefaculty.pro^$popup
 ||apptjmp.com^$popup
@@ -354,6 +362,7 @@
 ||arminius.io^$popup
 ||armourhardilytraditionally.com^$popup
 ||aroidsguide.com^$popup
+||arrangementhang.com^$popup
 ||arriedand.xyz^$popup
 ||arrlnk.com^$popup
 ||artfulmilesfake.com^$popup
@@ -371,6 +380,7 @@
 ||aslnk.link^$popup
 ||aso1.net^$popup
 ||asqconn.com^$popup
+||asqualmag.com^$popup
 ||astarboka.com^$popup
 ||astesnlyno.org^$popup
 ||astonishing-go.com^$popup
@@ -378,6 +388,7 @@
 ||atala-apw.com^$popup
 ||atas.io^$popup
 ||atcelebitor.com^$popup
+||atentherel.org^$popup
 ||athletedurable.com^$popup
 ||atinsolutions.com^$popup
 ||atiretrously.com^$popup
@@ -433,12 +444,14 @@
 ||befirstcdn.com^$popup
 ||beforeignunlig.com^$popup
 ||befrx.com^$popup
+||behavedforciblecashier.com^$popup
 ||beholdascared.com^$popup
 ||beklefkiom.com^$popup
 ||belavoplay.com^$popup
 ||believemefly.com^$popup
 ||belwrite.com^$popup
 ||bemachopor.com^$popup
+||bemadsonline.com^$popup
 ||bemobpath.com^$popup
 ||bemobtrcks.com^$popup
 ||bemobtrk.com^$popup
@@ -469,6 +482,7 @@
 ||bestrevenuenetwork.com^$popup
 ||bestvenadvertising.com^$popup
 ||betfairpk.com^$popup
+||betforakiea.com^$popup
 ||betoga.com^$popup
 ||betotodilea.com^$popup
 ||betshucklean.com^$popup
@@ -510,7 +524,6 @@
 ||blancoshrimp.com^$popup
 ||bleandworldw.org^$popup
 ||blehcourt.com^$popup
-||block-ad-easy.net^$popup
 ||blockchaintop.nl^$popup
 ||blockinga.com^$popup
 ||blogoman-24.com^$popup
@@ -540,6 +553,7 @@
 ||bounceads.net^$popup
 ||bouncingtiger.online^$popup
 ||boustahe.com^$popup
+||boxernightdilution.com^$popup
 ||boxlivegarden.com^$popup
 ||boyishdefend.com^$popup
 ||brabywig.live^$popup
@@ -548,6 +562,7 @@
 ||branchesdollar.com^$popup
 ||brandreachsys.com^$popup
 ||bravo-dog.com^$popup
+||breadthneedle.com^$popup
 ||breechesbottomelf.com^$popup
 ||brieflizard.com^$popup
 ||brightadnetwork.com^$popup
@@ -567,6 +582,7 @@
 ||bulochka.xyz^$popup
 ||bumpyremittancecarnivorous.com^$popup
 ||bungalowsimply.com^$popup
+||bunintruder.com^$popup
 ||bunth.net^$popup
 ||buqkrzbrucz.com^$popup
 ||buranablated.digital^$popup
@@ -691,6 +707,7 @@
 ||clicktroute.com^$popup
 ||clickwork7secure.com^$popup
 ||clictrck.com^$popup
+||cliffaffectionateowners.com^$popup
 ||clixcrafts.com^$popup
 ||clkads.com^$popup
 ||clkcln.com^$popup
@@ -722,6 +739,7 @@
 ||cogentpatientmama.com^$popup
 ||cogenttriprepel.com^$popup
 ||cognitionmesmerize.com^$popup
+||cokepompositycrest.com^$popup
 ||coldflownews.com^$popup
 ||colmcweb.com^$popup
 ||colonistnobilityheroic.com^$popup
@@ -760,6 +778,7 @@
 ||countypuddleillusion.com^$popup
 ||cpalabtracking.com^$popup
 ||cpaoffers.network^$popup
+||cpasbien.cloud^$popup
 ||cpayard.com^$popup
 ||cpm20.com^$popup
 ||cpmclktrk.online^$popup
@@ -799,6 +818,7 @@
 ||cypressreel.com^$popup
 ||czh5aa.xyz^$popup
 ||d0p21g2fep.com^$popup
+||d71e6dd31a026d45.com^$popup
 ||dadsats.com^$popup
 ||dagnar.com^$popup
 ||dailyc24.com^$popup
@@ -829,11 +849,11 @@
 ||datingtorrid.top^$popup
 ||daughterinlawrib.com^$popup
 ||dawirax.com^$popup
-||dawnjacktip.live^$popup
 ||dblueclaockbro.info^$popup
 ||dddomainccc.com^$popup
 ||decencyjessiebloom.com^$popup
 ||deckedsi.com^$popup
+||declareave.com^$popup
 ||declaredpolitics.com^$popup
 ||decorationproducer.com^$popup
 ||dedating.online^$popup
@@ -861,6 +881,7 @@
 ||desperationembassy.com^$popup
 ||dexpredict.com^$popup
 ||deyubo.uno^$popup
+||dfvlaoi.com^$popup
 ||di7stero.com^$popup
 ||dicinging.co.in^$popup
 ||dictatepantry.com^$popup
@@ -884,6 +905,8 @@
 ||disregardbuymigrant.com^$popup
 ||dissipatebackyarduncle.com^$popup
 ||distantnews.com^$popup
+||distressedsoultabloid.com^$popup
+||divergeimperfect.com^$popup
 ||divertbywordinjustice.com^$popup
 ||divorceseed.com^$popup
 ||djfiln.com^$popup
@@ -959,6 +982,7 @@
 ||dugothitachan.com^$popup
 ||dukirliaon.com^$popup
 ||dulativergs.com^$popup
+||dustratebilate.com^$popup
 ||dwightadjoining.com^$popup
 ||dynsrvdea.com^$popup
 ||dynsrvtbg.com^$popup
@@ -978,15 +1002,18 @@
 ||easelgivedolly.com^$popup
 ||eastfeukufu.info^$popup
 ||eastfeukufunde.com^$popup
+||eastrk-dn.com^$popup
 ||easyads28.mobi^$popup
 ||easyfrag.org^$popup
 ||easykits.org^$popup
 ||easymrkt.com^$popup
 ||eavesofefinegoldf.info^$popup
+||eclkmpsa.com^$popup
 ||ecrwqu.com^$popup
 ||ecusemis.com^$popup
 ||edalloverwiththinl.info^$popup
 ||edchargina.pro^$popup
+||editneed.com^$popup
 ||eedsaung.net^$popup
 ||eegeeglou.com^$popup
 ||eehuzaih.com^$popup
@@ -995,6 +1022,7 @@
 ||effectdrape.com^$popup
 ||effectivecpmcontent.com^$popup
 ||effectiveperformancenetwork.com^$popup
+||egazedatthe.xyz^$popup
 ||egmyz.com^$popup
 ||egretswamper.com^$popup
 ||eighteenderived.com^$popup
@@ -1022,6 +1050,7 @@
 ||engagementdepressingseem.com^$popup
 ||enlightencentury.com^$popup
 ||enloweb.com^$popup
+||enoneahbu.com^$popup
 ||enoneahbut.org^$popup
 ||entainpartners.com^$popup,third-party
 ||entjgcr.com^$popup
@@ -1066,6 +1095,7 @@
 ||exdynsrv.com^$popup
 ||exemptrequest.com^$popup
 ||exhauststreak.com^$popup
+||existenceassociationvoice.com^$popup
 ||exnesstrack.com^$popup
 ||exoads.click^$popup
 ||exoclick.com^$popup
@@ -1079,6 +1109,7 @@
 ||exporder-patuility.com^$popup
 ||exrtbsrv.com^$popup
 ||extensions-media.com^$popup
+||extensionworthwhile.com^$popup
 ||extentaccreditedinsensitive.com^$popup
 ||extractdissolve.com^$popup
 ||extractionatticpillowcase.com^$popup
@@ -1109,7 +1140,6 @@
 ||fastdxr.com^$popup
 ||fastincognitomode.com^$popup
 ||fastlnd.com^$popup
-||fastmtn.com^$popup
 ||fastpsh.top^$popup
 ||fatstepn.click^$popup
 ||fbmedia-bls.com^$popup
@@ -1122,12 +1152,14 @@
 ||feedyourheadmag.com
 ||feelingstoriesplumb.com^$popup
 ||feignthat.com^$popup
+||felingual.com^$popup
 ||felipby.live^$popup
 ||fellowsargean.com^$popup
 ||femvxitrquzretxzdq.info^$popup
 ||fenacheaverage.com^$popup
 ||fer2oxheou4nd.com^$popup
 ||ferelatedmothes.com^$popup
+||feuageepitoke.com^$popup
 ||fewrfie.com^$popup
 ||fhserve.com^$popup
 ||fifteenthhardboiledbanker.com^$popup
@@ -1138,7 +1170,6 @@
 ||finance-hot-news.com^$popup
 ||findanonymous.com^$popup
 ||findbetterresults.com^$popup
-||findlnk.com^$popup
 ||findpartner.life^$popup
 ||finreporter.net^$popup
 ||firnebmike.live^$popup
@@ -1176,7 +1207,6 @@
 ||forcealetell.com^$popup
 ||forflygonom.com^$popup
 ||forgotingolstono.com^$popup
-||formulacountess.com^$popup
 ||forooqso.tv^$popup
 ||forthdigestive.com^$popup
 ||fortyphlosiona.com^$popup
@@ -1248,6 +1278,7 @@
 ||geotrkclknow.com^$popup
 ||germinateensue.com^$popup
 ||get-browseprotection.com^$popup
+||get-link.xyz^$popup
 ||get-me-wow.in^$popup
 ||getalinkandshare.com^$popup
 ||getalltraffic.com^$popup
@@ -1255,6 +1286,7 @@
 ||getgx.net^$popup
 ||getinstallmentloanbtc.org^$popup
 ||getmyads.com^$popup
+||getnomadtblog.com^$popup
 ||getonlineuserprotection.com^$popup
 ||getoverenergy.com^$popup
 ||getrunbestlovemy.info^$popup
@@ -1266,6 +1298,8 @@
 ||getthisappnow.com^$popup
 ||gettingtoe.com^$popup
 ||gettopple.com^$popup
+||getvideoz.click^$popup
+||getyourtool.co^$popup
 ||gfdfhdh5t5453.com^$popup
 ||gfstrck.com^$popup
 ||gggtrenks.com^$popup
@@ -1277,6 +1311,7 @@
 ||gkrtmc.com^$popup
 ||glareart.com^$popup
 ||glassmilheart.com^$popup
+||glasssmash.site^$popup
 ||glauvoob.com^$popup
 ||gleagainedam.info^$popup
 ||gleeneep.com^$popup
@@ -1294,8 +1329,11 @@
 ||glowingnews.com^$popup
 ||gloytrkb.com^$popup
 ||glugherg.net^$popup
+||gluxouvauque.com^$popup
+||gluxouvauure.com^$popup
 ||gml-grp.com^$popup
 ||gmxvmvptfm.com^$popup
+||go-srv.com^$popup
 ||go-to-website.com^$popup
 ||go2affise.com^$popup
 ||go2linkfast.com^$popup
@@ -1381,6 +1419,7 @@
 ||hamestoyman.website^$popup
 ||hammerhewer.top^$popup
 ||handbaggather.com^$popup
+||handgripvegetationhols.com^$popup
 ||handwritingnomad.com^$popup
 ||happypasteheat.com^$popup
 ||harlequinsleepyfrog.xyz^$popup
@@ -1456,6 +1495,7 @@
 ||hisurnhuh.com^$popup
 ||hitcpm.com^$popup
 ||hitopadxdz.xyz^$popup
+||hixvo.click^$popup
 ||hlpnowp-c.com^$popup
 ||hnrgmc.com^$popup
 ||hoa44trk.com^$popup
@@ -1508,11 +1548,13 @@
 ||hueads.com^$popup
 ||hugregregy.pro^$popup
 ||huluads.info^$popup
+||humandiminutionengaged.com^$popup
 ||humiliatedvolumepore.com^$popup
 ||hundredpercentmargin.com^$popup
 ||hundredscultureenjoyed.com^$popup
 ||hundredthtvthorny.com^$popup
 ||hungryrise.com^$popup
+||hurlaxiscame.com^$popup
 ||hurlmedia.design^$popup
 ||husezo.uno^$popup
 ||huskydesigner.pro^$popup
@@ -1526,14 +1568,17 @@
 ||icedewear.site^$popup
 ||ichimaip.net^$popup
 ||icilytired.com^$popup
+||identifierssadlypreferred.com^$popup
 ||idescargarapk.com^$popup
 ||idohethisisathllea.com^$popup
 ||ifdividemeasuring.com^$popup
 ||ifdnzact.com^$popup
 ||ifigent.com^$popup
 ||ifilez.org^$popup
+||ifsnickshriek.click^$popup
 ||ifsnickshriek.com^$popup
 ||igubet.link^$popup
+||ihavelearnat.xyz^$popup
 ||ikengoti.com^$popup
 ||ilaterdeallyi.info^$popup
 ||ilaterdeallyig.info^$popup
@@ -1547,13 +1592,16 @@
 ||immigrationspiralprosecution.com^$popup
 ||immoraldriddle.com^$popup
 ||impactserving.com^$popup
+||imperialbattervideo.com^$popup
 ||imponedbilsh.top^$popup
 ||impresseastsolo.com^$popup
 ||impressiveporchcooler.com^$popup
 ||inabsolor.com^$popup
 ||inaltariaon.com^$popup
 ||inanityacromia.life^$popup
+||inasmedia.com^$popup
 ||inclk.com^$popup
+||incloseoverprotective.com^$popup
 ||incomprehensibleacrid.com^$popup
 ||inconveniencepretendboost.com^$popup
 ||inexperiencedmingle.com^$popup
@@ -1579,6 +1627,7 @@
 ||insidehoarse.com^$popup
 ||insideofnews.com^$popup
 ||insigit.com^$popup
+||inspiringperiods.com^$popup
 ||insta-cash.net^$popup
 ||install-check.com^$popup
 ||instancesflushedslander.com^$popup
@@ -1596,7 +1645,9 @@
 ||intimidatekerneljames.com^$popup
 ||intorterraon.com^$popup
 ||inuedidgmapla.com^$popup
+||inumbreonr.com^$popup
 ||invaderannihilationperky.com^$popup
+||investcoma.com^$popup
 ||investing-globe.com^$popup
 ||investortirelimetree.com^$popup
 ||inyoketuber.com^$popup
@@ -1729,7 +1780,6 @@
 ||kogutcho.net^$popup
 ||kolkwi4tzicraamabilis.com^$popup
 ||koogreep.com^$popup
-||kopoqu.xyz^$popup
 ||korexo.com^$popup
 ||kornbulk1.com^$popup
 ||koronacineole.life^$popup
@@ -1785,6 +1835,7 @@
 ||libertystmedia.com^$popup
 ||lickinggetting.com^$popup
 ||lickingimprovementpropulsion.com^$popup
+||lidsaich.net^$popup
 ||lie2anyone.com^$popup
 ||liedebris.com^$popup
 ||lifeporn.net^$popup
@@ -1798,6 +1849,7 @@
 ||liliy9aydje10.com^$popup
 ||limitationvolleyballdejected.com^$popup
 ||limoners.com^$popup
+||linkboss.shop^$popup
 ||linkchangesnow.com^$popup
 ||linkmepu.com^$popup
 ||linknotification.com^$popup
@@ -1817,8 +1869,10 @@
 ||livestormy.com^$popup
 ||livezombymil.com^$popup
 ||lizebruisiaculi.info^$popup
+||ljbwzlmzlzbkm.top^$popup
 ||lkcoffe.com^$popup
 ||lkstrck2.com^$popup
+||llalo.click^$popup
 ||llpgpro.com^$popup
 ||lmn-pou-win.com^$popup
 ||lmp3.org^$popup
@@ -1851,6 +1905,7 @@
 ||lplimjxiyx.com^$popup
 ||lptrak.com^$popup
 ||ltingecauyuksehi.com^$popup
+||ltmywtp.com^$popup
 ||luckyads.pro^$popup
 ||luckyforbet.com^$popup
 ||lurdoocu.com^$popup
@@ -1880,6 +1935,7 @@
 ||maltunfaithfulpredominant.com^$popup
 ||mamaapparent.com^$popup
 ||mambkooocango.com^$popup
+||mammaldealbustle.com^$popup
 ||manageoriginalmostinfo-product.info^$popup
 ||manbycus.com^$popup
 ||manconsider.com^$popup
@@ -1888,9 +1944,7 @@
 ||mankindcopiesrichest.com^$popup
 ||mannehill.com^$popup
 ||maomaotang.com^$popup
-||maonderndbeco.com.ua^$popup
 ||maquiags.com^$popup
-||marchingsmug.com^$popup
 ||marenfu11.cn^$popup
 ||marepuffy.com^$popup
 ||marlierfritt.com^$popup
@@ -1905,6 +1959,7 @@
 ||mauptaub.com^$popup
 ||maw5r7y9s9helley.com^$popup
 ||maxigamma.com^$popup
+||maxytrk.com^$popup
 ||maybejanuarycosmetics.com^$popup
 ||maymooth-stopic.com^$popup
 ||maysunown.live^$popup
@@ -1961,6 +2016,7 @@
 ||migrantspiteconnecting.com^$popup
 ||milffinder.live^$popup
 ||millustry.top^$popup
+||mimosaavior.top^$popup
 ||mindedcarious.com^$popup
 ||miniglobalcitizens.com^$popup
 ||mirfakpersei.top^$popup
@@ -1995,6 +2051,7 @@
 ||moneysavinglifehacks.pro^$popup
 ||monsterofnews.com
 ||monsterofnews.com^$popup
+||monutroco.com^$popup
 ||moodokay.com^$popup
 ||moonrocketaffiliates.com^$popup
 ||morclicks.com^$popup
@@ -2029,6 +2086,7 @@
 ||mungfali.com^$popup
 ||muralshelvesdeposition.com^$popup
 ||murkilyergots.com^$popup
+||musclyskeely.top^$popup
 ||musk-give.com^$popup
 ||mutinousconductdisk.com^$popup
 ||mutux.cfd^$popup
@@ -2064,6 +2122,7 @@
 ||naggingirresponsible.com^$popup
 ||naleapprength.xyz^$popup
 ||namesakeoscilloscopemarquis.com^$popup
+||nan0cns.com^$popup
 ||nancontrast.com^$popup
 ||nannyamplify.com^$popup
 ||nanoadexchange.com^$popup
@@ -2072,6 +2131,7 @@
 ||naoprj.com^$popup
 ||napkinlucent.com^$popup
 ||nasssmedia.com^$popup
+||natallcolumnsto.info^$popup
 ||nathanaeldan.pro^$popup
 ||native-track.com^$popup
 ||natregs.com^$popup
@@ -2122,6 +2182,7 @@
 ||nezuel.com^$popup
 ||ngeoziadiyc4hi2e.com^$popup
 ||ngfruitiesmatc.info^$popup
+||ngineet.cfd^$popup
 ||ngsinspiringtga.info^$popup
 ||nicatethebene.info^$popup
 ||nicesthoarfrostsooner.com^$popup
@@ -2130,6 +2191,7 @@
 ||nimrute.com^$popup
 ||ninancukankin.info^$popup
 ||nindscity.com^$popup
+||nindsstudio.com^$popup
 ||ninetyninesec.com^$popup
 ||niyamabusiest.casa^$popup
 ||noblefun.net^$popup
@@ -2157,6 +2219,7 @@
 ||noughttrustthreshold.com^$popup
 ||novechufa.xyz^$popup
 ||november-sin.com^$popup
+||novibet.partners^$popup
 ||novitrk7.com^$popup
 ||novitrk8.com^$popup
 ||nowaynoconvs.net^$popup
@@ -2173,6 +2236,7 @@
 ||nudgercoptine.life^$popup
 ||nudgeworry.com^$popup
 ||nuggetscrore.life^$popup
+||nukeluck.net^$popup
 ||numbertrck.com^$popup
 ||nurewsawaninc.info^$popup
 ||nutaku.net/signup/$popup
@@ -2202,6 +2266,7 @@
 ||occasionalstatusbella.com^$popup
 ||oclaserver.com^$popup
 ||ocmhood.com^$popup
+||ocoaksib.com^$popup
 ||octavianflingpod.com^$popup
 ||oedroughl.xyz^$popup
 ||oefanyorgagetn.info^$popup
@@ -2209,10 +2274,12 @@
 ||offaces-butional.com^$popup
 ||offendwitnessedirresponsible.com^$popup
 ||offergate-apps-pubrel.com^$popup
+||offergate-games-download1.com^$popup
 ||offernzshop.online^$popup
 ||offershub.net^$popup
 ||offerstrack.net^$popup
 ||offersuperhub.com^$popup
+||offhandpump.com^$popup
 ||officetablntry.org^$popup
 ||officialbanisters.com^$popup
 ||offshuppetchan.com^$popup
@@ -2236,6 +2303,7 @@
 ||omoahope.net^$popup
 ||onad.eu^$popup
 ||onatallcolumn.com^$popup
+||onclasrv.com^$popup
 ||onclickads.net^$popup
 ||onclickalgo.com^$popup
 ||onclickclear.com^$popup
@@ -2298,7 +2366,6 @@
 ||oranegfodnd.com^$popup
 ||orchestraanticipation.com^$popup
 ||orgassme.com^$popup
-||orhisseache.com.ua^$popup
 ||orlowedonhisdhilt.info^$popup
 ||ormolustuke.top^$popup
 ||orthitepetrous.com^$popup
@@ -2352,6 +2419,7 @@
 ||palpablefungussome.com^$popup
 ||palundrus.com^$popup
 ||panicmiserableeligible.com^$popup
+||pantrydivergegene.com^$popup
 ||parachuteeffectedotter.com^$popup
 ||paradiseannouncingnow.com^$popup
 ||parallelgds.store^$popup
@@ -2361,6 +2429,7 @@
 ||parkcircularpearl.com^$popup
 ||parkingridiculous.com^$popup
 ||parrotwrapped.com^$popup
+||participateconsequences.com^$popup
 ||partsbury.com^$popup
 ||partybikesharmless.com^$popup
 ||passeura.com^$popup
@@ -2398,6 +2467,7 @@
 ||perfecttoolmedia.com^$popup
 ||performancetrustednetwork.com^$popup
 ||periodpennavigation.com^$popup
+||periodscirculation.com^$popup
 ||perispro.com^$popup
 ||perryvolleyball.com^$popup
 ||pertersacstyli.com^$popup
@@ -2422,9 +2492,12 @@
 ||pisism.com^$popup
 ||pistolsizehoe.com^$popup
 ||pitchedfurs.com^$popup
+||pitchedvalleyspageant.com^$popup
 ||pitysuffix.com^$popup
 ||piwhecyfo.pro^$popup
 ||pixellitomedia.com^$popup
+||pixelspivot.com^$popup
+||pk910324e.com^$popup
 ||plainmarshyaltered.com^$popup
 ||plaittest.com^$popup
 ||planetarium-planet.com^$popup
@@ -2445,17 +2518,20 @@
 ||plirkep.com^$popup
 ||plsrcmp.com^$popup
 ||pluckfigburst.com^$popup
+||pnperf.com^$popup
 ||pocofh.com^$popup
 ||podefr.net^$popup
 ||pointclicktrack.com^$popup
 ||pointlimitedzen.online^$popup
 ||pointroll.com^$popup
 ||poisism.com^$popup
+||politesewer.com^$popup
 ||politicianbusplate.com^$popup
 ||pollingsagacioustopple.com^$popup
 ||pollstover.guru^$popup
 ||pollutefurryapproximate.com^$popup
 ||polyh-nce.com^$popup
+||pompreflected.com^$popup
 ||pon-prairie.com^$popup
 ||ponchowafesargb.com^$popup
 ||ponk.pro^$popup
@@ -2469,6 +2545,7 @@
 ||populationrind.com^$popup
 ||popunder.bid^$popup
 ||popunderjs.com^$popup
+||popupblocker-download.com^$popup
 ||popupblockergold.com^$popup
 ||popwin.net^$popup
 ||porlandzor.com^$popup
@@ -2478,12 +2555,16 @@
 ||possessionaddictedflight.com^$popup
 ||post-redirecting.com^$popup
 ||postaffiliatepro.com^$popup,third-party
+||postback1win.com^$popup
 ||postlnk.com^$popup
 ||potawe.com^$popup
 ||potpourrichordataoscilloscope.com^$popup
 ||potsaglu.net^$popup
 ||potskolu.net^$popup
 ||pp98trk.com^$popup
+||ppcnt.co^$popup
+||ppcnt.eu^$popup
+||ppcnt.us^$popup
 ||practicallyfire.com^$popup
 ||practicepeter.com^$popup
 ||prawnsimply.com^$popup
@@ -2515,6 +2596,7 @@
 ||prime-vpnet.com^$popup
 ||primerclicks.com^$popup
 ||princesinistervirus.com^$popup
+||privacysafeguard.net^$popup
 ||privatedqualizebrui.info^$popup
 ||privilegest.com^$popup
 ||privilegesurround.com^$popup
@@ -2533,6 +2615,7 @@
 ||profitablegatetocontent.com^$popup
 ||profitabletrustednetwork.com^$popup
 ||promisingcigar.com^$popup
+||promisspacay.space^$popup
 ||promo-bc.com^$popup
 ||pronovosty.org^$popup
 ||pronunciationspecimens.com^$popup
@@ -2564,6 +2647,7 @@
 ||ptistyvymi.com^$popup
 ||ptongouh.net^$popup
 ||ptwmjmp.com^$popup
+||ptyalinbrattie.com^$popup
 ||pubdirecte.com^$popup
 ||publisherads.click^$popup
 ||publited.com^$popup
@@ -2609,6 +2693,7 @@
 ||quizsupportedchapel.com^$popup
 ||quoo.eu^$popup
 ||qxdownload.com^$popup
+||qyvklvjejrmwo.top^$popup
 ||qz496amxfh87mst.com^$popup
 ||r-tb.com^$popup
 ||r3adyt0download.com^$popup
@@ -2619,14 +2704,17 @@
 ||raijoolu.xyz^$popup
 ||railroadfatherenlargement.com^$popup
 ||rallantynethebra.com^$popup
+||ranabreast.com^$popup
 ||rankpeers.com^$popup
 ||raosmeac.net^$popup
 ||rapidhits.net^$popup
 ||rapidhooray.com^$popup
+||rapolok.com^$popup
 ||razdvabm.com^$popup
 ||rbxtrk.com^$popup
 ||rdrm1.click^$popup
 ||rdrsec.com^$popup
+||rdsa2012.com^$popup
 ||rdsrv.com^$popup
 ||rdtk.io^$popup
 ||readserv.com^$popup
@@ -2652,7 +2740,6 @@
 ||recyclinganewupdated.com^$popup
 ||recyclingbees.com^$popup
 ||red-direct-n.com^$popup
-||redeemcodes.me^$popup
 ||redic.net^$popup
 ||redic2.net^$popup
 ||redic4.com^$popup
@@ -2663,6 +2750,7 @@
 ||redir9.net^$popup
 ||redirect-ads.com^$popup
 ||redirect-path1.com^$popup
+||redirectflowsite.com^$popup
 ||redirecting7.eu^$popup
 ||redirectlinker.com^$popup
 ||redirectvoluum.com^$popup
@@ -2749,6 +2837,7 @@
 ||rocketmedia24.com^$popup,third-party
 ||rockstorageplace.com^$popup
 ||rog4.com^$popup
+||rollads.live^$popup
 ||rollmeout.xyz^$popup
 ||romanlicdate.com^$popup
 ||romivapsi.com^$popup
@@ -2792,6 +2881,7 @@
 ||rvrpushserv.com^$popup
 ||s0cool.net^$popup
 ||s20dh7e9dh.com^$popup
+||s3g6.com^$popup
 ||sabotageharass.com^$popup
 ||safe-connection21.com^$popup
 ||safestgatetocontent.com^$popup
@@ -2818,6 +2908,7 @@
 ||sealthatleak.com^$popup
 ||search4y.com^$popup
 ||searchenhancements.com^$popup
+||searchheader.xyz^$popup
 ||searchmulty.com^$popup
 ||searchsecurer.com^$popup
 ||seatsrehearseinitial.com^$popup
@@ -2873,6 +2964,7 @@
 ||shamtick.com^$popup
 ||shapelcounset.xyz^$popup
 ||sharpofferlinks.com^$popup
+||shauladubhe.top^$popup
 ||shbzek.com^$popup
 ||she-want-fuck.com^$popup
 ||sheepforgivedismount.com^$popup
@@ -2892,7 +2984,6 @@
 ||showcasethat.com^$popup
 ||shrillwife.pro^$popup
 ||sicknessfestivity.com^$popup
-||sidanarchy.com^$popup
 ||sidebyx.com^$popup
 ||sidebyz.com^$popup
 ||sifuglie.com^$popup
@@ -2900,6 +2991,7 @@
 ||sillinessinterfere.com^$popup
 ||simple-isl.com^$popup
 ||sindatontherrom.com^$popup
+||sing-tracker.com^$popup
 ||singelstodate.com^$popup
 ||singlesexdates.com^$popup
 ||singlewomenmeet.com^$popup
@@ -2922,6 +3014,7 @@
 ||slipdashedundermine.com^$popup
 ||slipperydeliverance.com^$popup
 ||sloto.live^$popup
+||slownansuch.info^$popup
 ||slowww.xyz^$popup
 ||sltracl.com^$popup
 ||smallfunnybears.com^$popup
@@ -2953,6 +3046,7 @@
 ||sofinpushpile.com^$popup
 ||softballcreeperamuse.com^$popup
 ||softonixs.xyz^$popup
+||softwa.cfd^$popup
 ||soilgnaw.com^$popup
 ||soksicme.com^$popup
 ||solaranalytics.org^$popup
@@ -3018,7 +3112,6 @@
 ||stacckain.com^$popup
 ||stammerail.com^$popup
 ||starewhupsu.pro^$popup
-||starhourfit.live^$popup
 ||starmobmedia.com^$popup
 ||starry-galaxy.com^$popup
 ||start-xyz.com^$popup
@@ -3032,6 +3125,7 @@
 ||stenadewy.pro^$popup
 ||sthoutte.com^$popup
 ||stickervillain.com^$popup
+||stickingrepute.com^$popup
 ||stigmuuua.xyz^$popup
 ||stimaariraco.info^$popup
 ||stinglackingrent.com^$popup
@@ -3051,12 +3145,14 @@
 ||streamyourvid.com^$popup
 ||strenuoustarget.com^$popup
 ||strettechoco.com^$popup
+||strewdirtinessnestle.com^$popup
 ||strictgrittwine.com^$popup
 ||strtgic.com^$popup
 ||strungcourthouse.com^$popup
 ||studiocustomers.com^$popup
 ||stuffedodiousmargin.com^$popup
 ||stumbleirritable.com^$popup
+||stvbiopr.net^$popup
 ||stvkr.com^$popup
 ||subscriptioneccentric.com^$popup
 ||subsidehurtful.com^$popup
@@ -3113,10 +3209,10 @@
 ||takelnk.com^$popup
 ||takemyorder.co^$popup
 ||takeyouforward.co^$popup
-||takeyourpresent.life^$popup
 ||talentorganism.com^$popup
 ||tallysaturatesnare.com^$popup
 ||tapdb.net^$popup
+||tapewherever.com^$popup
 ||tapingdynasty.com^$popup
 ||tapinvited.com^$popup
 ||taprtopcldfa.co^$popup
@@ -3125,6 +3221,7 @@
 ||taroads.com^$popup
 ||tauphaub.net^$popup
 ||tausoota.xyz^
+||tcare.today^$popup
 ||tchinaprecenta.info^$popup
 ||tczzzlwpss.com^$popup
 ||td563.com^$popup
@@ -3186,8 +3283,10 @@
 ||thirteenthadjectivecleaning.com^$popup
 ||thirtyeducate.com^$popup
 ||thisisyourprize.site^$popup
+||thnqemehtyfe.com^$popup
 ||thofteert.com^$popup
 ||threatotherwise.com^$popup
+||thunderdepthsforger.top^$popup
 ||thunderous-request.pro^$popup
 ||thygrepuwo.pro^$popup
 ||ticalfelixstownru.info^$popup
@@ -3236,6 +3335,7 @@
 ||topflownews.com^$popup
 ||toprevenuegate.com^$popup
 ||topscan-mca.click^$popup
+||toptrendyinc.com^$popup
 ||toroadvertisingmedia.com^$popup
 ||torpsol.com^$popup
 ||torrent-protection.com^$popup
@@ -3291,6 +3391,7 @@
 ||trackwilltrk.com^$popup
 ||trackytrack02.com^$popup
 ||tracot.com^$popup
+||tradeadexchange.com^$popup
 ||traff0221.com^$popup
 ||traff0521.com^$popup
 ||traffic-c.com^$popup
@@ -3300,9 +3401,11 @@
 ||trafficdok.com^$popup
 ||trafficforce.com^$popup
 ||traffichaus.com^$popup
+||trafficholder.com^$popup
 ||traffichunt.com^$popup
 ||trafficinvest.com^$popup
 ||trafficlide.com^$popup
+||trafficmagnates.com^$popup
 ||trafficmediaareus.com^$popup
 ||trafficmoon.com^$popup
 ||trafficmoose.com^$popup
@@ -3314,6 +3417,7 @@
 ||traktrafficflow.com^$popup
 ||trandlife.info^$popup
 ||transformationwrecking.com^$popup
+||transgressmeeting.com^$popup
 ||transmitterincarnatebastard.com^$popup
 ||trapexpansionmoss.com^$popup
 ||trck.wargaming.net^$popup
@@ -3344,6 +3448,7 @@
 ||tropbikewall.art^$popup
 ||trotletekphore.com^$popup
 ||troublesomeleerycarry.com^$popup
+||trpool.org^$popup
 ||trpop.xyz^$popup
 ||trust.zone^$popup
 ||trustedcpmrevenue.com^$popup
@@ -3351,6 +3456,7 @@
 ||trustedpeach.com^$popup
 ||trustedstream.life^$popup
 ||trustedzone.info^$popup
+||trustflayer1.online^$popup
 ||trustyable.com^$popup
 ||truthtraff.com^$popup
 ||truthwassadl.org^$popup
@@ -3370,6 +3476,7 @@
 ||tuneshave.com^$popup
 ||turnhub.net^$popup
 ||turnnagin.live^$popup
+||turnstileunavailablesite.com^$popup
 ||tutvp.com^$popup
 ||tvas-b.pw^$popup
 ||tweakostensibleinstaller.com^$popup
@@ -3408,6 +3515,7 @@
 ||ukeesait.top^$popup
 ||ukoffzeh.com^$popup
 ||uktureukworekto.com^$popup
+||ukworlowedonh.com^$popup
 ||ultimate-captcha.com^$popup
 ||ultracdn.top^$popup
 ||ultrapartners.com^$popup
@@ -3424,7 +3532,6 @@
 ||underwearsourorb.com^$popup
 ||unfaithfulmakeryearly.com^$popup
 ||unforgivablegrowl.com^$popup
-||unhappyporkform.com^$popup
 ||unicornpride123.com^$popup
 ||unmistdistune.guru^$popup
 ||unreshiramor.com^$popup
@@ -3441,6 +3548,7 @@
 ||upgliscorom.com^$popup
 ||uphewoab.net^$popup
 ||uphillgrandmaanger.com^$popup
+||upleaptlistel.top^$popup
 ||uponelectabuzzor.club^$popup
 ||uproarglossy.com^$popup
 ||uptimecdn.com^$popup
@@ -3464,6 +3572,7 @@
 ||valeuceplangka.com^$popup
 ||valuationbothertoo.com^$popup
 ||vanenow.com^$popup
+||variabilityproducing.com^$popup
 ||variationaspenjaunty.com^$popup
 ||vasstycom.com^$popup
 ||vasteeds.net^$popup
@@ -3482,6 +3591,7 @@
 ||verblife-5.co^$popup
 ||vergi-gwc.com^$popup
 ||verooperofthewo.com^$popup
+||versedarkenedhusky.com^$popup
 ||versionlatticecheek.com^$popup
 ||vertoz.com^$popup
 ||vespymedia.com^$popup
@@ -3490,6 +3600,7 @@
 ||vfgte.com^$popup
 ||vfgtg.com^$popup
 ||viapawniarda.com^$popup
+||viatechonline.com^$popup
 ||viatepigan.com^$popup
 ||victoryslam.com^$popup
 ||video-adblocker.pro^$popup
@@ -3498,6 +3609,7 @@
 ||videocampaign.co^$popup
 ||viewlnk.com^$popup
 ||viiapps.com^$popup
+||viiavjpe.com^$popup
 ||viibill.com^$popup
 ||viicasu.com^$popup
 ||viidan.com^$popup
@@ -3543,6 +3655,7 @@
 ||voluumtrk.com^$popup
 ||voluumtrk3.com^$popup
 ||vooshagy.net^$popup
+||vowpairmax.live^$popup
 ||voxfind.com^$popup
 ||vpn-offers.org^$popup
 ||vpnfortorrents.biz^$popup
@@ -3554,6 +3667,7 @@
 ||vq40567.com^$popup
 ||vs3.com^$popup
 ||vsucocesisful.com^$popup
+||vtabnalp.net^$popup
 ||vupowe.xyz^$popup
 ||vxzcvks.net^$popup
 ||vxzcvks.org^$popup
@@ -3567,7 +3681,6 @@
 ||walknotice.com^$popup
 ||walter-larence.com^$popup
 ||wantatop.com^$popup
-||warehousecanneddental.com^$popup
 ||wargaming-aff.com^$popup
 ||warilyaggregation.com^$popup
 ||warilycommercialconstitutional.com^$popup
@@ -3614,6 +3727,7 @@
 ||weliketofuckstrangers.com^$popup
 ||wellhello.com^$popup
 ||wellnesszap.com^$popup
+||welltodoresource.com^$popup
 ||wendelstein-1b.com^$popup
 ||weplayingttr.com^$popup
 ||wg-aff.com^$popup
@@ -3640,13 +3754,12 @@
 ||whulsaux.com^$popup
 ||whyocafenet.space^$popup
 ||wichtstoppit.space^$popup
-||widelygeneralizereptile.com^$popup
 ||widow5blackfr.com^$popup
 ||wifescamara.click^$popup
 ||wigetmedia.com^$popup
 ||wigglewurm.com^$popup
+||wigsynthesis.com^$popup
 ||wildestelf.com^$popup
-||wilfridamendment.com^$popup
 ||winbigdrip.life^$popup
 ||windychinese.com^$popup
 ||winfreeprize.online^$popup
@@ -3655,12 +3768,14 @@
 ||wiringcollectorguffaw.com^$popup
 ||wiringsensitivecontents.com^$popup
 ||wiseskullclever.store^$popup
+||wishfulla.com^$popup
 ||wistfulassign.com^$popup
 ||witalfieldt.com^$popup
 ||withdrawcosmicabundant.com^$popup
 ||withholdstandstill.com^$popup
 ||withmefeyauknaly.com^$popup
 ||wlafx4trk.com^$popup
+||wnt-s0me-push.net^$popup
 ||woafoame.net^$popup
 ||woffxxx.com^$popup
 ||wokewhoki.pro^$popup
@@ -3715,6 +3830,7 @@
 ||xyztracking.net^$popup
 ||y1jxiqds7v.com^$popup
 ||yahuu.org^$popup
+||yapclench.com^$popup
 ||yavli.com^$popup
 ||ybb-network.com^$popup
 ||ybbserver.com^$popup
@@ -3735,6 +3851,7 @@
 ||yogacomplyfuel.com^$popup
 ||yogadignified.com^$popup
 ||yok.la^$popup,third-party
+||yolage.uno^$popup
 ||yolkhandledwheels.com^$popup
 ||yonmasqueraina.com^$popup
 ||yonsandileer.com^$popup
@@ -3743,6 +3860,7 @@
 ||youradexchange.com^$popup
 ||yourcommonfeed.com^$popup
 ||yourcoolfeed.com^$popup
+||yourfreshjournal.com^$popup
 ||yourfreshposts.com^$popup
 ||yourperfectdating.life^$popup
 ||yourprivacy.icu^$popup
@@ -3757,6 +3875,7 @@
 ||zcode12.me^$popup
 ||zebeaa.click^$popup
 ||zedo.com^$popup
+||zeechoog.net^$popup
 ||zeechumy.com^$popup
 ||zeepartners.com^$popup
 ||zenaps.com^$popup

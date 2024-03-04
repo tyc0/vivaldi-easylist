@@ -38,13 +38,14 @@
 ||henryschein.at^*/CookieList.aspx
 ||howatherm.de/frontend/media/cm/
 ||jaloucity.de/skin/frontend/default/jaloucity_rwd/js/jcitycookiepopup.js
+||jobs.ch/public/scripts/modern/chunk-cookie-consent-modal.
+||jobup.ch/public/scripts/modern/chunk-cookie-consent-modal.
 ||kefalonia-griechenland.com/RR_KE_ccm19/
 ||lights-on.io/public/app.js
 ||marketing.mafell.de/consent/public/app.js
 ||mobile.de/api/consent/static/js/loader.js
 ||piazza.cc/public/app.js
 ||postleitzahl.org/images/consent.php
-||privacy.wum.rocks/public/app.js
 ||saturn-klima.de/wp-content/a0a206f468204945563d799b8f319215.js
 ||seduction-magazin.de/wp-content/plugins/borlabs-cookie/
 ||sprengel-pr.com/public/app.js
@@ -54,6 +55,7 @@
 ||up-cookiemon.wavecdn.net^
 ||vag.de/typo3conf/ext/cookieman/
 ||versicherungsjournal.de/public/app.js
+||wc.vandervalkonline.com/cookie-manager/cookie-manager.js
 ||weddstyle.de/bilder/banner/$image
 ||weiterbildung-biberach.de/ccm-wb/public/app.js
 !
@@ -234,6 +236,9 @@
 !
 ! ---------- Portuguese ----------
 !
+! ---------- Estonian ---------
+!
+||elisa.ee/modules/custom/elisa_cookie/js/cookienoticecontroller.js
 !
 ! ---------- Romanian ----------
 !
@@ -254,6 +259,7 @@
 ! ---------- Spanish ----------
 !
 ||advgo.net/borostcf/
+||amazonaws.com/sc-tagmanager/nox-formulatv.js$domain=formulatv.com
 ||atv.pe/wp-content/plugins/ned-cookies-form/
 ||cookies.unidadeditorial.es^
 ||digitalmedia-comunicacion.com/cookie/v2/script2.js

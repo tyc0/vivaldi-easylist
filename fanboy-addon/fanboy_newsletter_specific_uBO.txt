@@ -17,8 +17,8 @@ npr.org,vice.com,forward.com,nationalobserver.com,washingtontimes.com,monroenews
 npr.org,vice.com,forward.com,nationalobserver.com,washingtontimes.com,monroenews.com,poconorecord.com##.tp-modal
 npr.org,vice.com,forward.com,nationalobserver.com,washingtontimes.com,monroenews.com,poconorecord.com##body:style(height: auto !important; overflow: auto !important)
 ! 404media.co
-404media.co##.outpost-cta
-404media.co##body,html:style(overflow: auto !important; position: initial !important;)
+broadbandbreakfast.com,404media.co##.outpost-cta
+broadbandbreakfast.com,404media.co##body,html:style(overflow: auto !important; position: initial !important;)
 ! hollywoodunlocked.com
 hollywoodunlocked.com##.featherlight
 hollywoodunlocked.com##body,html:style(overflow: auto !important; position: initial !important;)
@@ -231,9 +231,9 @@ kitchentime.com,kitchentime.de,kitchentime.dk,kitchentime.fi,kitchentime.no,kitc
 axios.com##.Modal_ctaContainer__kHYHl
 axios.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! megacatstudios.com (newsletter overlay)
-dailynewsegypt.com,hdwalle.com,megacatstudios.com,scholarlykitchen.sspnet.org##.mfp-bg
-dailynewsegypt.com,hdwalle.com,megacatstudios.com,scholarlykitchen.sspnet.org##.mfp-wrap
-dailynewsegypt.com,hdwalle.com,megacatstudios.com,scholarlykitchen.sspnet.org##html:style(overflow:auto !important)
+dailynewsegypt.com,hdwalle.com,megacatstudios.com,scholarlykitchen.sspnet.org,daphneoz.com##.mfp-bg
+dailynewsegypt.com,hdwalle.com,megacatstudios.com,scholarlykitchen.sspnet.org,daphneoz.com##.mfp-wrap
+dailynewsegypt.com,hdwalle.com,megacatstudios.com,scholarlykitchen.sspnet.org,daphneoz.com##html:style(overflow:auto !important)
 ! syfy.com (newsletter overlay)
 syfy.com##.blog-post__gated__wrapper
 syfy.com##body,html:style(overflow: auto !important; position: initial !important;)
@@ -294,9 +294,18 @@ yesmagazine.org##body:style(overflow: auto !important; position: initial !import
 thebfd.co.nz##body:style(overflow: auto !important; position: initial !important;)
 ! tietoevry.com
 tietoevry.com##body:style(overflow: auto !important)
+! gourmetfoodstore.com
+gourmetfoodstore.com##+js(set-cookie, SuppressInterstitial, true, , reload, 1)
+! railsnotes.xyz
+railsnotes.xyz##+js(set-cookie, exit-intent, true)
+! scientificamerican.com
+scientificamerican.com###emailCollectorModalOverlay
+scientificamerican.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! beckershospitalreview.com
 beckershospitalreview.com##.becker_doubleclick
 beckershospitalreview.com##body:style(overflow: auto !important)
+! kermitlynch.com
+kermitlynch.com##+js(set-cookie, hidePopUp, true)
 ! .fancybox-overlay
 therecord.com,parent.com##.fancybox-overlay
 therecord.com,parent.com##body,html:style(overflow: auto !important; position: initial !important;)
@@ -306,6 +315,8 @@ scetv.org,berkeleyearth.org##body:style(overflow: auto !important; position: ini
 ! posylka.de
 posylka.de##.modal-custom--overlay
 posylka.de##html,body:style(overflow: auto !important; position: initial !important;)
+! jingdaily.com
+jingdaily.com##+js(set-cookie, newsletter, true)
 ! upworthy.com
 upworthy.com##.mailchimp-popup-overlay-upworthy
 upworthy.com##.mailchimp-popup-upworthy
@@ -323,9 +334,6 @@ dgb.de##+js(rc, js-show-newsletter-popup, , stay)
 ! nimsdai.com (newsletter overlay)
 nimsdai.com##.newsletter-popup
 nimsdai.com##body,html:style(overflow: auto !important; position: initial !important;)
-! taloon.com (newsletter overlay)
-taloon.com##.modals-wrapper
-taloon.com##body._has-modal:style(overflow: auto !important)
 ! cjr.org
 cjr.org###interContainer
 cjr.org###interVeil
@@ -351,6 +359,15 @@ bonappetit.com##+js(cookie-remover.js, pay_ent_msmp)
 babiesrus.ca,toysrus.ca##+js(set-cookie, isNewsletterPopupShown, false, , reload, 1)
 ! clutchpoints.com (newsletter popup)
 clutchpoints.com##+js(set-local-storage-item, nbaSIBWidgetSeen, true)
+!  clevercreations.org (mailerrite dim)
+clevercreations.org##.ml-embedded
+clevercreations.org##+js(set-cookie, mailerlite:forms:shown:109925949413262377, 1)
+! hcn.org
+hcn.org###pelcro-app
+hcn.org##body,html:style(overflow: auto !important; position: initial !important;)
+! everyday-reading.com
+everyday-reading.com##.tve-leads-lightbox
+everyday-reading.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! semafor.com
 semafor.com##+js(set-session-storage-item, floating-sign-up-dismissed, true)
 ! arcade1up.com

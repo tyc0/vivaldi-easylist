@@ -78,6 +78,7 @@
 ##.td-more-articles-box
 ##.trustpilot-widget
 ##.upNext-container
+##.vf-conversation-starter
 ##.widget-feedburner
 ##.widget_al2fb
 ##.widget_feedburnerformwidget
@@ -138,9 +139,11 @@
 ##.outbrain-placeholder
 ##.outbrain-recommended
 ##.outbrain-reserved-space
+##.outbrain-single-bottom
 ##.outbrain-widget
 ##.outbrain-wrap
 ##.outbrain-wrapper
+##.outbrain-wrapper-container
 ##.outbrain-wrapper-outer
 ##.outbrainWidget
 ##.outbrain__main
@@ -148,6 +151,7 @@
 ##.outbrain_skybox
 ##.outbrainbox
 ##.sics-component__outbrain
+##.sidebar-outbrain
 ##.voc-ob-wrapper
 ##.widget_outbrain
 ##.widget_outbrain_widget

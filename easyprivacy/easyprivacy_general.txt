@@ -35,6 +35,7 @@
 .gif?Log=
 .jp/pv?
 .jp/static/js/track.js
+.js?id=GTM-
 .lms-analytics/
 .net/l.gif?
 .no/app/aas/a
@@ -158,6 +159,7 @@
 /aff_i?offer_id=
 /aff_land?referrer
 /affiliate-tracker.js
+/affiliate:link_visit?
 /affiliatetracking.js
 /aftrack.asp
 /aggbug.aspx?
@@ -786,7 +788,7 @@
 /eva-analytics.min.js
 /event-log?
 /event-tracking.js
-/event-tracking/*
+/event-tracking/*$domain=~github.com
 /event.cgi?
 /event.gif?
 /event.php?campaign=
@@ -1043,6 +1045,7 @@
 /gtag.min.js
 /GTag/general_tracker.js
 /gtag/js?
+/gtm-data-layer-$script
 /gtm-listeners.js
 /gtm-suite.js
 /gtm.js
@@ -1114,6 +1117,7 @@
 /ibeat.min.js
 /icf-analytics.js
 /id?d_visid_
+/if/services/tdg?hs=
 /IIQUniversalID.min.js
 /image.ng/*
 /iMAWebCookie.js
@@ -1282,6 +1286,7 @@
 /log/log-event-
 /log/log.php?
 /log/logs?
+/log/metrics?
 /log/page-view
 /log/pageview
 /log/report/*
@@ -1507,6 +1512,7 @@
 /oo/*/lsync.js
 /oo/cl*.js?rd=
 /opdc.js
+/ope-adalliance.js
 /open/log/*
 /openpixel.gif?
 /openpixel.js
@@ -1706,6 +1712,7 @@
 /ptrack.js
 /pub/as?_ri_=$image
 /pub/imp?
+/pubcid.min.js
 /public/analytics.js
 /public/statsd
 /public/visit/record
@@ -1808,6 +1815,7 @@
 /rm-gtm-google-analytics-for-wordpress/js/gtm-player.js
 /rm.gif?
 /rmntracking.js
+/rnb/events
 /rntracking.js
 /roi_tracker.js
 /roi_tracker.min.js
@@ -1963,6 +1971,7 @@
 /smmch-mine.js
 /smmch-own.js
 /snowman.gif?p=
+/snowplow-tracker.tatest.js
 /snowplow.js
 /snowplow/*$script
 /snowplow_$script
@@ -1991,7 +2000,6 @@
 /SSOCore/update?
 /sst8.js
 /sstat_plugin.js
-/sta.wawacity.
 /standalone-analytics-
 /stat-adobe-analytics.js
 /stat-analytics/*
@@ -2121,6 +2129,7 @@
 /StatV1?
 /stdlog?
 /storeAdvImpression.jsp
+/storefront.google-analytics-4.min.js
 /stp.gif?
 /stracking.js
 /sTrackStats.js
@@ -2431,6 +2440,7 @@
 /v1/pixel?
 /v1/stats/track
 /v1/tracker.js
+/v2/pv-data?
 /v4/analytics/*$~xmlhttprequest
 /v4/metrics
 /v60.js
@@ -2585,6 +2595,7 @@
 /wpengine-analytics/js/main.js
 /wps-visitor-counter/styles/js/custom.js
 /wpstatistics/v1/hit?
+/wrapper/metrics/v1/custom-metrics?
 /WRb.js
 /wreport.js
 /writelog.js
@@ -2707,6 +2718,7 @@ _WebVitalsReporter_
 ! parked domains
 /ls.php?t=
 /track.php?domain=
+/track.php?toggle=
 ! pinterest.*
 /ContextLogResource/*
 /statslogresource/*

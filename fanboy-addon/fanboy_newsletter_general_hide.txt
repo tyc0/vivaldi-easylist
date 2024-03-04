@@ -578,6 +578,7 @@
 ##.bk-subscribe-popup
 ##.bl_newsletter
 ##.bloc-info-newsletter
+##.bloc-newsletter
 ##.bloc-recup-email
 ##.blocSubscribeRight
 ##.block--newsletter--alt
@@ -1122,6 +1123,7 @@
 ##.newsletter-popup-on-scroll-version
 ##.newsletter-popup-subscribe-block
 ##.newsletter-popup-wrap
+##.newsletter-popup.kadence-conversion-popup
 ##.newsletter-popups
 ##.newsletter-promo
 ##.newsletter-promo-container
@@ -1363,6 +1365,7 @@
 ##.o-email-only-signup
 ##.o-footer__newsletter
 ##.o-footer__newsletter-signup
+##.o-newsletter
 ##.o-site-footer__newsletter
 ##.o-widget__newsletter
 ##.ob-Newsletter
@@ -1657,7 +1660,6 @@
 ##.tsq_sailthru_newsletter_widget
 ##.tt-newsletter-subscribe-footer
 ##.ttgFooterNewsletterFlyInWrapper
-##.tve-leads-lightbox
 ##.tve-leads-widget
 ##.type-newsletter-signup
 ##.ub_block-newsletter
@@ -1666,6 +1668,7 @@
 ##.unit--newsletter
 ##.unitnewsletter
 ##.vc-email-subscribe__wrapper
+##.vc_newsletters_subscription
 ##.vspl__section--newsletter
 ##.wcpopupmodal-open
 ##.wcpopupmodal-wrapper-open
@@ -1799,7 +1802,6 @@
 ##div.aside-newsletter-box
 ##div.bloc-newsletter
 ##div.bloc_newsletter
-! ##div.block-newsletter
 ##div.box-newsletter
 ##div.box_newsletter
 ##div.bs-mailchimp-newsletter
@@ -1807,8 +1809,6 @@
 ##div.c-newsletterSignup
 ##div.c-newsletter_signup_box
 ##div.c-newsletterbox
-! ##div.email_newsletter
-! ##div.entry-email-signup
 ##div.form_newsletter_signup
 ##div.inline-newsletter
 ##div.inline-newsletter-signup

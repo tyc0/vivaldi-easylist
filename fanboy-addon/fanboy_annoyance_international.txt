@@ -5,6 +5,7 @@
 ##.odkl-klass-stat
 ||linker.ba^$third-party
 ||pichak.net/blogcod/$third-party
+||trustseal.e-rasaneh.ir^$third-party
 !
 ! ---------- Non-english Site Specific Hiding Rules ----------
 !
@@ -13,6 +14,7 @@ thscore.mobi###returnTop
 ! ---------- German Site Specific Hiding Rules ----------
 !
 baguette.at###TopBtn
+jobsuche-bw.de###UpToTopButton
 valentins.de###arrow-up
 unsertirol24.com###beginn-arrow
 reifenpresse.de###custom_html-2
@@ -29,6 +31,7 @@ kress.de##.cta
 seniorenportal.de##.custom-topbutton
 radiokoeln.de##.fab__scroll
 spektrum.de##.footer__nl
+gebrauchtwagenberater.de##.js-go-top-el
 kicker.de##.kick__scroll-top-ic
 kontextwochenzeitung.de##.kontextpermail
 therese-moelk.at##.pageup
@@ -45,6 +48,7 @@ motorsport-total.com##a[data-target="top"]
 wdr.de##a[href="#goToHead"]
 derbund.ch##div[class^="BackToTop_"]
 stol.it##div[class^="UpScroll_"]
+||logo.haendlerbund.de/logo.php?$third-party
 ||mdsngpush.finanzen.net^
 ||trustedshops.com/bewertung/widget/$third-party
 !
@@ -85,7 +89,6 @@ lemondeinformatique.fr##.bloc.advice
 e-sante.fr##.box-one-click
 lemondeinformatique.fr##.box-question
 telesatellite.com##.btnpg
-sadisflix.biz,sadisflix.fun,sadisflix.vip,sadisflix.wiki##.fav-info
 airbnb.be##.flash-container
 easeus.fr##.float_totop
 ecommercemag.fr##.js-scrollTo
@@ -105,6 +108,7 @@ assly.dz##.scroll_top
 loractu.fr##.sf-extensionfactory-link
 aquab0n.fr##.subscribe
 meteomedia.com##.woahbar
+sadisflix.*#?#.fav-info
 telesatellite.com#?#.encadre.bleu:-abp-has(a[href^="https://eepurl.com/"])
 !
 ! ---------- Arabic Site Specific Hiding Rules ----------
@@ -422,6 +426,7 @@ ec-store.net###rt_popup_sws
 gazoo.com###scroll-button
 diamond.jp###top-btn
 japanpost.jp###topBtn
+carview.yahoo.co.jp##.ai_floating_bnr
 hotpepper.jp##.autoScrollBtn
 mbs.jp##.common-wrap--ranking
 mbs.jp##.common-wrap--recommend
@@ -583,6 +588,7 @@ rae.es###overbox3
 excelsior.com.mx###suscription-block
 terra.es###trr-root
 rtve.es##.arrow
+ecologiaverde.com##.back_top_desktop
 expansion.com##.banda_suscripcion
 telesurtv.net##.btnBoletin
 elgrupoinformatico.com##.closelogod
@@ -596,6 +602,7 @@ elgrupoinformatico.com##.relatednext
 larazon.es##.rrss
 cnnchile.com##.scroll-button
 applesencia.com,capitalibre.com,frenomotor.com,placeralplato.com,rootear.com,sportadictos.com,winphonemetro.com,xombit.com,xombitgames.com,xombitmusic.com##.top-button
+rpdrlatino.com##.top-page
 !
 ! ---------- Swedish Site Specific Hiding Rules ----------
 !

@@ -1,7 +1,7 @@
 ! easylist_cookie_general_block.txt
 -consent-banner-
 -consent-banner.
--cookie-banner-$~image
+-cookie-banner-$script
 -cookie-banner.
 -cookie-bar.
 -cookie-cnil.
@@ -149,7 +149,7 @@
 /consent/public/app.js
 /consent_banner.js
 /consent_v2/choice.js
-/consentbanner-fragment/public/js/app.
+/consentbanner-fragment/public/js/app.fallback.js
 /consentbar/consent-bar.min.js
 /consentcookie.js
 /consentcookie.min.js
@@ -288,6 +288,7 @@
 /cookiebanner.js
 /cookiebanner.min.js
 /cookiebanner.script.js
+/cookiebanner/banner.js
 /cookiebanner/consent.js
 /cookieBannerLoader.js
 /CookieBannerToIncludeCompiled.js
@@ -544,6 +545,7 @@
 /eu-notice.js
 /eu_cookie.js
 /eu_cookie_compliance.js
+/eu_cookie_compliance.min.js
 /eu_cookies.js
 /eu_privacy.js
 /euc_cookie.js
@@ -561,6 +563,7 @@
 /evidon-sitenotice-tag.js
 /exponea.min.js
 /ext/kmacookies/Resources/*
+/fcc-cookie-consent.min.js
 /feoCookies.min.js
 /feoCookiesGtmEvents.min.js
 /firebox-gdpr.js
@@ -672,6 +675,7 @@
 /jcookielaw-iubenda.js
 /jEuCookieLaw.min.js
 /jquery.bpcookies.min.js
+/jquery.bs.gdpr.cookies.js
 /jquery.coo-kie.js
 /jquery.cookie-alert.js
 /jquery.cookie-madeincima.js
@@ -812,8 +816,6 @@
 /privacyPopup/*
 /pro-cp-dialog.js
 /protocalCookie.js
-/pum-site-scripts-
-/pum-site-scripts.
 /pwcookielaw.js
 /pwd-cookie-consent.js
 /pxpcookies.js
@@ -867,6 +869,7 @@
 /sm-oo-consent.js
 /smart-cookie-kit/res/empty.js
 /smart-eu-cookies.min.js
+/smcookies.js
 /snack-cmp_v2.min.js
 /snap-popup.js
 /sncmp.min.js
@@ -881,6 +884,7 @@
 /superCookie-min.js
 /SwagCookiePermission/*
 /ta2021-plugin-cookie-consent/build/bundle.
+/tab-consent-manager.js
 /tarteaucitron.js
 /tc_privacy/privacy.js
 /tcf/cookie.js
@@ -889,6 +893,7 @@
 /terms_of_service.js
 /tfcookie.js
 /thcookie.js
+/tiny-cookie.min.js
 /tm.cookie.js
 /tnzcookie/views/*
 /toucanCookie.js
