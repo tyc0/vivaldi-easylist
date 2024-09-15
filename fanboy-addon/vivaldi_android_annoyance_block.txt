@@ -13,21 +13,57 @@ google.com##.KjcHPc
 forum.joaoapps.com###awayMessage
 forum.joaoapps.com###adinserttop
 ! reddit.com (mobile)
-reddit.com##.XPromoBlockingModal
-reddit.com##.XPromoPopup__overlay
-reddit.com##.XPromoBlockingModalRpl
-reddit.com##.PreviewDrawer
-reddit.com##.XPromoPopup
-reddit.com##.XPromoPill
-reddit.com##shreddit-experience-tree
-reddit.com##+js(aeld, block-body-scrolling)
-reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
-reddit.com##.XPromoPopupRpl
-reddit.com##body:style(pointer-events:auto !important;)
-reddit.com##.XPromoInFeed
-amp.reddit.com##.AppSelectorModal__body
-reddit.com##+js(set-local-storage-item, xpromo-consolidation, 1)
-reddit.com##+js(rc, scroll-disabled, body, stay)
-amp.reddit.com##.upsell_banner
+
 !#if env_mobile
+!reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##xpromo-nsfw-blocking-modal
+||ads.reddit.com/|$xhr,3p,redirect=noop.txt
+||reddit.com/api/jail^$xhr,1p
+||reddit.com^$removeparam=rdt,doc
+||redditstatic.com/shreddit/sentry-$domain=reddit.com
+||www.reddit.com/|$xhr,1p,method=post
+amp.reddit.com##.AppSelectorModal__body
+amp.reddit.com##.upsell_banner
+amp.reddit.com##.UpsellModal
+i.redd.it,reddit.com##[bundlename="bottom_bar_xpromo"]
+old.reddit.com##a.outbound[data-outbound-url]:remove-attr(data-outbound-url)
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.m-blurred:style(filter: none !important;)
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##.XPromoBlockingModal
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##[style^="filter:"]:style(filter: none !important;)
+reddit.com,reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion##xpromo-new-nsfw-blocking-modal
+reddit.com##.AppSelectorModal__body
+reddit.com##.mobile-web-redirect-bar
+reddit.com##.premium-banner
+reddit.com##.premium-banner-outer
+reddit.com##.PreviewDrawer
+reddit.com##.TopNav__promoButton
+reddit.com##.upsell_banner
+reddit.com##.v2 > shreddit-async-loader
+reddit.com##.xPromoAppStoreFooter
+reddit.com##.XPromoBlockingModal
+reddit.com##.XPromoBlockingModalRpl
+reddit.com##.XPromoBottomBar
+reddit.com##.XPromoInFeed
+reddit.com##.XPromoPill
+reddit.com##.XPromoPopup
+reddit.com##.XPromoPopup__overlay
+reddit.com##.XPromoPopupRpl
+reddit.com##[data-testid="bottom-cell-wrapper"]
+reddit.com##[data-testid="bottom-sheet-upsell-wrapper"]
+reddit.com##[slot="use-app"]
+reddit.com###credential_picker_container
+reddit.com###credential_picker_iframe
+reddit.com###xpromo-small-header.mr-xs
+reddit.com##+js(aeld, block-body-scrolling)
+reddit.com##+js(rc, scroll-disabled, body, stay)
+reddit.com##+js(set-local-storage-item, xpromo-consolidation, 1)
 reddit.com##body:style(overflow: auto !important;)
+reddit.com##body:style(pointer-events:auto !important;)
+reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
+reddit.com##bottom-bar[app-link-params]
+reddit.com##shreddit-async-loader[bundlename="app_selector"]
+reddit.com##shreddit-async-loader[bundlename="app_selector"]:remove()
+reddit.com##shreddit-experience-tree
+reddit.com##xpromo-top-button
+www.reddit.com##+js(json-prune, data.*.elements.edges.[].node.outboundLink)
+www.reddit.com##+js(json-prune, data.children.[].data.outbound_link)
+www.reddit.com##+js(rpnt, script, "outboundUrl", "outbound"
