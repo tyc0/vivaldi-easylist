@@ -69,5 +69,5 @@ www.reddit.com##+js(json-prune, data.children.[].data.outbound_link)
 www.reddit.com##+js(rpnt, script, "outboundUrl", "outbound"
 
 
-www.gov.uk
-motoring.dvla.gov.uk
+||gov.uk
+||motoring.dvla.gov.uk
