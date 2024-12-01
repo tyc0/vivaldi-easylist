@@ -4,6 +4,9 @@
 ! ||clickmail.stubhub.com^
 ! ||links.strava.com^
 ! ||wl.spotify.com^
+! ||go.playbackbone.com^
+! ||t.ac.pandora.com^
+! ||stream.9now.com.au^
 !
 ! Company name: Branch.io
 !
@@ -88,7 +91,6 @@
 ||9b55.pandasuite.io^
 ||9bdb.pandasuite.io^
 ||9kvnwwkj.pandasuite.io^
-||_tcp.academyofconsciousleadership.net^
 ||a-t.topya.com^
 ||a.a23.in^
 ||a.careangel.com^
@@ -2079,7 +2081,6 @@
 ||go.piccolo.mobi^
 ||go.picsart.com^
 ||go.pinoy.innovatedating.com^
-||go.playbackbone.com^
 ||go.player2app.com^
 ||go.poland.innovatedating.com^
 ||go.polen-app.com^
@@ -3925,7 +3926,6 @@
 ||stg-deeplink.ring.md^
 ||store.echovisuals.com^
 ||store.esquirrel.at^
-||stream.9now.com.au^
 ||studio.joinsalut.com^
 ||subito.openapp.link^
 ||summary.instaread.co^
@@ -3933,7 +3933,6 @@
 ||surpreendaapp.hanzo.com.br^
 ||swa.anydma.com^
 ||sxarakia.openapp.link^
-||t.ac.pandora.com^
 ||t.bztest.origin.com.au^
 ||t.comms.thetimes.co.uk^
 ||t.discover.kayosports.com.au^

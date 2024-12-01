@@ -2,7 +2,6 @@
 portalvirtualreality.ru#@##go-to-top
 mercopress.com#@##goToTop
 lecyclo.com#@##goto-top
-cnn.com#@##outbrain_widget_0
 temaretik.com#@##scroll_to_top
 wedevs.com#@##scrolltotop
 polcol.ru,vamk33.ru#@##to_top:not(body)
@@ -11,7 +10,5 @@ uservoice.com#@##uservoice-feedback-tab
 cnn.com#@#.OUTBRAIN
 dell.com#@#.back-to-top-container
 realme.com#@#.btn-back-to-top
-facebook.com#@#.connect_widget
-youtube.com#@#.feed-icon
 ixbt.com#@#.glyphicon-arrow-up
-stackcommerce.com,zalando.com#@#.grecaptcha-badge
+sagepub.com#@#.scrollToTop

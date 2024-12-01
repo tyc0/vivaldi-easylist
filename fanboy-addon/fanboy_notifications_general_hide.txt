@@ -6,6 +6,7 @@
 ###Znotify_Prompt
 ###\5f __tdspushdiv
 ###___ndtvpushdiv
+###app-follow-banner
 ###app-promo-overlay
 ###auplusflash
 ###auwnotificationpopup
@@ -57,6 +58,7 @@
 ###pushOffer
 ###pushSec
 ###pushSubscribeModal
+###pushSubscriptionModal
 ###push_alert
 ###push_notifications
 ###push_subscribe
@@ -71,6 +73,7 @@
 ###smart_push_smio_window
 ###spm_msg_push_notification
 ###subscribeToPush
+###subscribeToWebPush
 ###visilabs_web_push_perm_box
 ###web-alerts-modal
 ###web-push-prompt
@@ -87,7 +90,9 @@
 ##.PushNotification--top
 ##.PushNotification-popover-dialog
 ##.PushSubscription-block
+##.ampnotification
 ##.apn-popover-container
+##.aswpn-fire-push-popup
 ##.b-notification-push
 ##.b-push-notification
 ##.bk-wonderpush
@@ -132,6 +137,7 @@
 ##.notification-prompt-wrapper
 ##.notification-pwa
 ##.notification-upsell-push
+##.notificationConfirmationOverlay
 ##.notify-optin-wrap
 ##.ns-notification-popup
 ##.ntfc_overlay
@@ -139,9 +145,9 @@
 ##.oi-notify
 ##.page__notifications
 ##.perfecty-push-dialog-container
+##.pnfpb-push-subscribe-icon
 ##.push-area-btn
 ##.push-bx
-##.push-message
 ##.push-modal-wrapper
 ##.push-notice
 ##.push-notification-box
@@ -150,7 +156,6 @@
 ##.push-notification-prompt
 ##.push-notifications-primer
 ##.push-overlay
-##.push-popup
 ##.push-subscription-alert
 ##.push-subscription-button
 ##.push-subscription-prompt
@@ -172,6 +177,7 @@
 ##.setrow-push-popup-container
 ##.showtvPushOverlay
 ##.simple-subscription-form
+##.sk-notification-dialog
 ##.softPush_notification
 ##.surveymonkey-popup
 ##.tsoft-push--in-notification
@@ -190,6 +196,7 @@
 ! Mobile Notifications
 ###SmarterBannerContainer
 ###appInstallNotification
+###appOpenNotification
 ###appinstall_bnr
 ###aside-app-banner
 ###bannerInstallApp
@@ -208,6 +215,7 @@
 ###smartbanner-desktop
 ###smartbanner.android
 ###smartbanner.ios
+###tapcart-web-banner
 ###xm_app_stickyHeader
 ##.app-ad-container-desktop
 ##.app-banner-container
