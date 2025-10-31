@@ -38,6 +38,7 @@ reddit.com##.PreviewDrawer
 reddit.com##.TopNav__promoButton
 reddit.com##.upsell_banner
 reddit.com##.v2 > shreddit-async-loader
+reddit.com##.promotedlink
 reddit.com##.xPromoAppStoreFooter
 reddit.com##.XPromoBlockingModal
 reddit.com##.XPromoBlockingModalRpl
