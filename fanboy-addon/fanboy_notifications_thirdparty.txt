@@ -2,15 +2,18 @@
 ! ||staq-cdn.com/grow/$third-party
 ||api-push.com^$third-party
 ||azureedge.net/js/cookie_notificacao.min.js
+||bildirimat.com^$third-party
 ||bildirnet.com^$third-party
 ||braze.com^$third-party
 ||cappushino.com^$third-party
+||cdn.p-n.io/pushly-sw.min.js
 ||cdn.qgr.ph^$third-party
 ||cdn.qgraph.io^$third-party
 ||centrnotify.com^$third-party
 ||confirmit.com^$third-party
 ||conforama-push.com^$third-party
 ||contentsitesrv.com/js/push/$third-party
+||controlpush.com^$third-party
 ||css.xjsx.lol^$third-party
 ||digipush.io^$third-party
 ||dpns-notifications.com^$third-party
@@ -20,11 +23,15 @@
 ||irpush.com^$third-party
 ||jubi.ai/buttonbot/$script,third-party
 ||krakenoptimize.com^$third-party
+||larapush.com^$third-party
 ||linker.hr^$third-party
 ||luravius.com^$third-party
 ||medallia.com^*/onsite/embed.js
+||my-pu.sh^
 ||neopush.io^$third-party
 ||news2day.me^$third-party
+||notifee-manager.cz^$third-party
+||notificaciones-web.com^
 ||notification.tubecup.net^
 ||notifications.ltd^$third-party
 ||notifikuj.cz^$third-party
@@ -46,6 +53,7 @@
 ||push.delivery^$third-party
 ||push.esputnik.com^
 ||push.getbeamer.com^
+||push.intreface.com^
 ||push.knd.ro^
 ||push.newscraft.io^
 ||push.reamaze.com^
@@ -88,6 +96,7 @@
 ||pushvip.ru^$third-party
 ||pushwhy.com^$third-party
 ||pushy.ai^$third-party
+||puuush.me^
 ||quarepush.com^$third-party
 ||quaruzon.com^$third-party
 ||qushad.com^$third-party
@@ -100,6 +109,7 @@
 ||spacepush.ru^$third-party
 ||system-notify.app^$third-party
 ||ternairsoftware.com/publicwebpush/
+||titanpush.com.br^$third-party
 ||topswp.com^$third-party
 ||unative.com^$third-party
 ||viafoura.net/push_handlers.js

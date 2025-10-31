@@ -9,7 +9,6 @@
 /BannerNewsletter.png
 /bloc_newsletter.jpg
 /blocknewsletter.js
-/Components/newsletter/*
 /embeds/newsletter/*
 /ENewsletter_
 /feedburner-subscription-widget/style.css
@@ -18,7 +17,6 @@
 /hustle/assets/hustle-ui/js/hustle-ui.min.js
 /iscriviti-newsletter.css
 /jetpack-plugin/moon/modules/subscriptions/subscribe-modal/subscribe-modal.js
-/klaviyo_subscribe.js
 /layout/newsletter.png
 /leadin-subscribe.min.js
 /mailup-email-and-newsletter-subscription-form/*
@@ -64,6 +62,7 @@
 /rdstation-popup.min.js
 /sapo_newsletters.js
 /section-newsletter-popup.js
+/std_newsletter_2017.js
 /subscribe-popup.js
 /subscriber.newsletter.js
 /td-newsletter/style.css

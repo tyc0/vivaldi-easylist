@@ -8,6 +8,7 @@
 ||cam4.com^*&utm_source=$popup
 ||camonster.com/landing/$popup,third-party
 ||clicks.istripper.com/ref.php?$popup,third-party
+||crmapt.livejasmin.com^$popup
 ||crmt.livejasmin.com^$popup
 ||crpdt.livejasmin.com^$popup
 ||crpop.livejasmin.com^$popup
@@ -22,7 +23,7 @@
 ||info-milfme.com/landing/$popup
 ||ipornia.com/scj/cgi/out.php?scheme_id=$popup,third-party
 ||jasmin.com^$popup,third-party
-||join.whitegfs.com^$popup
+||landing.candynetwork.ai^$popup
 ||landing1.brazzersnetwork.com^$popup
 ||letstryanal.com/track/$popup,third-party
 ||livecams.com^$popup
@@ -31,11 +32,9 @@
 ||loveaholics.com^$popup
 ||mrskin.com/?_$popup
 ||naughtydate.com^$popup
-||offersuperhub.com/landing/$popup,third-party
 ||porngames.adult^*=$popup,third-party
 ||prelanding3.cuntempire.com/?utm_$popup
 ||tgp1.brazzersnetwork.com^$popup
 ||tm-offers.gamingadult.com^$popup
 ||together2night.com^$popup
-||tour.mrskin.com^$popup,third-party
 ||zillastream.com/api/$popup

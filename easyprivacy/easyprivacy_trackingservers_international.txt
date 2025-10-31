@@ -18,7 +18,6 @@
 ||andyhoppe.com^$third-party
 ||anormal-tracker.de^$third-party
 ||area51.to^$third-party
-||asadcdn.com^$third-party
 ||atsfi.de^$third-party
 ||audiencemanager.de^$third-party
 ||audienzz.ch^$third-party
@@ -140,7 +139,6 @@
 ||lddt.de^$third-party
 ||leserservice-tracking.de^$third-party
 ||link-empfehlen24.de^$third-party
-||listrakbi.com^$third-party
 ||lokalleads-cci.com^$third-party
 ||losecounter.de^$third-party
 ||lumitos.com^$third-party
@@ -155,7 +153,6 @@
 ||microcounter.de^$third-party
 ||mindtake.com^$third-party
 ||motorpresse-statistik.de^$third-party
-||mps-gba.de^$third-party
 ||mr-rank.de^$third-party
 ||multicounter.de^$third-party
 ||my-ranking.de^$third-party
@@ -241,6 +238,7 @@
 ||txt.eu^$third-party
 ||undom.net^$third-party
 ||uniconsent.com^$third-party
+||untho.de^$third-party
 ||up-rank.com^$third-party
 ||urstats.de^$third-party
 ||usage.seibert-media.io^$third-party
@@ -328,6 +326,7 @@
 ||shopimind.com^$third-party
 ||sk1n.fr^$third-party
 ||sk8t.fr^$third-party
+||sparteo.com^$third-party
 ||stats.fr^$third-party
 ||sync.tv^$third-party
 ||tget.me^$third-party
@@ -428,9 +427,14 @@
 ||dotmetrics.net^$third-party
 ||xclaimwords.net^$third-party
 ! Czech
+||adactive.cz^$third-party
 ||affilbox.cz^$third-party
+||affiliateport.eu^$third-party
 ||analights.com^$third-party
+||boldem.cz^$third-party
+||ehub.cz^$third-party
 ||itop.cz^$third-party
+||leady.com^$third-party
 ||lookit.cz^$third-party
 ||monkeytracker.cz^$third-party
 ||navrcholu.cz^$third-party
@@ -438,6 +442,7 @@
 ||performax.cz^$third-party
 ||pocitadlo.cz^$third-party
 ||programmatic.cz^$third-party
+||retargeted.co^$third-party
 ||semnicneposilejte.cz^$third-party
 ||smartselling.cz^$third-party
 ! Danish
@@ -488,6 +493,7 @@
 ||erate.co.il^$third-party
 ||fortvision.com^$third-party
 ||lead.im^$third-party
+||memcyco.com^$third-party
 ! Hungarian
 ||gpr.hu^$third-party
 ||hirmatrix.hu^$third-party
@@ -548,9 +554,11 @@
 ||webmobile.ws^$third-party
 ||websanalytic.com^$third-party
 ||whoseesyou.com^$third-party
+||yodalytics.com^$third-party
 ! Japanese
 ||accaii.com^$third-party
 ||accesstrade.net^$third-party
+||actiontracking.jp^$third-party
 ||ad-fam.com^$third-party
 ||ad-track.jp^$third-party
 ||ad2iction.com^$third-party
@@ -569,6 +577,7 @@
 ||aspservice.jp^$third-party
 ||bigmining.com^$third-party
 ||blogranking.net^$third-party
+||bownow.jp^$third-party
 ||canem-auris.com^$third-party
 ||caprofitx.com^$third-party
 ||catsys.jp^$third-party
@@ -593,10 +602,10 @@
 ||enhance.co.jp^$third-party
 ||f-counter.jp^$third-party
 ||f-counter.net^$third-party
+||f-tra.com^$third-party
 ||fpad.jp^$third-party
 ||fspark-ap.com^$third-party
 ||fw-ad.jp^$third-party
-||gacraft.jp^$third-party
 ||geniee.jp^$third-party
 ||genieessp.jp^$third-party
 ||gmodmp.jp^$third-party
@@ -604,6 +613,7 @@
 ||gsspcln.jp^$third-party
 ||gyro-n.com^$third-party
 ||h-cast.jp^$third-party
+||hebiichigo.com^$third-party
 ||hitgraph.jp^$third-party
 ||i-mobile.co.jp^$third-party
 ||i2ad.jp^$third-party
@@ -626,6 +636,7 @@
 ||pdmp.jp^$third-party
 ||performancefirst.jp^$third-party
 ||polymorphicads.jp^$third-party
+||pop.unitedgate.co.jp^$third-party
 ||quant.jp^$third-party
 ||r-ad.ne.jp^$script,third-party
 ||rays-counter.com^$third-party
@@ -637,6 +648,7 @@
 ||smart-counter.net^$third-party
 ||smartnews-ads.com^$third-party
 ||speee-ad.jp^$third-party
+||sygrip.info^$third-party
 ||talpa-analytics.com^$third-party
 ||taxel.jp^$third-party
 ||team-rec.jp^$third-party
@@ -645,8 +657,10 @@
 ||thesmilingpencils.com^$third-party
 ||trackfeed.com^$third-party
 ||uncn.jp^$third-party
+||valis-cpx.jp^$third-party
 ||viaklera.com^$third-party
 ||wonder-ma.com^$third-party
+||woomy.me^$third-party
 ||zerostats.com^$third-party
 ||ziyu.net^$third-party
 ! Korean
@@ -726,6 +740,7 @@
 ||dataroyal.com.br^$third-party
 ||dataunion.com.br^$third-party
 ||denakop.com^$third-party
+||deviceprotect.eu^$third-party
 ||engageya.com^$third-party
 ||enviou.com.br^$third-party
 ||fulllab.com.br^$third-party
@@ -739,6 +754,7 @@
 ||sambaads.com^$third-party
 ||shoptarget.com.br^$third-party
 ||solucx.com.br^$third-party
+||taghike.com^$third-party
 ||tailtarget.com^$third-party
 ||trugaze.io^$third-party
 ||voxus.com.br^$third-party
@@ -766,6 +782,7 @@
 ||24log.ru^$third-party
 ||24smi.info^$third-party
 ||24smi.net^$third-party
+||2xclick.ru^$third-party
 ||a-counter.kiev.ua^$third-party
 ||admile.ru^$third-party
 ||adsmediator.com^$third-party
@@ -773,6 +790,7 @@
 ||airlogs.ru^$third-party
 ||announcement.ru^$third-party
 ||apkonline.ru^$third-party
+||apptracer.ru^$third-party
 ||audsp.com^$third-party
 ||avsplow.com^$third-party
 ||ban.su^$third-party
@@ -783,6 +801,7 @@
 ||bumlam.com^$third-party
 ||checkru.net^$third-party
 ||cityua.net^$third-party
+||click.ru^$third-party
 ||clubcollector.com^$third-party
 ||cnstats.ru^$third-party
 ||comagic.ru^$third-party
@@ -831,6 +850,7 @@
 ||mystat-in.net^$third-party
 ||mytopf.com^$third-party
 ||netlog.ru^$third-party
+||octotracking.com^$third-party
 ||opentracking.ru^$third-party
 ||otclick-adv.ru^$third-party
 ||pladform.ru^$third-party
@@ -942,12 +962,15 @@
 ||cunda.ai^$third-party
 ||elmasistatistik.com.tr^$third-party
 ||onlinewebstat.com^$third-party
+||pixad.com.tr^$third-party
 ||realist.gen.tr^$third-party
+||sayac.net.tr^$third-party
 ||sayyac.com^$third-party
 ||sayyac.net^$third-party
 ||sitetistik.com^$third-party
 ||sortext.com^$third-party
 ||tagon.co^$third-party
+||thequin.ai^$third-party
 ||visilabs.net^$third-party
 ||webservis.gen.tr^$third-party
 ||webtemsilcisi.com^$third-party

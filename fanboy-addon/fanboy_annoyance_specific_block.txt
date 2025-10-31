@@ -2,6 +2,7 @@
 ||api.qwant.com/*/homepage/trends?
 ||civilbeat.org/wp-content/themes/becivil/widgets/slp-widgets/donate.html
 ||cm.usatoday.com^
+||cp.thetab.com^
 ||designtaxi.com/css/remodal.css
 ||embed.typeform.com^$domain=theregister.com
 ||feedback.wwe.com/survey/
@@ -22,6 +23,7 @@
 ||rgshows.me/js/devtoolsdetector.js
 ||rule34.xxx/images/rule34_merch.jpg
 ||rule34.xxx/images/shirt2.jpg
+||russia-insider.com/wp-content/uploads/pum/
 ||sabcnews.com^*-iabsa-
 ||sp-marketing-assets.s3.us-west-2.amazonaws.com^$domain=heraldnet.com
 ||t.ly/js/sweetalert.min.js

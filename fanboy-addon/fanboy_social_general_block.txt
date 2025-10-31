@@ -171,7 +171,6 @@
 /pinterest_tag.js
 /pintrest-button.png
 /plugins/add-to-any-subscribe/subscribe_
-/plugins/add-to-any/addtoany.min.js
 /plugins/anmiated-twitter-bird/js/tripleflap.js
 /plugins/bookmarkify/*
 /plugins/delicious-bookmark-button/delit.js
@@ -197,7 +196,6 @@
 /plugins/simple-social-sharing-widgets-icons/*$~stylesheet
 /plugins/slick-social-share-buttons/*
 /plugins/slide-in/js/wdsi.js
-/plugins/sme-facebook-likebox-sidebar/*
 /plugins/sociable-re/images/*
 /plugins/sociable/*$~stylesheet
 /plugins/social-media-widget/*$image
@@ -212,6 +210,7 @@
 /plugins/tweetmeme/button.js
 /plugins/ultimate-follow-me/*
 /plugins/ultimate-social-deux/public/assets/js/min/us.script-min.js
+/plugins/ultimate-social-media-plus/*$~stylesheet
 /plugins/viperbar/client/js/front.js
 /plugins/wordpress-social-ring/*
 /plugins/wp-plus-one/wp-plus-one.js
@@ -283,7 +282,6 @@
 /sharetw_icon.png
 /shareTwitter.jpg
 /shareTwitter.png
-/shariff.complete.js
 /shariff.min.js
 /sharing/sprites/*
 /sharing_icons/*
@@ -333,7 +331,6 @@
 /socialfooter.js
 /socialite.js
 /socialite.min.js
-/socialize/library.js
 /socialMediaButtons.png
 /SocialMediaButtons/tracking.js
 /socialmediasprite.png

@@ -7,6 +7,7 @@
 ||addinto.com^$third-party
 ||adobe-campaign.com^$third-party
 ||advantagemedia.com^$third-party
+||affilizz.com^$third-party
 ||allpass.salemwebnetwork.com^$third-party
 ||amazonaws.com/fby.js
 ||amazonaws.com/fby/
@@ -15,11 +16,13 @@
 ||apester.com^$third-party
 ||api.branch.io^$third-party
 ||api.giphy.com^*/related?$third-party
+||api.producthunt.com/widgets/$third-party
 ||api.search.live.net^$third-party,domain=~bing.com
 ||app.convertful.com^$third-party
 ||app.e2ma.net^$third-party
 ||app.leadspin.dk^$third-party
 ||appboy.eu^$third-party
+||assets.poool.fr/engage.min.js
 ||attraqt.io^$third-party
 ||autolinkmaker.itunes.apple.com^$third-party
 ||batch.com^$third-party
@@ -45,7 +48,6 @@
 ||celebjihad.com^$third-party
 ||civicscience.com/widget/jspoll/$third-party
 ||connect.ekomi.de^$third-party
-||connect.nosto.com^$third-party
 ||contentexchange.me^$third-party
 ||contextly.com^$third-party
 ||convertflow.co^$third-party
@@ -65,11 +67,13 @@
 ||desipearl.com^$third-party
 ||dhpikd1t89arn.cloudfront.net^
 ||diigo.com/images/diigo-icon/$third-party
+||discord.com/widget?$third-party
 ||discordapp.com/api/servers/*/widget.json$third-party,xmlhttprequest
 ||disqus.com/api/*/listRelated.json?
 ||donorbox.org/embed/$third-party
 ||dotmailer-surveys.com^$third-party
 ||download.skype.com/share/$third-party
+||ecomsend.com^$third-party
 ||eff.org/bloggers/badges/$third-party
 ||emsecure.net^$subdocument,third-party
 ||engage.im^$third-party
@@ -100,6 +104,7 @@
 ||getglue.com^$third-party
 ||getkudos.me^$third-party
 ||getmailcounter.com^$third-party
+||getqonfi.com^$third-party
 ||getresponse.com^$third-party
 ||getscoutapp.com^$third-party
 ||getwoohoo.com^$third-party
@@ -110,6 +115,7 @@
 ||google.com/uds/?file=orkut&
 ||gravityrd-services.com^$third-party
 ||groupon.com^*/affiliate_widget/$third-party
+||gstatic.com/shopping/merchant/merchantwidget.js
 ||healthgrades.com^$third-party
 ||hellobar.com^$third-party
 ||hnbutton.appspot.com^$third-party
@@ -142,6 +148,7 @@
 ||judge.me^$third-party
 ||justbaat.org^$third-party
 ||kaango.com/feCustomWidgetDisplay/$third-party
+||kiyoh.com^$third-party
 ||ko-fi.com/cdn/widget/$third-party
 ||leadfamly.com^$third-party
 ||leadpages.co^$third-party
@@ -173,7 +180,7 @@
 ||my.sendinblue.com/users/subscribe/$third-party
 ||myeffecto.com^$third-party
 ||myvoicenation.com^$third-party
-||news.google.com/swg/_/api/v1/publication/
+||news.google.com/swg/$third-party
 ||newsgator.com^$third-party
 ||newsletter2go.com^$third-party
 ||newswhip.com^$third-party
@@ -182,7 +189,6 @@
 ||nrcdn.com/custom-script/$third-party
 ||nrelate.com^$third-party
 ||oct8ne.com^$third-party
-||octaneai.com^$third-party
 ||opiniac.com^$third-party
 ||opinionbar.com^$third-party
 ||opinionstage.com^$third-party
@@ -203,6 +209,7 @@
 ||permalink-system.com^$third-party
 ||phoenix-widget.com^$third-party
 ||pippity.com^$third-party
+||placehold.co^$third-party
 ||placehold.it^$third-party
 ||placeholder.com^$third-party,domain=~astrobin.com
 ||platform.loyaltylion.com^
@@ -211,7 +218,6 @@
 ||plugin.me2day.net^$third-party
 ||postquare.com^$third-party
 ||powerjobs.com^$third-party
-||poxo.com^$third-party,domain=~colorscale.shop|~wmaniac.com
 ||pressly.com^$third-party
 ||primetag.net^$third-party
 ||printfriendly.com^$~subdocument,third-party
@@ -238,6 +244,7 @@
 ||repost.us^$third-party
 ||research.net^$third-party
 ||reviewability.com^$third-party
+||riddle.com/embed/$domain=evoke.ie
 ||rightmessage.com^$third-party
 ||rokt.com^$third-party
 ||royapp.com^$third-party
@@ -247,6 +254,7 @@
 ||sail-horizon.com^$third-party
 ||sail-personalize.com^$third-party
 ||sales-pop-dot-autoketing-production-sdk.appspot.com^$third-party
+||salespopup.io^$third-party
 ||savvysource.com^$third-party
 ||scorespro.com^$third-party
 ||scoutle.com^$third-party
@@ -256,6 +264,7 @@
 ||senzari.com^$third-party
 ||sg-autorepondeur.com^$third-party
 ||sharenice.org^$third-party
+||shopperapproved.com^$third-party
 ||sidelinesapp.com^$third-party
 ||siteswithcontent.com^$third-party
 ||skysa.com^$third-party
@@ -291,6 +300,7 @@
 ||techbeat.com/wp-content/custom-php/$third-party
 ||thelovebucks.com^$third-party
 ||theoutplay.com^$third-party
+||timez.ai/widgets/$third-party
 ||tinker.com^$third-party
 ||tippola.com^$third-party
 ||toolbar.avg.com^$third-party
@@ -299,6 +309,9 @@
 ||topsy.com^$third-party
 ||tosshub.com/sites/player/media/sana-widget/sana-min.js
 ||trustami.com^$third-party
+||trustindex.io^$third-party
+||tryinteract.com^$third-party
+||trytada.com^$third-party
 ||tstatic.net/js/copy.js
 ||tuenti.com^$third-party
 ||turnsocial.com^$third-party
@@ -315,6 +328,7 @@
 ||volomedia.com^$third-party
 ||vuukle.com/widgets/quiz.html$third-party
 ||wahwahnetworks.com^$third-party
+||web-boosting.net^$third-party
 ||web.delighted.com^$third-party
 ||webme.com/designs/globals/snow2.js
 ||webseed.com/javascripts/messagebar.js
@@ -328,6 +342,7 @@
 ||widget.gleamjs.io^$script,third-party,domain=~gleam.io
 ||widget.justwatch.com^
 ||widget.pico.tools^$third-party
+||widget.thuiswinkel.org^$third-party
 ||widget.trustpilot.com^$third-party
 ||widget.zoorate.com^$third-party
 ||widgets.dzone.com^$third-party
@@ -341,6 +356,7 @@
 ||worldgravity.com^$third-party
 ||wp.com/www.feedburner.com/fb/$image
 ||wurfl.io^$third-party
+||wvc_resources.william-reed.com/copyright/copyright_tg.js
 ||xhamsterlive.com/api/external/$third-party
 ||yimg.com/uq/syndication/
 ||yimg.com^*/GoldenGate.
@@ -350,7 +366,6 @@
 ||youtube.com/v/*autoplay$third-party,domain=7chan.org|boards.4chan.org
 ||ytimg.com^*/www-subscribe-widget-$script
 ||zaparena.com^$third-party
-||zdassets.com/ekr/snippet.js
 ||zeddit.com^$third-party
 ||zergnet.com^$third-party
 ||zfacts.com^$third-party
@@ -374,6 +389,7 @@
 ||app.chaport.com/sounds/
 ||app.onlim.com/app/assets/audios/
 ||appspot.com/sounds/chatmsg.mp3
+||assetscdn-wchat.freshchat.com/static/assets/$media
 ||azureedge.neti^$media,domain=oct8ne.com
 ||bac-assets.com/chat/spa-assets/$media,domain=bankofamerica.com
 ||bac-assets.com/spa/widgets/www-chat/$media,domain=bankofamerica.com
@@ -389,10 +405,12 @@
 ||cleversite.ru/client/default/sound/
 ||cliengo.com^$media
 ||cloudfront.net/prod/media/$domain=birdeye.com
+||clustertextilzgz.com/CatalogoBorman/ca-web/mobile/style/raw/flipsound.ogg
 ||collectcdn.com^$media
 ||contivio.com/Chat2/audio/
 ||crisp.chat/static/sounds/
 ||czater.pl/assets/sounds/
+||d7keiwzj12p9.cloudfront.net/widget-sounds/$media
 ||driftqa.com/conductor/assets/media/
 ||echatsys.com/sounds/
 ||formilla.com/remoteAssets/media/
@@ -403,6 +421,7 @@
 ||helpcrunch.com/sounds/
 ||helpscout.net/static/ui-sounds/
 ||intelliticks.com/prod/common/$media
+||jack.bio/click.mp3
 ||jivo.ru/sounds/
 ||jivosite.com/sounds/
 ||js.driftt.com/conductor/assets/media/

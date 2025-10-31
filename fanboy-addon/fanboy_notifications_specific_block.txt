@@ -5,13 +5,15 @@
 ||alerts.ndtv.com^
 ||alerts.thedailystar.net^
 ||alibaba.com/sw.js
+||anewz.tv/firebase-messaging-sw.js
 ||annahar.com/assets/js/notifications.js
 ||assets.ilcdn.fi/questback.popup-$script,domain=iltalehti.fi
 ||astian.org/?push_notification_sw
 ||bdstatic.com/linksubmit/push.js
 ||dailymail.co.uk/api/web-push-notification/
+||diabetes.co.uk/wp-content/themes/spotlight/src/sw.js
 ||gadgetsnow.com/sw.cms
-||gstatic.com/firebasejs/$domain=joins.com|novayagazeta.eu|packaginginsights.com
+||gstatic.com/firebasejs/$domain=joins.com|kompas.com|novayagazeta.eu|packaginginsights.com
 ||hindustantimes.com/messaging-sw.js
 ||hindustantimes.com/sw.js
 ||hindustantimes.com^*/ht-notification-
@@ -26,7 +28,8 @@
 ||ndtv.com/sw.js
 ||newsukraine.rbc.ua/sworker.js
 ||nookazon.com/firebase-messaging-sw.js
-||phys.org/push-sw.js
+||pcguide.com/sp-push-worker-fb.js
+||pinterest.com/sw.js
 ||push.cnnindonesia.com^
 ||push.ictsd.org^
 ||renaultsport.com/spip.php?page=sw.js
@@ -53,13 +56,17 @@
 ||futura-sciences.com/clientscript/push.js
 ||horoscope.fr/notifications/
 ||informazione.it/wr/promo-miainfo.js
+||japan.cnet.com/static/js/webpush/push.js
+||kompas.com/firebase-messaging-sw.js
 ||metrobilbao.eus/firebase-messaging-sw.js
 ||push.idowa.de^
 ||push.neko-san.fr^
 ||pushme.magellanotech.it^
+||strettoweb.com/Notifiche/
 ||tio.ch/js/api.push.js
 ||tutto.tv/wp-content/plugins/plugin-notifiche-
 ||uchubiz.com/wp-content/themes/uchubiz/assets/js/push.js
+||widget.push.forja.ma^
 ||winnipegfreepress.com/firebase-messaging-sw.js
 ! Mobile Notifications
 ||baby-calendar.jp/nazuke/img/app/header_

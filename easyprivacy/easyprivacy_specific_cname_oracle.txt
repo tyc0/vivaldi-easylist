@@ -10,6 +10,8 @@
 ! ||go.oracle.com^
 ! ||info.medtronicdiabetes.com^
 ! ||info.mouser.com^
+! ||visit.tafensw.edu.au^
+! ||sw.broadcom.com^
 !
 ||10stepswp.advancedtech.com^
 ||1stparty.equifax.co.uk^
@@ -4038,7 +4040,6 @@
 ||sustainability.ricoh.co.za^
 ||sustainable.optum.com^
 ||suunta.visma.fi^
-||sw.broadcom.com^
 ||sweeps.la-z-boy.com^
 ||symantec.ecs.arrow.com^
 ||sys.hager.com^
@@ -5300,7 +5301,6 @@
 ||visit.hypertherm.com^
 ||visit.lifeblood.com.au^
 ||visit.oakstreethealth.com^
-||visit.tafensw.edu.au^
 ||visit.tenplay.com.au^
 ||visitor.arabiancentres.com^
 ||visitor.hotelex.cn^

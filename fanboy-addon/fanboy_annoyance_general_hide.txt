@@ -116,6 +116,8 @@
 ##.source-woocommerce.nx-notification
 ##.wpcsn-notification-inner
 ##.yo-notification
+! google review popup
+##.es-badge-container
 ! advocate.com (Video PIP following)
 ##.vjs-pip-y-bottom
 ! medium nag
@@ -401,6 +403,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.a-back-to-top
 ##.a-core-scroll-to-top
 ##.ab__scroll_to_top
+##.adept-back_to_top
 ##.ant-back-top
 ##.arrow_scroll_up
 ##.arrow_up
@@ -546,7 +549,6 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.ga-scrolltop-anchor
 ##.gantry-totop-wrapper
 ##.generate-back-to-top
-##.glyphicon-arrow-up
 ##.gn-backtotop
 ##.go-to-top
 ##.go-to-top--btn
@@ -756,6 +758,7 @@ dashboard.razorpay.com#@##credential_picker_container
 ##.top-of-page-button
 ##.top-of-page-link
 ##.topofpage
+##.torimochi-widget
 ##.torna-su
 ##.tornaSu
 ##.tornaSuBtn

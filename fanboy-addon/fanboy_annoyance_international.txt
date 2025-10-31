@@ -16,11 +16,14 @@ thscore.mobi###returnTop
 baguette.at###TopBtn
 jobsuche-bw.de###UpToTopButton
 valentins.de###arrow-up
+apollo-news.net###banner-below
 unsertirol24.com###beginn-arrow
 reifenpresse.de###custom_html-2
 mywheels.tv###flyout-recommended-content
 foerderland.de###footerFlyout
+michaelsbund.de###jumptotop
 icx-shop.de###scrolltopbutton
+freiewelt.net###spenden-box
 soeren-hentzschel.at###storage-notice
 osthessen-news.de###toTop
 boerse-global.de###vw-back-to-top
@@ -36,6 +39,7 @@ kontextwochenzeitung.de##.kontextpermail
 therese-moelk.at##.pageup
 matratzen.info##.postNavigation
 boerse-global.de##.proven-media-link
+saalbach.co##.scrltop
 donaukurier.de##.scroll-to-top-outer
 vonovia.de##.scroll-top
 woxikon.de##.secondary-footer
@@ -166,6 +170,7 @@ sptv.hr##.scroll-top-arrow
 !
 hiswatewater.nl###back_to_top
 luchtvaartnieuws.nl###block-block-92
+rug.nl##.js--scrolltop
 want.nl##.pagination
 welingelichtekringen.nl##.top-slide
 tweakers.net##.useVisitedState.nonspot.headlineItem
@@ -329,6 +334,7 @@ systems.bz##.on-top
 blauerusa.com##.onTop
 ricoh.it##.page-link-top
 enzopennetta.it##.popmake
+linkiesta.it##.popover
 astrooroscopo.it##.popup
 storicang.it##.recibe
 bplaytipremia.com,tempoitalia.it##.scroll
@@ -355,60 +361,106 @@ vitatrentina.it##.wpdiscuz-front-actions
 kakakumag.com###_popIn_recommend
 jiji.com###_popIn_recommend_2
 otekomachi.yomiuri.co.jp###_popIn_right
+e-mansion.co.jp###ad_modal
+portal.auone.jp###arpu-video-player-display
+sp.netkeiba.com###cboxOverlay
+autoway.jp###cm_attend_popup
+sp.netkeiba.com###colorbox:has(#ModalLink > img[src^="https://cdn.netkeiba.com/img.sp/banner_image.php"])
 oh-my-teeth.com###cta-sticky-banner
 news.denfaminicogamer.jp###dfng-popup
 dandy-house.co.jp###entryprompt_area
 toptoon.jp###floatingBnr
-comnico.jp###hs-web-interactives-bottom-anchor
+kaitori-dx.com###footBnr
+at-jinji.jp###footerBannerWrap
+camtsuku.com,comnico.jp,kumanichi.com###hs-web-interactives-bottom-anchor
 suumo.jp###js-pageTop
+rentio.jp###karte-c
 nyanpedia.com###melmaga-popup
 kotobank.jp###myPaymentModal
+kusurinomadoguchi.com###page-banner
 280blocker.net,biglobe.ne.jp###page-top
 tabelog.com###page-up
 carview.yahoo.co.jp###pg_top
+shika-kokushi.com###popup__breakaway__prevention
+shika-kokushi.com###popup__scroll
 sofmap.com###remote_cs
 ec-store.net###rt\.popup-overlay_rt_popup_sws
 ec-store.net###rt_popup_sws
+roudou-pro.com###scroll_popup_overlay
 japanpost.jp###topBtn
 sofmap.com###voc_ec_button
+oita-press.co.jp##.FloatingBanner
 carview.yahoo.co.jp##.ai_floating_bnr
+gigabaito.com##.article-banner-cta
 hotpepper.jp##.autoScrollBtn
+kusurinomadoguchi.com##.balloon
+yodosha.co.jp##.banner-block
+biccamera.com##.bcs_listItem > ul > .prod_box:has(> p > a[href^="https://e.s4p.jp/"] > span.bcs_pr)
 jingukan.co.jp##.bfb_textBtn
+anglers.jp##.bottom-banner-container
 kakaku.com##.c-feed_cell:has(> a > div.c-global_pr)
+keibana.com##.c-side__section__news__item:has(> a.c-side__section__news__link[onclick^="gtag"])
 bedstyle.jp##.code-mc-container-panel:has(a[href$="/ranking.html"])
 mbs.jp##.common-wrap--ranking
 mbs.jp##.common-wrap--recommend
+anglers.jp##.custom_campaign_pr
 diners.co.jp,sumitclub.jp##.dc__pagetop
+zurich.co.jp##.fixed-pop-cta
+shika-kokushi.com##.fixed_bottom_banner
+column.valx.jp##.floating
 webtsc.com##.footer-totop
 allnightnippon.com##.footer_pagetop
 nativecamp.net##.hey-nc-bottom-link-banner
 nativecamp.net##.hey-nc-top-banner
 plus.nhk.jp##.hls-player_message
 media.moneyforward.com##.home-ranking
+keibana.com##.home__movie__banner-inner
+reasnows1.jp##.hoverner
+raysee.jp##.hs-modal:has(a[href^="https://lp.raysee.jp/enquete"])
 mastory.jp##.l-fixed
+yutorize.2-d.jp##.main-yakiniku-area
 media.moneyforward.com##.mp-popin-analytics
 media.moneyforward.com##.mp-recommends
+e-mansion.co.jp##.new-building-label
 video.fc2.com,video.laxd.com##.noLoginSticker
 ntv.co.jp##.ntv-pageTop
 realtime-chart.info##.osn_base
 mastory.jp##.p-article__banners
 gamespark.jp,response.jp##.page-top
 mobilenews.jp##.pagetop
+arukikata.co.jp##.popin
+gigabaito.com##.popup-wrap:has(> div.onetime_popup)
 dandy-house.co.jp##.post_content > a[href*="?utm_source"] > img
 mastory.jp##.qualvaBtn
+raysee.jp##.ranking-demo-img
 news.yahoo.co.jp##.riff-BackTop__root
 sp.nicovideo.jp##.searchResult-nicoadNicodicItem
 sofmap.com##.side_bnr
-nicovideo.jp##div[class*="anim-n_slideFadeInFromBottom"]
+dime.jp##.sidebarRanking
+young-machine.com##.widget_block [href^="/game/"]
+filmora.wondershare.jp##.ws-ad-new
+buttersc.one,gp.tsukimi.club,invillage-outvillage.com,misskey.gamelore.fun,misskey.neos.love,misskey.systems,mivatter.com,mk.yopo.work,msk.kitazawa.me,nijimiss.moe,novelskey.tarbin.net,oekakiskey.com,side.misskey.productions,sushi.ski,voskey.icalo.net##.xF6dY
+anglers.jp##div[data-react-class="commons/InterstitialBanner"]
+qiita.com##div[data-testid="popup-login"]
+gendai.media##div[data-testid="sidebar-ad-slider"]
+allabout.co.jp##div[data-tracking-zone="modules-content-relatedArticleAboveArticleFrame"]:has(> div[class^="css-"] [href^="https://allabout.co.jp/product/"][target="_blank"])
+loungegamejoin.site##div[id^="idGoogleAd"]
+rentio.jp##script + .karte-action-root.karte-modal-root[style="display: block;"]
+aps1.travel.rakuten.co.jp##table[width="750"]:not([class]):has(> tbody > tr > td > a[href^="https://img.travel.rakuten.co.jp/image/tr/ad/"])
 ||amazonaws.com/cdn.ma-site.com/common/chatbots.js$domain=mastory.jp
 ||api.popin.cc^$third-party
 ||bot.agerun.jp^$third-party
 ||chatboost-cv.algoage.co.jp^$third-party
+||column.valx.jp/wp-content/themes/jin/img/bnr_wpc.png
+||exactdn.com/wp-content/themes/linxas/js/popup.js$domain=linxas.shop
+||gacraft.jp^$third-party
+||hellointerior.jp/note/wp-content/themes/stinger5_201904/images/reception_banners/
 ||img.mixi.net^$third-party,domain=~mixi.jp
 ||medibot-image.s3.ap-northeast-1.amazonaws.com/medibot_lp_
 ||pop.unitedgate.co.jp^$third-party
 ||re-volver.net/visitor/
 ||share.gree.jp^$third-party
+||torimochi-ad.net^$third-party
 ||webwidget.shanon-services.com^$third-party
 ||yanmaga.jp/viewer/banner.html
 !
@@ -433,6 +485,7 @@ polska-ie.com##.arrow_carrot-2up
 mpolska24.pl##.infoBox
 gda.pl##.shotimoo
 gosc.pl##div[style*="position: fixed"]
+tokfm.pl##how_much-component
 !
 ! ---------- Polish Site Specific Blocking Rules ----------
 !
@@ -447,9 +500,12 @@ tyrantscans.com###scTop
 taosect.com###ssttbutton
 revistaencontro.com.br##.fixed-btn-uai
 dnoticias.pt##.podcasts-home
+cartacapital.com.br##.s-donate
 intercept.com.br##.single-content-apoie-lg
 viomundo.com.br##.support
 mundodastribos.com##.up_btn
+rtp.pt##.validacao-registo
+noticias.cancaonova.com##.widget-daime-almas-container
 ||smonitor.com.br^$third-party
 !
 ! ---------- Romanian Site Specific Hiding Rules ----------

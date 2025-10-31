@@ -7,6 +7,9 @@
 ! ||go.playbackbone.com^
 ! ||t.ac.pandora.com^
 ! ||stream.9now.com.au^
+! ||link.tubi.tv^
+! ||app.teachfx.com^
+! ||open.airtelxstream.in^
 !
 ! Company name: Branch.io
 !
@@ -689,7 +692,6 @@
 ||app.tajawal.com^
 ||app.talksport.com^
 ||app.task.io^
-||app.teachfx.com^
 ||app.test.elly.com^
 ||app.th3rdwave.coffee^
 ||app.theachieveapp.com^
@@ -1835,7 +1837,6 @@
 ||get.pulsega.me^
 ||get.qapital.com^
 ||get.recolor.info^
-||get.revolut.com^
 ||get.reward.me^
 ||get.riyazapp.com^
 ||get.roomiapp.com^
@@ -3015,7 +3016,6 @@
 ||link.trycircle.com^
 ||link.trymida.com^
 ||link.trytaptab.com^
-||link.tubi.tv^
 ||link.tul.io^
 ||link.tumblbug.com^
 ||link.tupinambaenergia.com.br^
@@ -3500,7 +3500,6 @@
 ||onelink.taptalk.io^
 ||open-test.wynk.in^
 ||open.ailo.app^
-||open.airtelxstream.in^
 ||open.anghami.com^
 ||open.bitcoinmagazine.app^
 ||open.catchapp.mobi^

@@ -1,6 +1,6 @@
 # EasyList / EasyPrivacy / Fanboy Lists
 
-These lists are maintained by Fanboy (a.k.a. ryanbr), MonztA, Khrin, Yuki2718, and piquark6046.
+These lists are maintained by Fanboy (a.k.a. ryanbr), MonztA, Khrin and Yuki2718.
 
 ## EasyList
 
@@ -37,7 +37,7 @@ For legal reasons, Anti-adblock will only cover:
 ## Abusive adservers are classed as ad or tracking providers that continuously deploy new revolving domains to evade Easylist or Easyprivacy. 
  - Using "Revolving domains" with harmful javascript and popups.
  - We are an adblock and privacy list.
- - Montoring Easylist Github commits to then circumvent adblock filters with changing/revolving domains or scripts.
+ - Monitoring Easylist Github commits to then circumvent adblock filters with changing/revolving domains or scripts.
  - Adcompanies websites have no useful purpose for Easylist/Easyprivacy users except trying to create more counters and more spam domains.
  - It doesn't matter if the source domain is a different domain. We don't care.
  - Will be blocked without warning.
@@ -60,7 +60,7 @@ The goal of this repository is to block tracking and improve end user privacy by
  - Impressions / Event / Perf / Pageview logging
  - User agent checks or monitoring
  - Resource miners
- - Hit counters
+ - Third-party Hit counters
  - CNAME trackers
  - Notification servers / popups including any tracking covered by Easyprivacy policy
  - Linking, loading or initialising to known tracking servers or scripts
@@ -105,6 +105,17 @@ If your site was added to EasyList or EasyPrivacy:
  - If already decided that a filter won't be removed or changed, emailing again won't change the decision. Email will be flagged and ignored.
  
 For any issues or questions, create a ticket: [Github](https://github.com/easylist/easylist/issues) [E-mail](mailto:easylist@protonmail.com), or via [Forum](https://forums.lanik.us/).
+
+## Commit Policy
+
+EasyList commit messages use three prefixes to indicate the type of a change:
+- **A:** *Added* a new filter
+- **M:** *Modified* the existing filter for a website, either to match a website's update or to clean up the lists
+- **P:** *Problem* fix for a website, such as removing existing filters or making them more specific
+
+## Licence
+
+Visit [easylist.to/pages/licence.html](https://easylist.to/pages/licence.html).
 
 ## Support
 

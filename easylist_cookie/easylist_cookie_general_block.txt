@@ -3,7 +3,6 @@
 -consent-banner.
 -cookie-banner-$script
 -cookie-banner.
--cookie-bar.
 -cookie-cnil.
 -cookie-consent-$~script
 -cookie-consent.$~script,domain=~django-cookie-consent.readthedocs.io
@@ -41,7 +40,6 @@
 /_cookienotice.js
 /_gz/_privacy.
 /_js__cookie_functions.js
-/acc.cookienotification.js
 /adk-iubenda.js
 /adsconsent.min.js
 /adscookies.js
@@ -55,7 +53,6 @@
 /am2-gdpr-public.js
 /amasty/amgdpr/cookie.js
 /amasty/amgdpr/main.js
-/amasty_gdprfrontendui/*
 /amCookieApproval.min.js
 /amds-cookies.js
 /amp-consent-
@@ -91,7 +88,6 @@
 /bica-cookie-alert/js/bica.min.js
 /bluelabs-gdpr.js
 /borlabs-cookie-prioritize.min.js
-/borlabs-cookie.min.js
 /borlabs-cookie/vendor-list.json
 /brainforce.cookies/jquery.ihavecookies.min.js
 /branding/cb-scripts-
@@ -110,6 +106,7 @@
 /ccm19/public/index.php/app.js
 /ccpa/getPrivacyFlag?
 /ccpa/prod/*
+/cdn-cgi/zaraz/*
 /checkCookieConsent/*
 /chefcookie.min.js
 /ckpl-webc.min.js
@@ -136,16 +133,15 @@
 /cnil.js
 /cnil.min.js
 /common-cookie-bar.min.js
-/complianz.min.js
 /consent-banner-
 /consent-box.js
-/consent-layer-loader.js
 /consent-manager.js
 /consent-manager.min.js
 /consent-modal.js
+/consent-mode/eu/*$script
 /consent-tracking-api.js
-/consent.min.js?
 /consent/app.js?
+/consent/consent-manager/*$script
 /consent/cookie.js
 /consent/public/app.js
 /consent_banner.js
@@ -179,6 +175,7 @@
 /cookie-consent-min.js
 /cookie-consent.js
 /cookie-consent.min.js
+/cookie-consent/view.js
 /cookie-control.js
 /cookie-disclaimer.js
 /cookie-disclaimer.min.js
@@ -216,7 +213,6 @@
 /Cookie-popup-
 /cookie-popup.js
 /cookie-popup.min.js
-/cookie-popup?
 /cookie-privacy-
 /cookie-prompt.js
 /cookie-richtlinie.js
@@ -226,6 +222,7 @@
 /cookie.banner.js
 /cookie.euck.js
 /cookie.latest.min.js
+/cookie.manager.bitrix24/*
 /cookie.notice.js
 /cookie.notice.min.js
 /cookie.notify.js
@@ -250,7 +247,6 @@
 /cookie_banner_
 /cookie_bar.js
 /cookie_consent.$~stylesheet
-/cookie_consent/*
 /cookie_consent_min_js.js
 /cookie_flyout.js
 /cookie_hint.js
@@ -269,6 +265,7 @@
 /cookie_policy/ack.js
 /cookie_warning.js
 /cookie_ws.js
+/Cookie_Zustimmung.js
 /cookieaccept.js
 /cookieaccept.min.js
 /cookieaccept.php
@@ -295,7 +292,6 @@
 /cookiebar.jquery.$script
 /cookiebar.js
 /cookiebar.min.js
-/cookiebar/*
 /cookiebar_$~stylesheet
 /cookieblocker.min.css
 /cookiebox.js
@@ -311,14 +307,11 @@
 /cookiecompliance.js
 /cookiecompliancy.js
 /cookiecompliancy.min.js
-/cookieConsent-$script
 /cookieconsent.bundle.js
 /cookieconsent.js
 /cookieconsent.latest.min.js
 /cookieconsent.min.$~stylesheet
 /cookieconsent.umd.js
-/cookieconsent/*
-/cookieconsent?
 /cookieconsent_.min.js
 /cookieconsentbar.js
 /cookieconsentpopup.js
@@ -326,7 +319,7 @@
 /cookiecontrol-
 /cookiecontrol.js
 /cookiecontroller.js
-/cookiecutter.js
+/cookiecutter.js|$script
 /cookiecutter.min.css
 /cookiecuttr.css
 /cookiecuttr.js
@@ -349,6 +342,7 @@
 /cookiehint.min.js
 /cookiehinweis.js
 /cookiehinweis.min.js
+/cookiehinweis/script.js
 /cookieinfo.js
 /cookieinfo.min.js
 /cookieinfo2.min.js
@@ -409,7 +403,6 @@
 /cookieprivacy.js
 /cookieprivacy.min.js
 /cookies-anekis.js
-/cookies-banner$script
 /cookies-consent.js
 /cookies-directive.js
 /cookies-disclaimer.js
@@ -453,6 +446,7 @@
 /cookiesApproval.js
 /cookiesbanner.js
 /cookiesbanner/*
+/cookiesbythebook.js
 /cookiesConsent.js
 /cookiesConsent.min.js
 /cookiescontrol-
@@ -461,7 +455,6 @@
 /cookiesdirective.min.js
 /cookiesdisclaimer.js
 /cookieser.js
-/cookieSettings.js
 /CookieSettingsManager?
 /cookiesgdpr?
 /cookiesJS.js
@@ -504,7 +497,8 @@
 /debugged-cookiebar.min.js
 /designil-pdpa/*
 /dh_cookie_manager_1.js
-/didomi.js
+/didomi.js|
+/didomi.min.js
 /didomi/loader.js
 /digicookies.js
 /disclaimer-cookies.js
@@ -513,6 +507,7 @@
 /dist/gdpr-$domain=~express.co.uk
 /dist/orejime.js
 /diyscmp.min.js
+/django_privacy_mgmt/*$script
 /dkmb_gdpr.js
 /dl.cmp.min.js
 /dock-privacy-settings.esm.js
@@ -545,8 +540,7 @@
 /eu-cookielaw.min.js
 /eu-notice.js
 /eu_cookie.js
-/eu_cookie_compliance.js
-/eu_cookie_compliance.min.js
+/eu_cookie_compliance.$script
 /eu_cookies.js
 /eu_privacy.js
 /euc_cookie.js
@@ -561,7 +555,6 @@
 /eurocookie.css
 /eurogdpr/prod/utag.js
 /evidon-banner.js
-/evidon-sitenotice-tag.js
 /exponea.min.js
 /ext/kmacookies/Resources/*
 /fcc-cookie-consent.min.js
@@ -571,11 +564,11 @@
 /Flurrybox_EnhancedPrivacy/js/view/popup.min.js
 /fnGdpr.js
 /fortune_cookie_popup.js
-/fs-cc.js
 /fs-cc.min.js
 /fx_cookiesV3.js
 /fxCookiesV3.css
 /g4cookies.js
+/gd-cookie2.js
 /gdpr-assets-
 /gdpr-banner.js
 /gdpr-banner.min.js
@@ -588,7 +581,7 @@
 /gdpr-consent.js
 /gdpr-consent.min.js
 /gdpr-consent/*
-/gdpr-cookie-compliance/dist/scripts/main.js
+/gdpr-cookie-consent.min.js
 /gdpr-cookie.js
 /gdpr-min.js
 /gdpr-popup-
@@ -605,7 +598,6 @@
 /gdpr/banner.js
 /gdpr/bundle.min.js
 /gdpr/disp.js
-/gdpr/gdpr.$script
 /gdpr/optInCookieSSR?
 /gdpr/pdcc.min.js
 /gdpr/spd.js
@@ -638,6 +630,7 @@
 /gp-cookie-consent/v2/script.js
 /grt-cookie-consent.min.js
 /gtm-consent.js
+/harvest-consent-monitor-assets/*
 /homepage-cookie-
 /hp-cookie-message.js
 /ht_cookielaw.js
@@ -678,6 +671,7 @@
 /jcookie_v2.js
 /jcookielaw-iubenda.js
 /jEuCookieLaw.min.js
+/jgs_consent_cookie.js
 /jquery.bpcookies.min.js
 /jquery.bs.gdpr.cookies.js
 /jquery.coo-kie.js
@@ -693,11 +687,13 @@
 /jquery.erigo-cookies.js
 /jquery.eu-cookie-consent.js
 /jquery.fscookieconsent.js
+/jquery.ihavecookies.js
 /jquery.tipsy.cookie.
 /jqueryCookieGuard.
 /js/CookieManager.js
 /js/cookiePolicy?
 /js/CookiePrompter-
+/js/core/LdCookieConsent.js
 /js/eprivacy.js
 /js/onetrust/*
 /js/rodo.js
@@ -712,6 +708,7 @@
 /klaro-no-css.js
 /klaro-no-translations-no-css.js
 /klaro-styles.min.
+/kvkk.cookie.v2.min.js
 /leyCookies.js
 /lgdpscript.min.js
 /lgpd-cookie.js
@@ -731,6 +728,7 @@
 /MarkupCookieConsent.min.js
 /mb_cookies.js
 /mco-consent.js
+/mcs-cookie-permission.js
 /mdv.cookie.js
 /mea-legal-consent.
 /mediamus-cookie.js
@@ -766,8 +764,6 @@
 /oiljs/*-RELEASE.min.js
 /on-cookie-response.js
 /one_trust/*
-/oneTrust-
-/oneTrust.
 /onetrust/consent/*
 /onetrustConsent.js
 /onpc-cookie-notice.js
@@ -778,7 +774,7 @@
 /osb_consent.min.js
 /otBannerSdk.js
 /oxcookienote.min.js
-/pandectes-gdpr-compliance-49/assets/pandectes-core.js
+/pandectes-core.js
 /pdcookiepro//views/js/front.js
 /pdcookiepro/cookie?
 /pescookies.min.js
@@ -793,6 +789,9 @@
 /plugins/ct-ultimate-gdpr/assets/*
 /plugins/easy-wp-cookie-popup/*
 /plugins/gdpr/dist/js/public.js
+/plugins/responsive-cookie-consent/*$script
+/plugins/uncode-privacy/*$script
+/plugins/webtoffee-gdpr-cookie-consent/*$script
 /pm-privacy.js
 /policy_cookie.js
 /policyaccept.js
@@ -839,7 +838,6 @@
 /redandblue-cookies/dist/js/index.js
 /retargetting/js/setcookie.js
 /rg-gdpr.js
-/rgpd.js
 /rgpd/discreto.min.js
 /rgpd/js/*
 /rgpd/view/*
@@ -859,11 +857,11 @@
 /Ronis_Cookie/js/segment-preferences-popup.js
 /roularta-gdpr.js
 /rtiCookieLaw.js
-/s4s-privacy-module/*$script
 /sc-gdpr-popup.js
 /script_cookie.js
 /script_cookies.js
 /scripts/cookiebar/*
+/scw-cookie-iub.min.js
 /sdk-cookie-consent-v2.js
 /sdk-gdpr.min.js
 /sdk.privacy-center.
@@ -872,6 +870,7 @@
 /sf-tagomo-privacy.js
 /si-cookie-manager.js
 /sibbo-cmp-core.js
+/silktide-consent-manager.js
 /silverstripe-dsgvo-cookies/js/cookies.js
 /simpler-cookie-consent.umd.js
 /sizzlegdpr.snippet.min.js
@@ -896,7 +895,6 @@
 /syrenis-cookie-management.js
 /ta2021-plugin-cookie-consent/build/bundle.
 /tab-consent-manager.js
-/tarteaucitron.js
 /tc_privacy/privacy.js
 /tcf/cookie.js
 /tcf2.js
@@ -904,6 +902,7 @@
 /terms_of_service.js
 /tfcookie.js
 /thcookie.js
+/tincx-cookie/js/cookiebanner-$script
 /tiny-cookie.min.js
 /tm.cookie.js
 /tnzcookie/views/*
@@ -939,8 +938,12 @@
 /widget_privacy/scripts/init.js
 /wkp_cookies.js
 /wordpress-gdpr-custom.css
+/wp-content/plugins/consent-magic-pro/assets/scripts/cs-public.min.js
 /wp-content/plugins/cookies-and-content-security-policy
+/wp-content/plugins/gdpr-cookie-compliance/*
 /wp-content/plugins/real-cookie-banner-pro/*
+/wp-content/plugins/webtoffee-cookie-consent/*
+/wp-content/plugins/wpconsent-premium/build/frontend-pro.js
 /wp-gdpr-compliance/assets/js/front.min.js
 /wp-tarteaucitron-js-self-hosted/js/main.js
 /wp-tarteaucitron-js/js/tarteaucitron/tarteaucitron.js
@@ -950,7 +953,7 @@
 /wpjslib-sgap.js
 /wpjslib-stat.js
 /wps-cookie-consent/public/assets/js/main.js
-/ws5_eucookie/frontend/js/dist/main.js
+/ws5_eucookie/*$script
 /wx-cookie-
 /x13eucookies/views/js/front.js
 /xt_cookie_consent.js

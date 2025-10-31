@@ -36,6 +36,11 @@ tradingview.com##+js(nostif, window.loginStateChange.subscribe)
 ! reg nag
 nerdwallet.com##._1y2JXo
 nerdwallet.com##body,html:style(overflow: auto !important; position: initial !important;)
+! r34.app
+r34.app##+js(set-local-storage-item, statistics-appOpenedCount, 1)
+! marketplace.org
+marketplace.org##.CampaignType--popup
+marketplace.org##html:style(overflow: auto !important; position: initial !important;)
 ! vox.com
 vox.com##+js(set-local-storage-item, vox_article_readcount, $remove$)
 vox.com##+js(set-local-storage-item, vox_article_readcount_count, $remove$)
@@ -77,9 +82,17 @@ irishnews.com##+js(set-local-storage-item, ArcP, $remove$)
 reason.com##.widget-placed:style(top:0 !important)
 ! nautil.us
 nautil.us##+js(cookie-remover, arc)
+! rtings
+rtings.com##.insider_notice
+rtings.com##+js(cookie-remover, current-pageviews)
+rtings.com##+js(cookie-remover, product-previews)
 ! commondreams.org
+commondreams.org,truthout.org##iframe[title="Popup"][src="about:blank"]
+commondreams.org##.popup--backdrop
 commondreams.org##.breaking-news-top-wrapper
 commondreams.org##.sticky__blackbar:style(top:0 !important)
+commondreams.org,truthout.org##.fun-widget-backdrop-holder
+commondreams.org,truthout.org##body,html:style(overflow: auto !important; position: initial !important;)
 ! reuters.com (page view counter)
 reuters.com##+js(set-local-storage-item, ArcP, $remove$)
 ! theweek.com
@@ -98,6 +111,8 @@ opensecrets.org##+js(rc, js-no-scroll, html, stay)
 ! kartable.fr
 kartable.fr##push-more-content
 kartable.fr##body,html:style(overflow: auto !important; position: initial !important;)
+! gmap-pedometer.com
+gmap-pedometer.com##+js(set-cookie, patreonAnnouncementShown, true)
 ! scribd.com
 scribd.com##._2kkM6y:style(padding-top: unset !important;)
 scribd.com##.exit_modal
@@ -143,6 +158,8 @@ gmarket.co.kr##+js(set, document.onmousedown, noopFunc)
 ! For the overlay
 !www.youtube.com###ytd-watch-flexy[player-unavailable] #player-container-outer.ytd-watch-flexy:style(visibility: visible !important;)
 !www.youtube.com###yt-playability-error-supported-renderers:style(display: none !important;)
+! https://github.com/uBlockOrigin/uAssets/issues/20586#issuecomment-2695739357
+m.youtube.com##+js(json-prune, overlay.bottomSheetOverlayRenderer, overlay.bottomSheetOverlayRenderer.displayImmediately)
 ! https://github.com/uBlockOrigin/uAssets/issues/21076
 grammarly.com##.ReactModalPortal:has-text(confidence)
 grammarly.com##body:style(overflow: auto !important;)
@@ -171,23 +188,32 @@ mathway.com##.ch-bubble-border.clickable .ch-bubble-action:style(pointer-events:
 ! perplexity.ai (login popup) 
 perplexity.ai##+js(set-session-storage-item, signUpBannerDismissed, true)
 perplexity.ai##+js(set-session-storage-item, shouldShowAuthBannerAfterQuery, false)
+! uploadvr.com (login popup)
+uploadvr.com##+js(set-local-storage-item, dismissedUpgradePrompt, true)
 ! seekingalpha.com (login popup)
 seekingalpha.com##+js(set-local-storage-item, __tp-gaAccount, disabled)
 ! https://github.com/uBlockOrigin/uAssets/issues/23722
 nisanyansozluk.com##+js(set-local-storage-item, newYeradlariWebsiteHidden, true)
+! https://github.com/uBlockOrigin/uAssets/issues/30117
+infowars.com##+js(set-session-storage-item, stream, true)
+! dutchnews.nl nag
+dutchnews.nl##+js(set-cookie, dn_alert_homescreen_closed, 1)
+dutchnews.nl##+js(set-cookie, dn_donation_count, 1)
 ! sportsbusinessjournal.com
 sportsbusinessjournal.com##+js(cookie-remover, sbj_archiveStatus)
 sportsbusinessjournal.com##.paywall-footer-container
+! techinasia.com nag
+techinasia.com##+js(cookie-remover, arts)
 ! apnews.com
 apnews.com##.fancybox-overlay-fixed
 apnews.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! news.mongabay.com
-news.mongabay.com###hs-web-interactives-top-anchor
-news.mongabay.com##body,html:style(overflow: auto !important; position: initial !important;)
+currentaffairs.org,news.mongabay.com###hs-web-interactives-top-anchor
+currentaffairs.org,news.mongabay.com##body,html:style(overflow: auto !important; position: initial !important;)
 ! democracynow.org
 democracynow.org##+js(set-cookie, campaign_seen_today, true)
 ! reuters.com (top banner)
-reuters.com##.site-header__inner__ZJDlb:style(top:0 !important)
+reuters.com##.site-header__inner__3w4vv:style(top:0 !important)
 ! pawread.com (forced login, https://github.com/uBlockOrigin/uAssets/issues/24198)
 pawread.com##+js(set-local-storage-item, countChapterNum, $remove$)
 ! 4kdownload.com (fix top empty space)
@@ -199,14 +225,53 @@ theolivepress.es##+js(remove-cookie, issuem_lp)
 ! plough.com
 plough.com##.article-paywall 
 plough.com##+js(remove-cookie, ArticlePaywallList)
+! inscribed.app popup
+inscribed.app##+js(set-local-storage-item, hasVisitedBefore, true)
+! demo popup
+salary.com###sal-demoform-container
+salary.com##.modal-backdrop
+salary.com##body:style(overflow: auto !important; position: initial !important;)
+! article counter
+firstthings.com##+js(set-cookie, pum_popup_14631_page_views, 1)
+!  politico.com login wall
+politico.com,politico.eu,bbc.com,climbing.com,themonthly.com.au,thesaturdaypaper.com.au,nypost.com,triathlete.com##+js(cookie-remover, xbc)
+! tncms login wall
+niagarafallsreview.ca,stcatharinesstandard.ca,therecord.com,thespec.com,thestar.com,wellandtribune.ca##+js(remove-cookie, /^tncms:meter:/)
+! mutualart.com login wall 
+||mutualart.com/Ajax/AjaxLoader/Popup
+mutualart.com##.modal-backdrop
+! chatgpt.com login popup
+chatgpt.com##+js(set-session-storage-item, oai/apps/noAuthHasDismissedSoftRateLimitModal, true)
+! hartfordbusiness.com login wall
+hartfordbusiness.com##.paywallMsgTypeTwo
+hartfordbusiness.com##.payWallOverlay
+hartfordbusiness.com##+js(remove-cookie, meter_haystack)
+! investing.com
+||monetization.prod.invmed.co^
+||investing.com/gcode/
+investing.com##+js(remove-cookie, lifetime_page_view_count)
+investing.com##+js(remove-cookie, page_view_count)
+page_view_count
+! commonwealmagazine.org login wall
+commonwealmagazine.org###paywall-message
+commonwealmagazine.org##+js(remove-cookie, Drupal_visitor_paywall)
+! medscape.com login wall
+medscape.com##.fpf-footer-container
+medscape.com##body:style(overflow: auto !important;)
 ! startribune.com (login/reg check)
 startribune.com##+js(remove-cookie, client_id)
+! https://github.com/uBlockOrigin/uAssets/issues/27421
+theverge.com##+js(aeld, scroll)
 ! accuradio.com (login nag)
 accuradio.com##.ReactModal__Overlay--after-open.ReactModal__Overlay
 ! Mouse out nags
-alibaba.com,dhgate.com,aliexpress.com,temu.com,newscentermaine.com,5newsonline.com,fox61.com,newscentermaine.com,wtol.com,wiz.io,winnipegfreepress.com,khou.com,abc10.com,12news.com,ksdk.com,whas11.com,wfmynews2.com,wbir.com,wzzm13.com,wltx.com,wqad.com,wnep.com,wgrz.com,cbs8.com,firstcoastnews.com,kare11.com,wtsp.com,ajc.com,wfaa.com,9news.com,fox2now.com,wcnc.com,13newsnow.com,wsvn.com,abc15.com,wwltv.com,wkyc.com,wthr.com,11alive.com,wcnc.com,wusa9.com,wfaa.com,9news.com,fox2now.com,abc15.com,wwltv.com,wkyc.com,king5.com,11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
+10tv.com,kens5.com,newscentermaine.com,5newsonline.com,fox61.com,newscentermaine.com,wtol.com,wiz.io,winnipegfreepress.com,khou.com,abc10.com,12news.com,ksdk.com,whas11.com,wfmynews2.com,wbir.com,wzzm13.com,wltx.com,wqad.com,wnep.com,wgrz.com,cbs8.com,firstcoastnews.com,kare11.com,wtsp.com,ajc.com,wfaa.com,9news.com,fox2now.com,wcnc.com,13newsnow.com,wsvn.com,abc15.com,wwltv.com,wkyc.com,wthr.com,11alive.com,wcnc.com,wusa9.com,wfaa.com,9news.com,fox2now.com,abc15.com,wwltv.com,wkyc.com,king5.com,11alive.com##+js(aeld, /^(mouseout|mouseleave)$/)
+! mouseout causes issues with hover-video
+x.com,instagram.com,alibaba.com,dhgate.com,aliexpress.com,aliexpress.us,temu.com##+js(aeld, mouseleave)
 ! rumble.com nag
 rumble.com##+js(set-cookie, premium_popup, 1)
+! novafork
+novafork.com##+js(set-local-storage-item, donationPopupShown, true)
 ! americanaffairsjournal.org
 americanaffairsjournal.org##.paywall-notification-bar-wrapper
 americanaffairsjournal.org##+js(cookie-remover, AAJPaywall)
@@ -240,6 +305,8 @@ csmonitor.com##+js(set-local-storage-item, csm_unique_stories, $remove$)
 ! deepl.com (login nag and app popup)
 deepl.com##+js(set-local-storage-item, LMT_freeUserUsageBlock, $remove$)
 deepl.com##+js(set-local-storage-item, onboardingData, $remove$)
+! Hide lightbox
+oceana.org##+js(set-cookie, HideDonationLightbox, 1)
 ! https://github.com/uBlockOrigin/uAssets/issues/24709
 yoreparo.com##.cta-bajo-pregunta + div[class^="div-block"]
 yoreparo.com##.post.blur:style(filter: none !important;)
@@ -251,31 +318,41 @@ watchsomuchproxy.com##.modal-backdrop
 watchsomuchproxy.com###btnStopAds
 watchsomuchproxy.com##body:style(overflow: scroll !important)
 ! Floating video
-texasmonthly.com##.float-player
-texasmonthly.com##+js(rc, float-player, , stay)
-yahoo.com##+js(rc, vp-docked, , stay)
-yahoo.com##+js(rc, vp-docked-mode, , stay)
+9news.com,11alive.com,thehill.com,abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com,telemundopr.com,nbcchicago.com,nbcdfw.com,nbcboston.com,nbcconnecticut.com,nbcphiladelphia.com,nbcsandiego.com,nbclosangeles.com,nbcnewyork.com,nbcbayarea.com,nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com,finance.yahoo.com##+js(aeld, scroll)
 msnbc.com,today.com,nbcnews.com##.styles_stuck__gtILi
 msnbc.com,today.com,nbcnews.com##+js(rc, styles_stuck__gtILi, , stay)
-thehill.com##+js(rc, desktop-floating-player, , stay)
 independent.co.uk##+js(rc, sticky, , stay)
 independent.co.uk,allrecipes.com##+js(rc, jw-flag-floating, , stay)
-nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##.desktop-video-title-bar
-nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##.desktop-floating-player
-nbc4i.com,ktla.com,ktsm.com,kark.com,myarklamiss.com,nwahomepage.com,mytwintiers.com,news10.com,wavy.com##+js(rc, desktop-floating-player, , stay)
-telemundopr.com,nbcchicago.com,nbcdfw.com,nbcboston.com,nbcconnecticut.com,nbcphiladelphia.com,nbcsandiego.com,nbclosangeles.com,nbcnewyork.com,nbcbayarea.com##+js(rc,  video-flyout--fixed, , stay)
 kbtx.com,kptv.com##.powa-sticky
 kbtx.com,kptv.com##+js(rc, powa-sticky, , stay)
-wusa9.com,wkyc.com,9news.com,11alive.com##.video__docker_state_docked
-wfaa.com,wkyc.com,9news.com,11alive.com##+js(rc,  video__docker_state_docked, , stay)
-6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##.dock
-6abc.com,abc11.com,abc13.com,abc30.com,abc7.com,abc7chicago.com,abc7news.com,abc7ny.com##+js(rc, dock, , stay)
+wusa9.com,wkyc.com##.video__docker_state_docked
+wfaa.com,wkyc.com##+js(rc,  video__docker_state_docked, , stay)
 ! cbsnews.com (Floating video)
 cbsnews.com##+js(rc, floating, , stay)
 cbsnews.com##.floating
+! Non-English
 ! https://github.com/uBlockOrigin/uAssets/issues/23310
 www.nicovideo.jp##:matches-path(/\/(search|tag)\//) .nicoadVideoItem
 www.nicovideo.jp##:matches-path(/tag/).nicodicNicoadVideoList
 ! ufret.jp (mobile)
 ufret.jp###full-screen-ad
 ufret.jp##.no-scroll:style(overflow: auto !important;)
+! https://github.com/AdguardTeam/AdguardFilters/issues/201521
+paircare.jp##.suppress-scroll:style(overflow: auto !important;)
+paircare.jp##main > div.lg\:hidden:has(> div.fixed.z-30.inset-0.overflow-y-auto)
+! https://www.saisoncard.co.jp/credictionary/marketing/article_ads_behavioral_economics.html
+saisoncard.co.jp###modal-overlay:has(.form-area-content__img > [src$="/marketing01.jpg"])
+saisoncard.co.jp##body[style="overflow-y: hidden;"]:style(overflow-y: auto !important;)
+! rocket-boys.co.jp
+rocket-boys.co.jp###timeModal
+rocket-boys.co.jp##body[style^="position:"]:style(position: static !important; top: unset !important; width: unset !important;)
+! https://github.com/uBlockOrigin/uAssets/issues/23150
+flightradar24.com##[data-testid="sidebar__container"]
+flightradar24.com##.right-sidebar:style(right: 0 !important)
+! pbs.org
+pbs.org##.popup-type__large_funding
+pbs.org##body,html:style(overflow: auto !important; position: initial !important;)
+! Misskey
+buttersc.one,gp.tsukimi.club,invillage-outvillage.com,misskey.gamelore.fun,misskey.neos.love,misskey.systems,mivatter.com,mk.yopo.work,msk.kitazawa.me,nijimiss.moe,novelskey.tarbin.net,oekakiskey.com,side.misskey.productions,sushi.ski,voskey.icalo.net##+js(json-prune, ads.[].imageUrl)
+! brank.jp
+branc.jp##+js(set-cookie, inc_optin_never_see_again-popup-1, 1)
