@@ -61,8 +61,12 @@ reddit.com##body:style(overflow: auto !important;)
 reddit.com##body:style(pointer-events:auto !important;)
 reddit.com##body.scroll-disabled:style(overflow: visible!important; position: static!important;)
 reddit.com##bottom-bar[app-link-params]
+reddit.com##shreddit-async-loader[bundlename="sidebar_ad"]
+reddit.com##shreddit-async-loader[bundlename="sidebar_ad"]:remove()
 reddit.com##shreddit-async-loader[bundlename="app_selector"]
 reddit.com##shreddit-async-loader[bundlename="app_selector"]:remove()
+
+
 reddit.com##shreddit-experience-tree
 reddit.com##xpromo-top-button
 www.reddit.com##+js(json-prune, data.*.elements.edges.[].node.outboundLink)
