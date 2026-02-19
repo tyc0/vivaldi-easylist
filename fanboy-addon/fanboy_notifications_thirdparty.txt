@@ -6,7 +6,7 @@
 ||bildirnet.com^$third-party
 ||braze.com^$third-party
 ||cappushino.com^$third-party
-||cdn.p-n.io/pushly-sw.min.js
+||cdn.p-n.io^$third-party
 ||cdn.qgr.ph^$third-party
 ||cdn.qgraph.io^$third-party
 ||centrnotify.com^$third-party
@@ -34,6 +34,7 @@
 ||notificaciones-web.com^
 ||notification.tubecup.net^
 ||notifications.ltd^$third-party
+||notifications.viafoura.co^
 ||notifikuj.cz^$third-party
 ||notifstation.com^$third-party
 ||notix.io^$third-party
@@ -107,6 +108,7 @@
 ||signaly.co^$third-party
 ||snrcdn.net^$third-party
 ||spacepush.ru^$third-party
+||surveymonkey.com/fides.js
 ||system-notify.app^$third-party
 ||ternairsoftware.com/publicwebpush/
 ||titanpush.com.br^$third-party

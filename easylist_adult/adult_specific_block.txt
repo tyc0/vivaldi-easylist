@@ -32,6 +32,7 @@
 ||aab.taboohome.com^
 ||ab.fapnado.xxx^
 ||absoluporn.com/code/script/
+||ad.xxam.org^
 ||ad69.com/analytics/
 ||adf.uhn.cx^
 ||adrotic.girlonthenet.com^
@@ -48,7 +49,8 @@
 ||alaska.xhamster3.com^
 ||alrincon.com/nbk/
 ||amateur.tv/misc/mYcLBNp7fx.js
-||analdin.xxx/player/html.php?aid=
+||amateur8.com/frd5/
+||analdin.*/html.php?aid=
 ||analsexstars.com/og/
 ||anybunny.tv/js/main.ex.js
 ||anyporn.com/aa/
@@ -82,11 +84,11 @@
 ||banners.cams.com^
 ||between-legs.com/banners2/
 ||between-legs.com^*/banners/
-||bigcock.one/worker.js
 ||bigdick.tube/tpnxa/
 ||bigtitsgallery.net/qbztdpxulhkoicd.php
 ||bigtitslust.com/lap70/s/s/suo.php
 ||bionestraff.pro/300x250.php
+||bit.ly^$domain=boyfriend.tv|boyfriendtv.com
 ||blogger.googleusercontent.com/img/b/$domain=javdesu.tv
 ||bodsforthemods.com/srennab/
 ||bootyheroes.com//static/assets/img/banners/
@@ -114,6 +116,7 @@
 ||cams.imgtaxi.com^
 ||camvideos.tv/tpd.png
 ||camvideos.tv^$subdocument
+||cdn.sinparty.com/site/banner.html
 ||cdn3x.com/xxxdan/js/xxxdan.vast.
 ||celeb.gate.cc/assets/bilder/bann
 ||cfgr3.com/videos/*.mp4$rewrite=abp-resource:blank-mp4,domain=hitbdsm.com
@@ -226,13 +229,14 @@
 ||gaystream.pw/pemsrv.js
 ||gaystream.pw/pushtop.js
 ||gelbooru.com/extras/
+||giftornado.com/d2.js
+||giftornado.com/js/cam.js
 ||girlsofdesire.org/blr8
 ||go.celebjihad.live^
 ||go.pornav.net^
 ||go.redgifs.com^
 ||go.stripchat.beeg.com^
 ||go.strpjmp.com^
-||haberprofil.biz/assets/*/vast.js
 ||haes.tech/js/script_
 ||hanime.xxx/wp-content/cache/wpfc-minified/fggil735/fa9yi.js
 ||hd21.*/templates/base_master/js/jquery.shows2.min.js
@@ -268,7 +272,6 @@
 ||hornyjourney.com/fr.js
 ||hot-sex-tube.com/sp.js
 ||hotgirlclub.com/assets/vendors/
-||hotgirlsdream.com/tf40bbdd1767.js
 ||hotmovs.com/fzzgbzhfm/
 ||hotmovs.com/suhum/
 ||hottystop.com/f9de7147b187.js
@@ -298,6 +301,7 @@
 ||intporn.com/lj.js
 ||inxxx.com/api/get-spot/
 ||jav-bukkake.net/images/download-bukkake.jpg
+||jav.sb/videojs/300.php
 ||javenglish.net/tcads.js
 ||javfor.tv/av/js/aapp.js
 ||javgg.me/wp-content/plugins/1shortlink/js/shorten.js
@@ -511,6 +515,7 @@
 ||smutgamer.com/ta2b8ed9c305.js
 ||smutty.com/n.js
 ||starwank.com/api/
+||static.javxxx.me^
 ||stream-69.com/code/script/
 ||striptube.net/images/
 ||striptube.net/te9e85dc6853.js
@@ -558,7 +563,6 @@
 ||vipergirls.to/clientscript/poptrigger_
 ||viptube.com/player_right_ntv_
 ||vivatube.*/templates/base_master/js/jquery.shows2.min.js
-||vndevtop.com/lvcsm/abck-banners/
 ||voyeurhit.com/ffpqvfaczp/
 ||vuwjv7sjvg7.zedporn.com^
 ||warashi-asian-pornstars.fr/wapdb-img/ep/
@@ -570,7 +574,6 @@
 ||wetpussygames.com/t78d42b806a3.js
 ||winporn.*/templates/base_master/js/jquery.shows2.min.js
 ||ww.hoes.tube^
-||www8.upload-pics.com^
 ||wwwxxx.uno/pop-code.js
 ||wwwxxx.uno/taco-code.js
 ||x-hd.video/vcrtlrvw/
@@ -641,6 +644,7 @@
 @@||thegay.com/assets/jwplayer-*/provider.hlsjs.js|$domain=thegay.com
 @@||thegay.com/upd/*/assets/preview*.js|$domain=thegay.com
 @@||thegay.com/upd/*/static/js/*.js|$domain=thegay.com
+||thegay.com/static/tf/videos.gjmpa.json
 ||thegay.com^$script,domain=thegay.com
 ! websocket ads
 $websocket,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|xtube.com|youporn.com|youporngay.com

@@ -23,23 +23,25 @@
 ||ad.edugram.com^
 ||ad.mail.ru/static/admanhtml/
 ||ad.mail.ru^$~image,domain=~mail.ru|~sportmail.ru
+||ad.mediamixer.co.kr^
 ||ad.moe.video^
 ||ad.netmedia.hu^
 ||ad.tpmn.co.kr^
 ||ad.video-mech.ru^
 ||ad.wsod.com^
 ||ad01.tmgrup.com.tr^
-||adblock1.static-cloudflare.workers.dev^
 ||adblockeromega.com^
 ||adcheck.about.co.kr^
 ||addefenderplus.info^
 ||adfoc.us^$script,third-party
 ||adinplay-venatus.workers.dev^
 ||adncdnend.azureedge.net^
+||adquire.us.cdn-world.net^
 ||ads-api.production.nebula-drupal.stuff.co.nz^
 ||ads-partners.coupang.com^
 ||ads-yallo-production.imgix.net^
 ||ads.betfair.com^
+||ads.funmora.com^
 ||ads.kelkoo.com^
 ||ads.linkedin.com^
 ||ads.saymedia.com^
@@ -58,8 +60,10 @@
 ||adserving.unibet.com^
 ||adsinteractive-794b.kxcdn.com^
 ||adtechvideo.s3.amazonaws.com^
+||adunblock1.static-cloudflare.workers.dev^
 ||advast.sibnet.ru^
 ||adx-exchange.toast.com^
+||adx.fulcrum.com.fj^
 ||adx.opera.com^
 ||aff.bstatic.com^
 ||affiliate-cdn.raptive.com^$third-party
@@ -79,6 +83,7 @@
 ||amazonaws.com/mailcache.appinthestore.com/
 ||an.yandex.ru^$domain=~e.mail.ru
 ||analytics.analytics-egain.com^
+||anigo.to^$third-party
 ||answers.sg/embed/
 ||any.gs/visitScript/
 ||api-player.globalsun.io/api/publishers/player/content?category_id=*&adserver_id=$xmlhttprequest
@@ -88,6 +93,7 @@
 ||app.clickfunnels.com^$~stylesheet
 ||arkadiumhosted.com/advertisement/
 ||aspencore.com/syndication/v3/partnered-content/
+||assets.everlit.audio/assets/lib/ad_manager-
 ||assets.sheetmusicplus.com^$third-party
 ||audioad.zenomedia.com^
 ||autodealer.co.za/inc/widget/
@@ -153,6 +159,7 @@
 ||cdn.b2.ai^$third-party
 ||cdn.biff.travel^
 ||cdn.csyndication.com^
+||cdn.makemula.ai/js/mula.js
 ||cdn.neighbourly.co.nz/widget/$subdocument
 ||cdn.vaughnsoft.net/abvs/
 ||cdn.yeahwebimobi.fun/r6.png
@@ -215,26 +222,31 @@
 ||dtrk.slimcdn.com^
 ||dunhilltraveldeals.com^$third-party
 ||dx.com/affiliate/
+||dynbanners.netlify.app^
 ||e-tailwebstores.com/accounts/default1/banners/
 ||earn-bitcoins.net/banner_
+||easydmarc.com/tools/$third-party
 ||ebayadservices.com^
 ||ebayrtm.com^
 ||eclipse-adblocker.pro^
 ||ecufiles.com/advertising/
 ||edilportale.com/adv/
 ||elliottwave.com/fw/regular_leaderboard.js
+||embedsports.top/ad.html
 ||engine.eroge.com^
 ||entainpartners.com/renderbanner.do?
 ||epnt.ebay.com^
 ||etrader.kalahari.com^
 ||etrader.kalahari.net^
 ||extensoft.com/artisteer/banners/
+||ezojs.com/ezoic/sa.min.js
 ||facebook.com/audiencenetwork/$third-party
 ||familytreedna.com/img/affiliates/
 ||fancybar.net/ac/fancybar.js?zoneid
 ||fapturbo.com/testoid/
 ||fc.lc/CustomTheme/img/ref$third-party
 ||feedads.feedblitz.com^
+||ffmovies.lol/jss/dectector-2025.js
 ||fileboom.me/images/i/$third-party
 ||filterforge.com/images/banners/
 ||financeads.net/tb.php$third-party
@@ -308,6 +320,8 @@
 ||imgsrv4.com/sponsor/$image
 ||in.com/common/script_catch.js
 ||inbound-step.heavenmedia.com^$third-party
+||increaserev2.static-cloudflare.workers.dev^
+||increaserev3.static-cloudflare.workers.dev^
 ||incrementxplay.com/api/adserver/
 ||indeed.fr/ads/
 ||infibeam.com/affiliate/
@@ -319,6 +333,7 @@
 ||jobs.sciencecareers.org^$subdocument,third-party
 ||jobtarget.com/distrib_pages/
 ||join.megaphonetv.com^$third-party
+||jokiyo.github.io/stera2/$script,third-party
 ||jokiyo.github.io/stera4/$script,third-party
 ||js.gov.cfd^
 ||js.kakuyomu.in^
@@ -363,6 +378,7 @@
 ||marketing.888.com^
 ||marketools.plus500.com/feeds/
 ||marketools.plus500.com/Widgets/
+||masque-ads.b-cdn.net^
 ||masque.com/games/API/advert/
 ||massariuscdn.com/pubs/
 ||mbid.marfeelrev.com^
@@ -377,6 +393,7 @@
 ||mmwebhandler.888.com^
 ||mnuu.nu^$subdocument
 ||mps.nbcuni.com/fetch/ext/
+||msadsscale.microsoft.com^
 ||multimovies.cloud/player/jw8/vast.js
 ||mweb-hb.presage.io^
 ||my.artfiles.online^$third-party
@@ -404,6 +421,7 @@
 ||optimizer.apiswidget.com^
 ||orangebuddies.nl/image/banners/
 ||oscarey.my.id^
+||ourdreamstaticpages.pages.dev^
 ||out.betforce.io^
 ||outbrainimg.com/transform/$media,third-party
 ||owebsearch.com^$third-party
@@ -443,7 +461,6 @@
 ||pr.costaction.com^$third-party
 ||prebid.cwi.re^
 ||press-start.com/affgames/
-||privateinternetaccess.com^$script,third-party,xmlhttprequest
 ||privatejetfinder.com/skins/partners/$third-party
 ||probid.ai^$third-party
 ||promos.fling.com^
@@ -465,6 +482,7 @@
 ||rapidgator.net/images/pics/510_468%D1%8560_1.gif
 ||rdr.wargaming.net^$subdocument,third-party
 ||readme.ru/informer/
+||realtimesearchresults.com/sr/
 ||redirect-ads.com^$~subdocument,third-party
 ||redtram.com^$script,third-party
 ||refershareus.xyz/ads?
@@ -491,6 +509,7 @@
 ||sdk.apester.com/*.adsbygoogle.min.js
 ||sdk.apester.com/*.Monetization.min.js
 ||search-carousel-widget.snc-prod.aws.cinch.co.uk^
+||searchnowexpert.com/sr/
 ||secure.money.com^$third-party
 ||service.smscoin.com/js/sendpic.js
 ||serving.lookverin.com^
@@ -509,6 +528,7 @@
 ||snacklink.co/js/web-script.js
 ||snacktools.net/bannersnack/$domain=~bannersnack.dev
 ||socialmonkee.com/images/
+||solarcdn.me^$third-party
 ||sorcerers.net/includes/butler/
 ||squaremouth.com/affiliates/$third-party
 ||squirrels.getsquirrel.co^
@@ -523,7 +543,6 @@
 ||static.prd.datawars.io/static/promo/
 ||static.sunmedia.tv/integrations/
 ||static.tradetracker.net^$third-party
-||staticmisc.blob.core.windows.net^$domain=onecompiler.com
 ||stay22.com/api/sponsors/
 ||sterra.web.id/stera1/
 ||sterra.web.id/stera2/
@@ -531,6 +550,7 @@
 ||storage.googleapis.com/admaxvaluemedia/
 ||storage.googleapis.com/adtags/
 ||storage.googleapis.com/ba_utils/stab.js
+||storage.googleapis.com/global-attribution/global_attribution.js
 ||streambeast.io/aclib.js
 ||streambtwp.b-cdn.net/aclib.js
 ||stunserver.net/frun.js
@@ -860,6 +880,7 @@
 ||d1mbihpm2gncx7.cloudfront.net^
 ||d1mcwmzol446xa.cloudfront.net^
 ||d1mikxzr3lp4va.cloudfront.net^
+||d1mkq4fbm7j30i.cloudfront.net^
 ||d1my7gmbyaxdyn.cloudfront.net^
 ||d1myn4ixnn41tz.cloudfront.net^
 ||d1n1ppeppre6d4.cloudfront.net^
@@ -908,6 +929,7 @@
 ||d1rguclfwp7nc8.cloudfront.net^
 ||d1rkd1d0jv6skn.cloudfront.net^
 ||d1rkf0bq85yx06.cloudfront.net^
+||d1rnejrnt2c4br.cloudfront.net^
 ||d1rnknz34k1ko0.cloudfront.net^
 ||d1rp4yowwe587e.cloudfront.net^
 ||d1rsh847opos9y.cloudfront.net^
@@ -970,6 +992,7 @@
 ||d1z1vj4sd251u9.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d1z58p17sqvg6o.cloudfront.net^
+||d1zhmd1pxxxajf.cloudfront.net^
 ||d1zjpzpoh45wtm.cloudfront.net^
 ||d1zjr9cc2zx7cg.cloudfront.net^
 ||d1zrs4deyai5xm.cloudfront.net^
@@ -1133,6 +1156,7 @@
 ||d2jtzjb71xckmj.cloudfront.net^
 ||d2juccxzu13rax.cloudfront.net^
 ||d2jw88zdm5mi8i.cloudfront.net^
+||d2jycu2xjxmle1.cloudfront.net^
 ||d2k487jakgs1mb.cloudfront.net^
 ||d2k7b1tjy36ro0.cloudfront.net^
 ||d2k7gvkt8o1fo8.cloudfront.net^
@@ -1166,6 +1190,7 @@
 ||d2muzdhs7lpmo0.cloudfront.net^
 ||d2mw3lu2jj5laf.cloudfront.net^
 ||d2n2qdkjbbe2l7.cloudfront.net^
+||d2n5v45616cm6u.cloudfront.net^
 ||d2na2p72vtqyok.cloudfront.net^
 ||d2nin2iqst0txp.cloudfront.net^
 ||d2nlytvx51ywh9.cloudfront.net^
@@ -1403,6 +1428,7 @@
 ||d3i28n8laz9lyd.cloudfront.net^
 ||d3ikgzh4osba2b.cloudfront.net^
 ||d3imksvhtbujlm.cloudfront.net^
+||d3ipmxzmjf8cw7.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||d3j3yrurxcqogk.cloudfront.net^
 ||d3j7esvm4tntxq.cloudfront.net^
@@ -1515,6 +1541,7 @@
 ||d415l8qlhk6u6.cloudfront.net^
 ||d41j1hzuhqg2.cloudfront.net^
 ||d4bt5tknhzghh.cloudfront.net^
+||d4bx2if8xmi89.cloudfront.net^
 ||d4eqyxjqusvjj.cloudfront.net^
 ||d4ngwggzm3w7j.cloudfront.net^
 ||d5d3sg85gu7o6.cloudfront.net^
@@ -1554,6 +1581,7 @@
 ||da26k71rxh0kb.cloudfront.net^
 ||da327va27j0hh.cloudfront.net^
 ||da3uf5ucdz00u.cloudfront.net^
+||da4talg8ap14y.cloudfront.net^
 ||da5h676k6d22w.cloudfront.net^
 ||da656buijq2gw.cloudfront.net^
 ||da6zbf1armlme.cloudfront.net^
@@ -1638,6 +1666,7 @@
 ||dkvtbjavjme96.cloudfront.net^
 ||dkyp75kj7ldlr.cloudfront.net^
 ||dl37p9e5e1vn0.cloudfront.net^
+||dl4d3y1ajyv3q.cloudfront.net^
 ||dl5ft52dtazxd.cloudfront.net^
 ||dlem1deojpcg7.cloudfront.net^
 ||dlh8c15zw7vfn.cloudfront.net^

@@ -1,6 +1,7 @@
 ! fanboy_annoyance_thirdparty.txt
 ||1worldonline.com^$third-party
 ||24smi.org^$third-party
+||506.io^$third-party
 ||a.mailmunch.co/app/$script,third-party
 ||actionbutton.co^$third-party
 ||activehosted.com^$third-party
@@ -75,6 +76,7 @@
 ||download.skype.com/share/$third-party
 ||ecomsend.com^$third-party
 ||eff.org/bloggers/badges/$third-party
+||embed.polymarket.com^$third-party
 ||emsecure.net^$subdocument,third-party
 ||engage.im^$third-party
 ||engage.newmode.net/embed/
@@ -83,7 +85,6 @@
 ||exitintel.com^$third-party
 ||factors.ai^$third-party
 ||fark.com/js/$third-party
-||feed.mikle.com^$third-party
 ||feedaty.com^$third-party
 ||feedbackify.com/f.js$third-party
 ||feedblitz.com^$third-party
@@ -96,6 +97,7 @@
 ||freetellafriend.com^$third-party
 ||frizbit.com^$third-party
 ||fwix.com^$third-party
+||gameball.co^$third-party
 ||gatherup.com^$third-party
 ||georiot.com^$third-party
 ||getbeamer.com^$third-party
@@ -152,6 +154,7 @@
 ||ko-fi.com/cdn/widget/$third-party
 ||leadfamly.com^$third-party
 ||leadpages.co^$third-party
+||lemrock.com^$third-party
 ||letreach.com^$third-party
 ||letsgetsocialnow.com^$third-party
 ||licensebuttons.net^$image,third-party
@@ -205,7 +208,6 @@
 ||pageimprove.io^$third-party
 ||parse.ly^$third-party
 ||partner.dw.com^$third-party
-||pelcro.com^$third-party,domain=newsweek.com
 ||permalink-system.com^$third-party
 ||phoenix-widget.com^$third-party
 ||pippity.com^$third-party
@@ -216,6 +218,7 @@
 ||player.anyclip.com^$script,third-party,domain=~click2houston.com|~clickondetroit.com|~clickorlando.com|~ksat.com|~news4jax.com|~wsls.com
 ||plista.com^$third-party
 ||plugin.me2day.net^$third-party
+||polls.services.disqus.com^$third-party
 ||postquare.com^$third-party
 ||powerjobs.com^$third-party
 ||pressly.com^$third-party
@@ -244,7 +247,7 @@
 ||repost.us^$third-party
 ||research.net^$third-party
 ||reviewability.com^$third-party
-||riddle.com/embed/$domain=evoke.ie
+||riddle.com/embed/$domain=evoke.ie|mentalfloss.com
 ||rightmessage.com^$third-party
 ||rokt.com^$third-party
 ||royapp.com^$third-party
@@ -300,6 +303,7 @@
 ||techbeat.com/wp-content/custom-php/$third-party
 ||thelovebucks.com^$third-party
 ||theoutplay.com^$third-party
+||timesprayer.today/widget_frame.php
 ||timez.ai/widgets/$third-party
 ||tinker.com^$third-party
 ||tippola.com^$third-party
@@ -310,7 +314,7 @@
 ||tosshub.com/sites/player/media/sana-widget/sana-min.js
 ||trustami.com^$third-party
 ||trustindex.io^$third-party
-||tryinteract.com^$third-party
+||tryinteract.com^$third-party,domain=~savannahgilbo.com
 ||trytada.com^$third-party
 ||tstatic.net/js/copy.js
 ||tuenti.com^$third-party
@@ -397,6 +401,7 @@
 ||carchat24.com/inpagechat/audio/$media
 ||carrotquest.app/sounds/
 ||cdn-widget.callpage.io/build/sounds/
+||cdnapps.avada.io/faq/sounds/
 ||channel.io/plugin/$media
 ||chat.octadesk.services/embed/static/media/$media
 ||chatango.com/pcache/sounds/

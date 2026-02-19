@@ -33,6 +33,7 @@
 /onesignalfix.js
 /OneSignalSDKUpdaterWorker.js
 /OneSignalSDKWorker.js
+/partytown-sw.js
 /perfecty-push-sdk.min.js
 /plugins/tfnotifier-wp/swloader.php
 /push-notification.js
@@ -85,6 +86,7 @@
 /webpush.js
 /webpush.min.js
 /webpush_register.php
+/webpush_service-worker.js
 /webPushNotifications.js
 /wonderpush-loader.min.js
 /wonderpush.js

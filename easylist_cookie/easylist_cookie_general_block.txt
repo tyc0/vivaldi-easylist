@@ -271,6 +271,7 @@
 /cookieaccept.php
 /cookieacceptance.js
 /cookieacceptance.min.js
+/cookieadmin/assets/js/consent.js
 /cookieAgree.js
 /cookieAgree.min.js
 /cookieAgreement.js
@@ -706,7 +707,6 @@
 /klaro-config.js
 /klaro-cookieconsent/config.js
 /klaro-no-css.js
-/klaro-no-translations-no-css.js
 /klaro-styles.min.
 /kvkk.cookie.v2.min.js
 /leyCookies.js
@@ -948,6 +948,7 @@
 /wp-tarteaucitron-js-self-hosted/js/main.js
 /wp-tarteaucitron-js/js/tarteaucitron/tarteaucitron.js
 /wpca-frontend.min.js
+/wpconsent-cookies-banner-privacy-suite/build/frontend.js
 /wpie-common.min.js
 /wpjslib-ecom.js
 /wpjslib-sgap.js

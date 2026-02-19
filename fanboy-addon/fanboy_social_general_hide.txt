@@ -3766,6 +3766,7 @@
 ##.end-social
 ##.entry-aside-shares
 ##.entry-bottom-share
+##.entry-content-share
 ##.entry-footer-share
 ##.entry-meta-share
 ##.entry-meta-social
@@ -4299,7 +4300,6 @@
 ##.follow-social
 ##.follow-social-media
 ##.follow-sprite
-##.follow-text
 ##.follow-tw
 ##.follow-twit
 ##.follow-twitter
@@ -5883,6 +5883,7 @@
 ##.news__share
 ##.news_sns
 ##.newsletter__social-links
+##.nexstar-google-preferred-sources
 ##.ng-sharekit
 ##.ngs-share-button
 ##.ngs-t-share-button

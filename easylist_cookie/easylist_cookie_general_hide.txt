@@ -572,7 +572,6 @@
 ###accept_agree
 ###accept_cookie
 ###accept_cookie_box
-###accept_cookie_modal
 ###accept_cookie_overlay
 ###accept_cookie_widget
 ###accept_cookie_window
@@ -1525,8 +1524,6 @@
 ###consensoCookies
 ###consenso_cookie
 ###consent-agreement
-###consent-banner
-###consent-banner-container
 ###consent-banner-fw
 ###consent-bar
 ###consent-block
@@ -1732,7 +1729,6 @@
 ###cookie-box-info
 ###cookie-btn
 ###cookie-button-banner
-###cookie-card
 ###cookie-cc
 ###cookie-check-box
 ###cookie-checker
@@ -2632,13 +2628,10 @@
 ###cookiePopupBG
 ###cookiePopupBar
 ###cookiePopupContainer
-###cookiePopupContent
-###cookiePopupForm
 ###cookiePopupHolder
 ###cookiePopupInfo
 ###cookiePopupPanelClient
 ###cookiePopupTarget
-###cookiePopupWrapper
 ###cookiePreferences_front-end
 ###cookiePrev
 ###cookiePrivacy
@@ -3067,7 +3060,6 @@
 ###cookie_wrapper2
 ###cookie_yes_info
 ###cookieabfrage
-###cookieaccept
 ###cookieacceptance
 ###cookieaccepter
 ###cookieacceptlayer
@@ -3175,9 +3167,7 @@
 ###cookieconsentbox
 ###cookieconsentformbox
 ###cookieconsentgreyspace
-###cookieconsentmodal
 ###cookieconsentpopup
-###cookiecontainer
 ###cookiecontent
 ###cookiecontrol
 ###cookiecontrol_notice
@@ -3349,7 +3339,6 @@
 ###cookiepopupbg
 ###cookiepopupdiv
 ###cookiepopupheader
-###cookieprefs
 ###cookieprivacy
 ###cookieprivacy-bar
 ###cookieprompt
@@ -5376,7 +5365,6 @@
 ###js-cookiebar
 ###js-cookielaw-alert
 ###js-cookieloi
-###js-cookienotice
 ###js-cookienotice-spacer
 ###js-cookies-banner
 ###js-cookies-bloc
@@ -6284,7 +6272,6 @@
 ###policy_header
 ###policy_message
 ###policy_notice
-###policy_wrapper
 ###polish-cookie-note
 ###politica-cookies
 ###politica-privacidade-lgpd
@@ -6718,7 +6705,6 @@
 ###rx-cookie-wrapper
 ###rynCookiePolicy
 ###s-avviso-cookie
-###s-cookie
 ###s-ui-cc-container
 ###s-ui-cc-navbar
 ###s1-cookie-banner
@@ -9254,8 +9240,6 @@
 ##.cookie-banner-old
 ##.cookie-banner-outer
 ##.cookie-banner-outer-container
-##.cookie-banner-overlay
-##.cookie-banner-section
 ##.cookie-banner-shadow
 ##.cookie-banner-shroud
 ##.cookie-banner-styr
@@ -10712,7 +10696,6 @@
 ##.cookies-informer
 ##.cookies-informer-section
 ##.cookies-infos
-##.cookies-inner
 ##.cookies-law
 ##.cookies-law-bar
 ##.cookies-law-info
@@ -10770,7 +10753,6 @@
 ##.cookies-overlay-widget
 ##.cookies-overlay__container
 ##.cookies-page-filter
-##.cookies-panel
 ##.cookies-panel-gdpr
 ##.cookies-pdpa
 ##.cookies-policy--active
@@ -10854,11 +10836,6 @@
 ##.cookies.banner
 ##.cookies.bottom
 ##.cookies.callout
-##.cookies.dark
-##.cookies.dialog
-##.cookies.info
-##.cookies.is-open
-##.cookies.is-shown
 ##.cookies.pb-0
 ##.cookies.print-hidden
 ##.cookies.privacyLaw
@@ -12400,7 +12377,6 @@
 ##.js-cookie_bar
 ##.js-cookie_hint
 ##.js-cookie_policy
-##.js-cookiebanner
 ##.js-cookiebanner-wrap
 ##.js-cookiehint
 ##.js-cookieinfolayer
@@ -12968,7 +12944,6 @@
 ##.mod_privacy_optin_medium
 ##.mod_privacy_optin_slim
 ##.modal--cookies-backdrop
-##.modal-accept-cookies
 ##.modal-aviso-cookie
 ##.modal-bannercookies
 ##.modal-cc-cookies
@@ -13139,6 +13114,7 @@
 ##.no--cookie
 ##.no-cookie-consent-warning
 ##.no-cookie-wrapper
+##.non_cookie_consent_wrapper
 ##.normativa-cookies
 ##.notice-cookie
 ##.notice-cookies-horizontal
@@ -13171,10 +13147,6 @@
 ##.notification-layout[ng-class="cookie-bar"]
 ##.notification-widget.cookie
 ##.notification-wrapper-bottom
-##.notification.cookie
-##.notification.cookie-consent
-##.notification.cookies:not(body):not(html)
-##.notification.show-cookie
 ##.notificationBar[data-notification-cookiepolicy]
 ##.notificationPanel--cookieBar
 ##.notification[data-notification="accept-cookies"]
@@ -13630,7 +13602,6 @@
 ##.privacy-init-wall
 ##.privacy-manager__banner
 ##.privacy-manager__overlay
-##.privacy-message-overlay
 ##.privacy-notice--simple
 ##.privacy-notice-background
 ##.privacy-notice-inner
@@ -13910,7 +13881,6 @@
 ##.s--message[class*="cookie-notice"]
 ##.s-10-cookie-consent
 ##.s-app-cookies
-##.s-cookie
 ##.s-cookie-disclaimer
 ##.s-cookie-hint
 ##.s-cookie-notification-bar
@@ -14936,7 +14906,6 @@
 ##aside.bottom-cookies
 ##aside.cookie-banner
 ##aside.cookie-bar
-##aside.cookie-popup
 ##div#ACClayerBackground
 ##div#ACCsmallCookieLayer
 ##div#accept-cookie

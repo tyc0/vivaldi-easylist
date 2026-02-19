@@ -1090,6 +1090,9 @@
 ##.ue-c-newsletter-widget
 ##.vc-email-subscribe__wrapper
 ##.vc_newsletters_subscription
+##.vm-email-signup-form
+##.vm-newsletter-signup-bait
+##.vm-newsletterbribe
 ##.vspl__section--newsletter
 ##.wcpopupmodal-open
 ##.wcpopupmodal-wrapper-open
@@ -1197,6 +1200,8 @@
 ##.markup.body > .subscribe-widget
 ##.pc-reset > ._container_cjrxc_1
 ##.single-post-container > .subscribe-footer
+##article.newsletter-post div[role="dialog"][aria-label="Subscribe modal"]
+##article.newsletter-post div[role="dialog"][aria-label="Subscribe modal"] + div[class^="background-"]
 ! alextimes.com
 ##.cpcta-flyin
 ! nlgate Newsletter

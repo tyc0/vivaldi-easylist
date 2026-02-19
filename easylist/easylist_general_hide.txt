@@ -1266,7 +1266,6 @@
 ###ads-left-top
 ###ads-lrec
 ###ads-main
-###ads-menu
 ###ads-middle
 ###ads-mpu
 ###ads-outer
@@ -1344,7 +1343,6 @@
 ###ads_0_container
 ###ads_160
 ###ads_3
-###ads_300
 ###ads_300x250
 ###ads_4
 ###ads_728
@@ -2033,7 +2031,6 @@
 ###bigsidead
 ###billboard-ad
 ###billboard-atf
-###billboard_ad
 ###bingadcontainer2
 ###blkAds1
 ###blkAds2
@@ -2120,7 +2117,6 @@
 ###bottomAdBlcok
 ###bottomAdContainer
 ###bottomAdSection
-###bottomAdSense
 ###bottomAdSenseDiv
 ###bottomAdWrapper
 ###bottomAds
@@ -3232,7 +3228,6 @@
 ###openx-text-ad
 ###openx-widget
 ###outstream_connatix_container
-###ovadsense
 ###overlay-ad-bg
 ###overlay_ad
 ###overlayad
@@ -3294,7 +3289,6 @@
 ###player_middle_ad
 ###player_top_ad
 ###playerad
-###playerads
 ###pop.div_pop
 ###pop_ad
 ###popadwrap
@@ -3423,14 +3417,12 @@
 ###right-featured-ad
 ###right-rail-ad-slot-content-top
 ###right1-ad
-###right1ad
 ###rightAD
 ###rightAd
 ###rightAd1
 ###rightAdBar
 ###rightAdBlock
 ###rightAdColumn
-###rightAdContainer
 ###rightAdHolder
 ###rightAdUnit
 ###rightAd_rdr
@@ -3472,7 +3464,6 @@
 ###right_top_gad
 ###rightad
 ###rightad1
-###rightad2
 ###rightadBorder
 ###rightadBorder1
 ###rightadBorder2
@@ -3773,7 +3764,6 @@
 ###sponsored_links
 ###sponsored_native_ad
 ###sponsoredad
-###sponsoredads
 ###sponsoredlinks
 ###sponsorfeature
 ###sponsorlink
@@ -3989,7 +3979,6 @@
 ###topad-block
 ###topad-wrap
 ###topad1
-###topad2
 ###topad728
 ###topad_holder
 ###topad_left
@@ -4080,8 +4069,6 @@
 ###videoOverAd300
 ###videoPauseAd
 ###video_adv
-###video_advert
-###video_advert_top
 ###video_embed_ads
 ###video_hor_bot_ads
 ###video_overlay_ad
@@ -4195,7 +4182,6 @@
 ##.AdBody:not(body)
 ##.AdBorder
 ##.AdBottomPage
-##.AdBox
 ##.AdBox160
 ##.AdBox7
 ##.AdBox728
@@ -4477,6 +4463,7 @@
 ##._popIn_recommend_article_ad_reserved
 ##._table_ad_div_wide
 ##.a-ad
+##.a-adhesion
 ##.a-d-250
 ##.a-d-90
 ##.a-dserver
@@ -5099,6 +5086,7 @@
 ##.ad-ldrbrd
 ##.ad-lead
 ##.ad-lead-bottom
+##.ad-lead-magnet
 ##.ad-leader
 ##.ad-leader-board
 ##.ad-leader-bottom
@@ -5650,7 +5638,6 @@
 ##.ad-wrapper-with-text
 ##.ad-wrapper__ad-slug
 ##.ad-xs-title
-##.ad-zone
 ##.ad-zone-ajax
 ##.ad-zone-container
 ##.ad.addon
@@ -5870,7 +5857,6 @@
 ##.adBanner728x90
 ##.adBillboard
 ##.adBkgd
-##.adBlock
 ##.adBlock728
 ##.adBlockBottom
 ##.adBlockSpacer
@@ -5989,6 +5975,7 @@
 ##.adLargeRec
 ##.adLargeRect
 ##.adLat
+##.adLayer
 ##.adLeader
 ##.adLeaderBoard_container
 ##.adLeaderForum
@@ -10810,6 +10797,7 @@
 ##.m-in-content-ad-row
 ##.m-jac-ad
 ##.m-sponsored
+##.m1-ads-placeholder
 ##.m1-header-ad
 ##.m_ad
 ##.m_ad1
@@ -10820,6 +10808,8 @@
 ##.mad_adcontainer
 ##.magAd
 ##.magad
+##.mai-ad-unit-container
+##.mai-ad-video
 ##.main-ad
 ##.main-ad-container
 ##.main-ad-gallery
@@ -12856,10 +12846,6 @@
 ##[data-ad-module]
 ##[data-ad-name]
 ##[data-ad-width]
-##[data-adblockkey]
-##[data-adbridg-ad-class]
-##[data-adshim]
-##[data-advadstrackid]
 ##[data-asg-ins]
 ##[data-block-type="ad"]
 ##[data-cl-spot-id]
@@ -12887,10 +12873,10 @@
 ##[href="//sexcams.plus/"]
 ##[href="https://chaturbate.jjgirls.com/"] > img
 ##[href="https://jdrucker.com/gold"] > img
-##[href="https://ourgoldguy.com/contact/"] img
 ##[href^="http://clicks.totemcash.com/"]
 ##[href^="http://mypillow.com/"] > img
 ##[href^="http://www.mypillow.com/"] > img
+##[href^="https://a.acebet.com/api/click?"]
 ##[href^="https://aads.com/campaigns/"]
 ##[href^="https://ad.admitad.com/"]
 ##[href^="https://ad1.adfarm1.adition.com/"]
@@ -12900,7 +12886,6 @@
 ##[href^="https://awbbjmp.com/"]
 ##[href^="https://charmingdatings.life/"]
 ##[href^="https://clicks.affstrack.com/"] > img
-##[href^="https://cpa.10kfreesilver.com/"]
 ##[href^="https://glersakr.com/"]
 ##[href^="https://go.xlrdr.com"]
 ##[href^="https://groorsoa.net/"]
@@ -12913,7 +12898,6 @@
 ##[href^="https://mypatriotsupply.com/"] > img
 ##[href^="https://mypillow.com/"] > img
 ##[href^="https://mystore.com/"] > img
-##[href^="https://noqreport.com/"] > img
 ##[href^="https://optimizedelite.com/"] > img
 ##[href^="https://rapidgator.net/article/premium/ref/"]
 ##[href^="https://rpwmct.com/"]
@@ -12924,13 +12908,11 @@
 ##[href^="https://url.totaladblock.com/"]
 ##[href^="https://wct.link/click?"]
 ##[href^="https://wsup.ai/"]
-##[href^="https://wwp.hoqodd.com/redirect-zone/"]
 ##[href^="https://www.avantlink.com/click.php"] img
 ##[href^="https://www.brighteonstore.com/products/"] img
 ##[href^="https://www.cloudways.com/en/?id"]
 ##[href^="https://www.herbanomic.com/"] > img
 ##[href^="https://www.hostg.xyz/"] > img
-##[href^="https://www.mypatriotsupply.com/"] > img
 ##[href^="https://www.mypillow.com/"] > img
 ##[href^="https://www.profitablegatecpm.com/"]
 ##[href^="https://www.restoro.com/"]
@@ -12943,43 +12925,30 @@
 ##[id^="div-gpt-ad"]
 ##[id^="section-ad-banner"]
 ##[name^="google_ads_iframe"]
-##[onclick^="location.href='https://1337x.vpnonly.site/"]
 ##a-ad
-##a[data-href^="http://ads.trafficjunky.net/"]
-##a[data-url^="https://vulpix.bet/?ref="]
 ##a[href*=".adsrv.eacdn.com/"]
 ##a[href*=".engine.adglare.net/"]
 ##a[href*=".foxqck.com/"]
 ##a[href*=".g2afse.com/"]
-##a[href*="//daichoho.com/"]
 ##a[href*="//jjgirls.com/sex/Chaturbate"]
 ##a[href*="/jump/next.php?r="]
 ##a[href^=" https://www.friendlyduck.com/AF_"]
-##a[href^="//ejitsirdosha.net/"]
 ##a[href^="//go.eabids.com/"]
 ##a[href^="//hoodingluster.com/"]
 ##a[href^="//s.zlinkd.com/"]
 ##a[href^="//startgaming.net/tienda/" i]
-##a[href^="//stighoazon.com/"]
 ##a[href^="http://adultfriendfinder.com/go/"]
-##a[href^="http://annulmentequitycereals.com/"]
-##a[href^="http://avthelkp.net/"]
 ##a[href^="http://bongacams.com/track?"]
 ##a[href^="http://cam4com.go2cloud.org/aff_c?"]
 ##a[href^="http://com-1.pro/"]
-##a[href^="http://handgripvegetationhols.com/"]
 ##a[href^="http://join.brokestraightboys.com/track/"]
-##a[href^="http://li.blogtrottr.com/click?"]
 ##a[href^="http://partners.etoro.com/"]
-##a[href^="http://premonitioninventdisagree.com/"]
 ##a[href^="http://revolvemockerycopper.com/"]
-##a[href^="http://roadcontagion.com/"]
 ##a[href^="http://sarcasmadvisor.com/"]
 ##a[href^="http://sneakyadministration.com/"]
 ##a[href^="http://stickingrepute.com/"]
 ##a[href^="http://tc.tradetracker.net/"] > img
 ##a[href^="http://trk.globwo.online/"]
-##a[href^="http://troopsassistedstupidity.com/"]
 ##a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="]
 ##a[href^="http://www.friendlyduck.com/AF_"]
 ##a[href^="http://www.h4trck.com/"]
@@ -13008,9 +12977,7 @@
 ##a[href^="https://ads.planetwin365affiliate.com/"]
 ##a[href^="https://adultfriendfinder.com/go/"]
 ##a[href^="https://aj1070.online/"]
-##a[href^="https://ak.oalsauwy.net/"]
 ##a[href^="https://ak.psaltauw.net/"]
-##a[href^="https://ak.stikroltiltoowi.net/"]
 ##a[href^="https://ausoafab.net/"]
 ##a[href^="https://aweptjmp.com/"]
 ##a[href^="https://awptjmp.com/"]
@@ -13031,8 +12998,6 @@
 ##a[href^="https://click.Ggpickaff.com/"]
 ##a[href^="https://click.candyoffers.com/"]
 ##a[href^="https://click.dtiserv2.com/"]
-##a[href^="https://click.ggpickaff.com/"]
-##a[href^="https://click.ggpickyaff.com/"]
 ##a[href^="https://click.hoolig.app/"]
 ##a[href^="https://click.linksynergy.com/fs-bin/"] > img
 ##a[href^="https://clickadilla.com/"]
@@ -13045,9 +13010,6 @@
 ##a[href^="https://ctrdwm.com/"]
 ##a[href^="https://datewhisper.life/"]
 ##a[href^="https://dl-protect.net/"]
-##a[href^="https://drumskilxoa.click/"]
-##a[href^="https://engine.blueistheneworanges.com/"]
-##a[href^="https://engine.flixtrial.com/"]
 ##a[href^="https://engine.phn.doublepimp.com/"]
 ##a[href^="https://explore-site.com/"]
 ##a[href^="https://fc.lc/ref/"]
@@ -13099,18 +13061,13 @@
 ##a[href^="https://join.virtuallust3d.com/"]
 ##a[href^="https://join.virtualtaboo.com/track/"]
 ##a[href^="https://juicyads.in/"]
-##a[href^="https://kiksajex.com/"]
-##a[href^="https://l.hyenadata.com/"]
 ##a[href^="https://landing.brazzersnetwork.com/"]
 ##a[href^="https://lead1.pl/"]
 ##a[href^="https://lijavaxa.com/"]
 ##a[href^="https://lnkxt.bannerator.com/"]
 ##a[href^="https://loboclick.com/"]
-##a[href^="https://lone-pack.com/"]
 ##a[href^="https://losingoldfry.com/"]
-##a[href^="https://maymooth-stopic.com/"]
 ##a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"]
-##a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"]
 ##a[href^="https://mmwebhandler.aff-online.com/"]
 ##a[href^="https://myclick-2.com/"]
 ##a[href^="https://natour.naughtyamerica.com/track/"]
@@ -13126,21 +13083,19 @@
 ##a[href^="https://prf.hn/click/"][href*="/adref:"] > img
 ##a[href^="https://prf.hn/click/"][href*="/camref:"] > img
 ##a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img
-##a[href^="https://promerycergerful.com/"]
 ##a[href^="https://pubads.g.doubleclick.net/"]
 ##a[href^="https://quotationfirearmrevision.com/"]
 ##a[href^="https://random-affiliate.atimaze.com/"]
 ##a[href^="https://rixofa.com/"]
 ##a[href^="https://s.cant3am.com/"]
-##a[href^="https://s.deltraff.com/"]
 ##a[href^="https://s.eunow4u.com/"]
 ##a[href^="https://s.ma3ion.com/"]
-##a[href^="https://s.optzsrv.com/"]
 ##a[href^="https://s.zlink3.com/"]
 ##a[href^="https://s.zlink7.com/"]
 ##a[href^="https://s.zlinkd.com/"]
 ##a[href^="https://s.zlinkn.com/"]
 ##a[href^="https://s.zlinkr.com/"]
+##a[href^="https://s.zlinkt.com/"]
 ##a[href^="https://serve.awmdelivery.com/"]
 ##a[href^="https://service.bv-aff-trx.com/"]
 ##a[href^="https://sexynearme.com/"]
@@ -13153,14 +13108,12 @@
 ##a[href^="https://syndicate.contentsserved.com/"]
 ##a[href^="https://syndication.dynsrvtbg.com/"]
 ##a[href^="https://syndication.exoclick.com/"]
-##a[href^="https://syndication.optimizesrv.com/"]
 ##a[href^="https://t.acam.link/"]
 ##a[href^="https://t.adating.link/"]
 ##a[href^="https://t.ajrkm1.com/"]
 ##a[href^="https://t.ajrkm3.com/"]
 ##a[href^="https://t.ajump1.com/"]
 ##a[href^="https://t.aslnk.link/"]
-##a[href^="https://t.hrtye.com/"]
 ##a[href^="https://tatrck.com/"]
 ##a[href^="https://tc.tradetracker.net/"] > img
 ##a[href^="https://tm-offers.gamingadult.com/"]
@@ -13177,13 +13130,10 @@
 ##a[href^="https://traffdaq.com/"]
 ##a[href^="https://trk.nfl-online-streams.club/"]
 ##a[href^="https://trk.softonixs.xyz/"]
-##a[href^="https://turnstileunavailablesite.com/"]
 ##a[href^="https://twinrdsrv.com/"]
 ##a[href^="https://twinrdsyte.com/"]
 ##a[href^="https://upsups.click/"]
-##a[href^="https://vo2.qrlsx.com/"]
 ##a[href^="https://voluum.prom-xcams.com/"]
-##a[href^="https://witnessjacket.com/"]
 ##a[href^="https://wittered-mainging.com/"]
 ##a[href^="https://wmctjd.com/"]
 ##a[href^="https://www.adskeeper.com"]
@@ -13196,7 +13146,6 @@
 ##a[href^="https://www.dating-finder.com/signup/?ai_d="]
 ##a[href^="https://www.dql2clk.com/"]
 ##a[href^="https://www.effectiveratecpm.com/"]
-##a[href^="https://www.endorico.com/Smartlink/"]
 ##a[href^="https://www.financeads.net/tc.php?"]
 ##a[href^="https://www.friendlyduck.com/AF_"]
 ##a[href^="https://www.geekbuying.com/dynamic-ads/"]
@@ -13212,7 +13161,6 @@
 ##a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="]
 ##a[href^="https://www.toprevenuegate.com/"]
 ##a[href^="https://www8.smartadserver.com/"]
-##a[href^="https://xbet-4.com/"]
 ##a[href^="https://zirdough.net/"]
 ##a[onclick^="window.location.replace('https://random-affiliate.atimaze.com/"]
 ##a[style="width:100%;height:100%;z-index:10000000000000000;position:absolute;top:0;left:0;"]
@@ -13273,6 +13221,31 @@
 ##span[id^="ezoic-pub-ad-placeholder-"]
 ##topadblock
 ##zeus-ad
+! katv.com/cbs12.com/abergavennychronicle.com/tenby-today.co.uk
+##.DisplayAd_Native__XCll3
+##.MPUstyled__MPUWrapper-sc-100o0l7-0
+##.MPUstyled__MPUWrapper-sc-1cdmm4p-0
+##.PrimisMidArticleAdUnit_desktop__dq_iB
+##.RightRailPanelAd_noPanelSmall__7yQ1M
+##.RightRailTrendingAd_nativeAdWrapper__dxc78
+##.SideBarstyled__SideBarMpuWrapper-sc-g4r51i-2
+##.StoryPage_storyTopAdContainer__6udZ0
+##.TaboolaMoreToExplore_taboolaContainerWrapper__Ccf_j
+##.TopBannerstyled__Wrapper-sc-x2ypns-0
+! ACM Media https://acm.media/brands/non-dailies/
+###billboard-container.bg-gray-100.py-3
+###main-side-container.bg-gray-100.space-y-2
+###mrec-297631-container
+###mrec-leaderboard-298545-container
+###newswell-leaderboard-container
+###newswell-side-1-container
+###newswell-side-2-container
+###story-side-1-container.min-w-mrec
+###story-side-2-container.min-w-mrec
+###story3-container.py-2.bg-gray-100
+###story4-container.py-2.bg-gray-100
+###story5-container.py-2.bg-gray-100
+##div[id^="mrec-leaderboard-"]
 ! newspack.com (noozhawk.com)
 ##.bs-sneaker-container
 ##.newspack-broadstreet-ad

@@ -22,7 +22,6 @@ guloggratis.dk#@##adcontent
 jardinsdubreil.fr#@##adhesion
 ads.nipr.ac.jp#@##ads-header
 miuithemers.com#@##ads-left
-ads.nipr.ac.jp#@##ads-menu
 finvtech.com,herstage.com,sportynew.com,travel13.com#@##ads-wrapper
 mafagames.com,telkomsel.com#@##adsContainer
 video.tv-tokyo.co.jp,zeirishi-web.com#@##adspace
@@ -36,6 +35,7 @@ wsj.com#@##footer-ads
 maxelevator.com,mcp79.com,olliemagic.com,stove-chijo.com#@##footer_ad
 deepgoretube.site,lewdgames.to#@##fwdevpDiv0
 developers.google.com#@##google-ads
+renso-ruigo.com#@##header-ad
 plaza.rakuten.co.jp#@##headerAd
 airplaydirect.com,zeirishi-web.com#@##header_ad
 665.jp#@##leftad
@@ -51,7 +51,7 @@ lexicanum.com#@##sidebar-ad
 mars.video#@##stickyads
 indianexpress.com,jansatta.com#@##taboola-below-article-1
 azclick.jp,tubefilter.com#@##topAd
-soundandvision.com,stereophile.com#@##topbannerad
+analogplanet.com,hifichoice.com,hifinews.com,homecinemachoice.com,shutterbug.com,soundandvision.com,stereophile.com#@##topbannerad
 gamingcools.com#@#.Adsense
 m.motonet.fi#@#.ProductAd
 flightview.com#@#.ad-160-600
@@ -89,7 +89,6 @@ job.inshokuten.com#@#.ad-title
 gov.uk,videosalon.jp#@#.ad-widget
 dailysportscar.com,honor.com#@#.ad-wrap:not(#google_ads_iframe_checktag)
 lifeinvader.com,marginalreport.net,spanishdict.com,studentski-servis.com#@#.ad-wrapper
-xda-developers.com#@#.ad-zone
 xda-developers.com#@#.ad-zone-container
 wordparts.ru#@#.ad336
 leffatykki.com#@#.ad728x90
@@ -133,6 +132,9 @@ ascii.jp#@#.adrect
 epawaweather.com#@#.adrow
 gemini.yahoo.com#@#.ads
 in.fo,moovitapp.com#@#.ads-banner
+amtrak.com#@#.ads-block
+amtrak.com#@#.ads-border
+amtrak.com#@#.ads-box-border
 bdsmlr.com#@#.ads-container
 happyend.life#@#.ads-core-placer
 ads.nipr.ac.jp,burzahrane.hr#@#.ads-header
@@ -222,11 +224,11 @@ vukajlija.com#@#.large-advert
 realgfporn.com#@#.large-right-ad
 smart-flash.jp#@#.leftAds
 atea.com,ateadirect.com,knowyourmobile.com,nlk.org.np#@#.logo-ad
-insideevs.com#@#.m1-header-ad
 doda.jp,tubefilter.com#@#.mainAd
 austurfrett.is,boards.4chan.org,boards.4channel.org#@#.middlead
 thespruce.com#@#.mntl-leaderboard-spacer
 sankei.com#@#.module_ad
+msn.com#@#.native-ad
 seura.fi,www.msn.com#@#.nativead
 platform.liquidus.net#@#.nav_ad
 dogva.com#@#.node-ad
@@ -286,7 +288,7 @@ dr.dk,smartadserver.de#@#a[href*=".smartadserver.com"]
 slickdeals.net#@#a[href*="adzerk.net"]
 sweetdeals.com#@#a[href*="https://www.sweetdeals.com/"] img
 legacy.com#@#a[href^="http://pubads.g.doubleclick.net/"]
-canstar.com.au,mail.yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
+canstar.com.au,mail.yahoo.com,trulia.com#@#a[href^="https://ad.doubleclick.net/"]
 cars.com#@#a[href^="https://adclick.g.doubleclick.net/"]
 badoinkvr.com#@#a[href^="https://badoinkvr.com/"]
 xbdeals.net#@#a[href^="https://click.linksynergy.com/"]
@@ -309,7 +311,6 @@ forums.overclockers.ru#@#div[id^="yandex_ad"]
 si.com#@##mplayer-embed
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com#@#.ac-widget-placeholder
 carbuzz.com,screenrant.com,xda-developers.com#@#.ad-current
-carbuzz.com,screenrant.com#@#.ad-zone
 carbuzz.com,screenrant.com#@#.ad-zone-container
 screenrant.com,xda-developers.com#@#.adsninja-ad-zone
 adamtheautomator.com,laurelberninteriors.com,mediaite.com,packhacker.com,packinsider.com#@#.adthrive
@@ -318,6 +319,7 @@ laurelberninteriors.com,mediaite.com,packhacker.com,packinsider.com#@#.adthrive-
 click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls.com#@#.anyClipWrapper
 accuweather.com,cheddar.tv,deadline.com,elnuevoherald.com,heraldsun.com,olhardigital.com.br,tvinsider.com#@#.cnx-player-wrapper
 huffpost.com#@#.connatix-wrapper
+gbnews.com#@#.primis-wrapper
 carbuzz.com,screenrant.com#@#.w-adsninja-video-player
 !! ins.adsbygoogle
 advancedrenamer.com,androidrepublic.org,anonymousemail.me,apkmirror.com,cdromance.com,demos.krajee.com,epicbundle.com,korail.pe.kr,nextbigtrade.com,phcorner.net,pixiz.com,skmedix.pl,spoilertv.com,willyoupressthebutton.com#@#ins.adsbygoogle[data-ad-client]

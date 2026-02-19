@@ -22,10 +22,13 @@ freedert.online,rtde.tech##.Subscription-isReact
 studysmarter.de##.ab-feature-popup
 ecomento.de##.aff-cta-sidebar-wrap
 ecomento.de##.after-post-sharing
+9monate.de,gesundheit.de##.areas-newsletter
+freitag.de##.bc-newsletter--container
 finom.co##.blog-subscribe-banner
 sn.at##.box-emarsys
 gewinnspiele-markt.de##.box-nl
 welt.de##.c-oembed
+krone.at##.c_newsletter-signup-new
 bluray-disc.de##.daily-newsletter-anmeldung_r
 elektroauto-news.net##.elementor-element-b0ed665
 it-boltwise.de##.footer-subscribe
@@ -35,9 +38,13 @@ it-daily.net##.itd-nl-box
 muenchen.de##.m-newsletter-registration
 yogaworld.de##.mailpoet_form
 yogaworld.de##.mailpoet_form_popup_overlay
+donna-magazin.de##.newsletter-cta-container
 tageblatt.lu##.newsletter-first
 diepresse.com##.newsletter-form--article
+cicero.de##.newsletter-form-small
 lto.de##.newsletter-layer
+schlager.de##.newsletter-sec
+nius.de##.newsletter_container__V0W90
 mt.de##.newsletteranmeldung
 ukraine-nachrichten.de##.newslettereinblendung
 krone.at##.nl-footer
@@ -50,6 +57,7 @@ herz-fuer-tiere.de##.promo__newsletter
 laendlejob.at##.reveal-modal
 laendlejob.at##.reveal-modal-bg
 weinkenner.de##.sib_signup_form
+cicero.de##.signup-newsletter-small
 agrarheute.com##.single-newsletter
 michaelsbund.de##.slide-in-position-container
 netzwelt.de##.subscribeboard
@@ -83,6 +91,7 @@ citoyens.com###nlsubscribe
 croq-kilos.com###popinCK
 sanctuary.fr###popup_actu
 la-croix.com###showAutoPromoReasons
+inc-conso.fr###sliding-popup-news
 brgm.fr###spb-block-popinnewsletter
 zdnet.fr###zdnet_newsletter_inread
 lopinion.fr##.PromoFooter
@@ -110,6 +119,7 @@ toutelanutrition.com##.musthave-right
 lorientlejour.com##.newsletter-box-container
 toulouscope.fr##.newsletter-popin-overlay
 lematin.ma##.newsletterPopupBtn
+leguidedufromage.com##.newsletter_subscribeme
 closermag.fr##.newsletter_widget
 repasdelice.com##.newslettreastuce
 leparisien.fr##.nl-article-card
@@ -140,6 +150,9 @@ tdg.ch##section[class^="NewsletterBox_"]
 ! Czech
 portal.rozhlas.cz###cro-common-newsletter-ecomail-entityform-edit-form
 signalfestival.com##.drawer--newsletter
+! Afrikaans
+nuusflits.com###nuusbrief-anchor
+nuusflits.com###tuis-nuusbrief
 ! Arabic
 nabd.com###news-letter-pop
 alaraby.co.uk##.block-custom-mailchimp-subscription
@@ -209,9 +222,11 @@ deondernemer.nl##[id^="newsletter_"]
 id.nl##div[class*="newsletter_content-side_"]
 ! Finnish
 siitepolytieto.fi###campaignPopup
+jarviseudunsanomat.fi###main .gb-container:has(> a[href="https://www.jarviseudunsanomat.fi/tilaa-uutiskirje/"])
 mobiili.fi###text-61
 tempodent.fi###wpfront-notification-bar-spacer
 careofcarl.fi##.blogginlagg_nyhetsbrev
+jarviseudunsanomat.fi##.gb-button[href="https://www.jarviseudunsanomat.fi/tilaa-uutiskirje/"]
 tyyliniekka.fi##.hustle-popup
 iltalehti.fi##.newsletter-popup-elements
 metsalehti.fi##.subscribe-newsletter_wrapper
@@ -240,7 +255,6 @@ dilei.it,quifinanza.it###box_newsletter
 diritto.it,leggioggi.it,rollingstone.it###exitpopup-modal
 financecommunity.it###footernews
 ilfattoalimentare.it###frm-mltchnl
-pagamentidigitali.it###hs-web-interactives-bottom-anchor
 hdblog.it,hdmotori.it###modal
 mag1861.it###newsletter-footer-form
 hdblog.it,hdmotori.it###overlay
@@ -312,6 +326,8 @@ auto.it##div[class^="ModalNewsletter_"]
 ilgiorno.it,ilrestodelcarlino.it,iltelegrafolivorno.it,lanazione.it,quotidiano.net##div[class^="Newsletter_"]
 ! Japanese
 bluetti.jp###dynamic-react-root + div:has(> div.needsclick input[id^="email_"])
+hotokami.jp###half-fixed-modal-visibled
+hotokami.jp##.bg-teal-500[href^="/subscription/landing_page/benefit"][onclick]
 product.minebeamitsumi.com##.bottom-popup
 rocket-boys.co.jp##.fixed-bottom
 domani.shogakukan.co.jp##.mailmagazine_area
@@ -452,6 +468,7 @@ tonica.la##.suscribevertical
 todomecanica.com##.suscripcion
 telva.com##.ue-c-nl-banner
 elmundo.es##.ue-l-article__newsletter-widget
+elpais.com##.w-fid
 oem.com.mx##.widget-newsletter-default_newsletter__qKuNL
 expansion.mx##.widgetMC
 ipmark.com##.woo-login-popup-sc-modal
